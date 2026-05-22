@@ -4,7 +4,7 @@
 
 Odpisy jsou jedním z nejdůležitějších institutů daně z příjmů a zároveň jedním z nejtechničtějších. Pořídí-li poplatník majetek dlouhodobé povahy (stroj, budovu, automobil), nemůže jeho pořizovací cenu uplatnit do daňových výdajů jednorázově v roce pořízení. Zákon naopak vyžaduje, aby se tato cena rozložila do nákladů (výdajů) postupně, v čase, po předepsanou dobu. Toto rozkládání vstupní ceny do daňově uznatelných výdajů se nazývá **odpisování** a jednotlivé roční částky **odpisy**. Daňové odpisy jsou typickým výdajem podle → § 24 odst. 2 písm. a) a navazují na obecný zákaz uplatnit pořizovací cenu hmotného majetku jednorázově (→ § 25 odst. 1 písm. a).
 
-Odpisy upravené v § 26 až § 33a jsou **daňové** odpisy. Ty je nutné důsledně odlišovat od **účetních** odpisů podle [[zákona č. 563/1991 Sb., o účetnictví]] a prováděcích vyhlášek (zejm. vyhl. č. 500/2002 Sb.). Účetní odpis vyjadřuje skutečné opotřebení majetku tak, aby účetnictví podávalo věrný a poctivý obraz; jeho výši, metodu i dobu si účetní jednotka stanoví sama v odpisovém plánu. Daňový odpis je naproti tomu **paušalizovaný a normativní** — zákon předepisuje minimální doby odpisování, maximální roční sazby a koeficienty. Účetní a daňový odpis se proto u poplatníků vedoucích účetnictví zpravidla **liší** a rozdíl mezi nimi je nutné mimoúčetně vypořádat v základu daně (→ § 23 odst. 2 a 3). U poplatníků fyzických osob, kteří účetnictví nevedou (daňová evidence podle → § 7b, evidence nájmu podle → § 9 odst. 6), je daňový odpis jediným odpisem, který se uplatňuje.
+Odpisy upravené v § 26 až § 33a jsou **daňové** odpisy. Ty je nutné důsledně odlišovat od **účetních** odpisů podle zákona č. 563/1991 Sb., o účetnictví, a prováděcích vyhlášek (zejm. vyhl. č. 500/2002 Sb.). Účetní odpis vyjadřuje skutečné opotřebení majetku tak, aby účetnictví podávalo věrný a poctivý obraz; jeho výši, metodu i dobu si účetní jednotka stanoví sama v odpisovém plánu. Daňový odpis je naproti tomu **paušalizovaný a normativní** — zákon předepisuje minimální doby odpisování, maximální roční sazby a koeficienty. Účetní a daňový odpis se proto u poplatníků vedoucích účetnictví zpravidla **liší** a rozdíl mezi nimi je nutné mimoúčetně vypořádat v základu daně (→ § 23 odst. 2 a 3). U poplatníků fyzických osob, kteří účetnictví nevedou (daňová evidence podle → § 7b, evidence nájmu podle → § 9 odst. 6), je daňový odpis jediným odpisem, který se uplatňuje.
 
 **Co se odpisuje.** Předmětem daňového odpisování je **hmotný majetek** vymezený v § 26 odst. 2 — především samostatné hmotné movité věci se vstupní cenou nad **80 000 Kč** a provozně-technickými funkcemi delšími než jeden rok, dále budovy, stavby, jednotky, pěstitelské celky trvalých porostů, dospělá zvířata nad 80 000 Kč a tzv. *jiný majetek* (§ 26 odst. 3 — zejména samostatně evidované technické zhodnocení). Pozor: ZDP **nevymezuje** kategorii „nehmotný majetek" pro daňové odpisování — § 32a, který nehmotný majetek dříve upravoval, byl zrušen a daňový režim nehmotného majetku se dnes odvíjí od účetnictví (viz výklad níže).
 
@@ -63,18 +63,28 @@ Odpisy upravené v § 26 až § 33a jsou **daňové** odpisy. Ty je nutné důsl
 
 <details><summary>📜 <b>Text § 26</b></summary>
 
+> ### § 26
+>
 > (1) Odpisy se stanoví pro účely tohoto zákona podle § 30, 30a, § 31 nebo § 32 z hmotného majetku, s výjimkou uvedenou v § 27.
 >
 > (2) Hmotným majetkem se pro účely tohoto zákona rozumí
 >
 > - a) samostatné hmotné movité věci, popřípadě soubory hmotných movitých věcí se samostatným technicko-ekonomickým určením, jejichž vstupní cena (§ 29) je vyšší než 80 000 Kč a mají provozně-technické funkce delší než jeden rok,
+>
 > - b) budovy, domy a jednotky,
+>
 > - c) stavby, s výjimkou
->   - 1. provozních důlních děl,
->   - 2. drobných staveb na pozemcích určených k plnění funkcí lesa, sloužících k zajišťování provozu lesních školek nebo k provozování myslivosti, pokud jejich zastavěná plocha nepřesahuje 30 m2 a výšku 5 m,
->   - 3. oplocení sloužícího k zajišťování lesní výroby a myslivosti, které je drobnou stavbou,
+>
+> - 1. provozních důlních děl,
+>
+> - 2. drobných staveb na pozemcích určených k plnění funkcí lesa, sloužících k zajišťování provozu lesních školek nebo k provozování myslivosti, pokud jejich zastavěná plocha nepřesahuje 30 m2 a výšku 5 m,
+>
+> - 3. oplocení sloužícího k zajišťování lesní výroby a myslivosti, které je drobnou stavbou,
+>
 > - d) pěstitelské celky trvalých porostů s dobou plodnosti delší než tři roky vymezené v odstavci 9,
-> - e) dospělá zvířata a jejich skupiny, jejichž vstupní cena (§ 29) je vyšší než 80 000 Kč,
+>
+> - e) dospělá zvířata a jejich skupiny20), jejichž vstupní cena (§ 29) je vyšší než 80 000 Kč,
+>
 > - f) jiný majetek vymezený v odstavci 3.
 >
 > Hmotným majetkem pro účely tohoto zákona však nejsou zásoby. Za samostatné hmotné movité věci se považují také výrobní zařízení, jakož i zařízení a předměty sloužící k provozování služeb (výkonů) a účelová zařízení a předměty, která s budovou nebo se stavbou netvoří jeden funkční celek, i když jsou s ní pevně spojeny. Souborem hmotných movitých věcí se samostatným technicko-ekonomickým určením se rozumí dílčí část výrobního či jiného celku. Soubor hmotných movitých věcí je nutné evidovat zvlášť tak, aby byly zajištěny průkazné technické i hodnotové údaje o jednotlivých věcech zařazených do souboru, určení hlavního funkčního předmětu a o všech změnách souboru (přírůstky, úbytky) včetně údajů o datu změny, rozsahu změny, vstupních cenách jednotlivých přírůstků nebo úbytků, celkové ceny souboru věcí a dále částky odpisů včetně jejich změn vyplývajících ze změny vstupní ceny souboru hmotných movitých věcí. Soubor hmotných movitých věcí se zařazuje do odpisové skupiny podle hlavního funkčního předmětu.
@@ -82,8 +92,11 @@ Odpisy upravené v § 26 až § 33a jsou **daňové** odpisy. Ty je nutné důsl
 > (3) Jiným majetkem se pro účely tohoto zákona rozumí
 >
 > - a) technické zhodnocení a výdaje na otvírky nových lomů, pískoven a hlinišť, pokud nezvyšuje vstupní cenu a zůstatkovou cenu hmotného majetku, s výjimkou uvedenou v § 29 odst. 1 písm. f),
-> - b) technické rekultivace, pokud zvláštní zákon nestanoví jinak,
-> - c) výdaje hrazené uživatelem, které podle zvláštních předpisů nebo podle daňové evidence tvoří součást ocenění hmotného majetku, který je předmětem finančního leasingu, a které v úhrnu se sjednanou kupní cenou ve smlouvě převýší u movitého majetku hodnotu 80 000 Kč,
+>
+> - b) technické rekultivace, pokud zvláštní zákon nestanoví jinak,29b)
+>
+> - c) výdaje hrazené uživatelem, které podle zvláštních předpisů20) nebo podle daňové evidence tvoří součást ocenění hmotného majetku, který je předmětem finančního leasingu, a které v úhrnu se sjednanou kupní cenou ve smlouvě převýší u movitého majetku hodnotu 80 000 Kč,
+>
 > - d) právo stavby u poplatníka, který nevede účetnictví.
 >
 > (4) Je-li majetek ve spoluvlastnictví, pak pro posouzení toho, zda dosáhl vstupní ceny uvedené v odstavci 2, je rozhodující vstupní cena, která se rovná součtu hodnot spoluvlastnických podílů u jednotlivých spoluvlastníků, a nikoliv vstupní cena jednotlivého spoluvlastnického podílu.
@@ -95,22 +108,31 @@ Odpisy upravené v § 26 až § 33a jsou **daňové** odpisy. Ty je nutné důsl
 > (7) Odpis pouze ve výši jedné poloviny ročního odpisu vypočteného podle § 31 a 32 lze uplatnit
 >
 > - a) z hmotného majetku evidovaného u poplatníka na počátku příslušného zdaňovacího období, dojde-li v průběhu zdaňovacího období
->   - 1. k vyřazení majetku před koncem zdaňovacího období, pokud již v průběhu zdaňovacího období nebyl uplatněn odpis podle bodů 2 a 3,
->   - 2. k převedení majetku na jiné právnické nebo fyzické osoby podle zvláštních právních předpisů, který je evidován u poplatníka k datu předcházejícímu dni převodu majetku,
->   - 3. k ukončení činnosti, ze které plyne příjem ze samostatné činnosti, nebo k ukončení nájmu, přeměně, zrušení bez likvidace, zániku bez likvidace, zrušení s likvidací, účinkům rozhodnutí o úpadku nebo k přechodu oprávnění nakládat s majetkem náležejícím do majetkové podstaty z insolvenčního správce na daňový subjekt nebo opačně […],
->   - 4. k ukončení nájemního vztahu při odpisování technického zhodnocení nájemcem (§ 28 odst. 3) nebo při ukončení výpůjčky movitého hmotného majetku (§ 28 odst. 4),
-> - b) z hmotného majetku nabytého v průběhu zdaňovacího období a evidovaného u poplatníka na konci zdaňovacího období, u něhož poplatník pokračuje v odpisování započatém původním odpisovatelem podle § 30 odst. 10 nebo který odpisuje podle § 30c odst. 2, a z hmotného movitého majetku, k němuž poplatník nabyl vlastnické právo v průběhu zdaňovacího období splněním dluhu, který byl zajištěn převodem práva, a má tento majetek evidován na konci zdaňovacího období,
-> - c) z hmotného majetku evidovaného po celé zdaňovací období u poplatníka, u něhož v průběhu zdaňovacího období nastaly účinky rozhodnutí o úpadku nebo došlo k přechodu oprávnění nakládat s majetkem náležejícím do majetkové podstaty […] anebo který v průběhu zdaňovacího období vstoupil do likvidace,
-> - d) z hmotného majetku evidovaného u poplatníka uvedeného v § 17 za zdaňovací období vymezené v § 21a písm. c), je-li toto zdaňovací období kratší než dvanáct měsíců nepřetržitě po sobě jdoucích; […]
 >
-> Ustanovení tohoto odstavce se použije přiměřeně, dojde-li v průběhu zdaňovacího období ke změně daňového rezidenství poplatníka z České republiky do zahraničí nebo ke změně právní formy […].
+> - 1. k vyřazení majetku před koncem zdaňovacího období, pokud již v průběhu zdaňovacího období nebyl uplatněn odpis podle bodů 2 a 3,
+>
+> - 2. k převedení majetku na jiné právnické nebo fyzické osoby podle zvláštních právních předpisů,29a) který je evidován u poplatníka k datu předcházejícímu dni převodu majetku,
+>
+> - 3. k ukončení činnosti, ze které plyne příjem ze samostatné činnosti, nebo k ukončení nájmu, přeměně, zrušení bez likvidace, zániku bez likvidace, zrušení s likvidací, účinkům rozhodnutí o úpadku nebo k přechodu oprávnění nakládat s majetkem náležejícím do majetkové podstaty z insolvenčního správce na daňový subjekt nebo opačně z majetku evidovaného ke dni ukončení činnosti, ze které plyne příjem ze samostatné činnosti, ke dni ukončení nájmu, ke dni předcházejícímu rozhodný den fúze, převodu jmění na společníka nebo rozdělení obchodní korporace a v ostatních případech zrušení bez likvidace ke dni předcházejícímu den zániku, ke dni předcházejícímu první den hospodářského roku nebo kalendářního roku při změně účetního období, ke dni předcházejícímu den vstupu do likvidace nebo ke dni předcházejícímu den, ke kterému nastanou účinky rozhodnutí o úpadku, nebo den přechodu oprávnění nakládat s majetkem náležejícím do majetkové podstaty z insolvenčního správce na daňový subjekt nebo opačně. Obdobně postupuje poplatník uvedený v § 2, který v průběhu zdaňovacího období přerušil činnost, ze které plyne příjem ze samostatné činnosti, nebo nájem a tuto činnost nezahájil do termínu pro podání daňového přiznání za příslušné zdaňovací období, ve kterém byla činnost přerušena,
+>
+> - 4. k ukončení nájemního vztahu při odpisování technického zhodnocení nájemcem (§ 28 odst. 3) nebo při ukončení výpůjčky movitého hmotného majetku (§ 28 odst. 4),
+>
+> - b) z hmotného majetku nabytého v průběhu zdaňovacího období a evidovaného u poplatníka na konci zdaňovacího období, u něhož poplatník pokračuje v odpisování započatém původním odpisovatelem podle § 30 odst. 10 nebo který odpisuje podle § 30c odst. 2, a z hmotného movitého majetku, k němuž poplatník nabyl vlastnické právo v průběhu zdaňovacího období splněním dluhu, který byl zajištěn převodem práva, a má tento majetek evidován na konci zdaňovacího období,
+>
+> - c) z hmotného majetku evidovaného po celé zdaňovací období u poplatníka, u něhož v průběhu zdaňovacího období nastaly účinky rozhodnutí o úpadku nebo došlo k přechodu oprávnění nakládat s majetkem náležejícím do majetkové podstaty z insolvenčního správce na daňový subjekt a opačně anebo který v průběhu zdaňovacího období vstoupil do likvidace,
+>
+> - d) z hmotného majetku evidovaného u poplatníka uvedeného v § 17 za zdaňovací období vymezené v § 21a písm. c), je-li toto zdaňovací období kratší než dvanáct měsíců nepřetržitě po sobě jdoucích; toto se nepoužije u hmotného majetku zaevidovaného u poplatníka v průběhu tohoto zdaňovacího období nebo v průběhu části zdaňovacího období předcházející tomuto zdaňovacímu období, za kterou se podává daňové přiznání podle § 38ma odst. 1 písm. a).
+>
+> Ustanovení tohoto odstavce se použije přiměřeně, dojde-li v průběhu zdaňovacího období ke změně daňového rezidenství poplatníka z České republiky do zahraničí nebo ke změně právní formy veřejné obchodní společnosti nebo komanditní společnosti na jinou obchodní korporaci a akciové společnosti nebo společnosti s ručením omezeným anebo družstva na veřejnou obchodní společnost nebo komanditní společnost.
 >
 > (8) Odpisy pro účely zákona není poplatník povinen uplatnit, přitom odpisování lze i přerušit, ale při dalším odpisování je nutné pokračovat způsobem, jako by odpisování přerušeno nebylo, a to za podmínky, že v době přerušení neuplatní poplatník (vlastník ani nájemce) výdaje paušální částkou podle § 7 nebo § 9. Pokud poplatník (vlastník nebo nájemce) uplatní výdaje paušální částkou nebo je jeho daň rovna paušální dani, nelze za toto zdaňovací období uplatnit odpisy v prokázané výši ani o tuto dobu prodloužit odpisování pro daňové účely. Po dobu uplatňování výdajů paušální částkou a ve zdaňovacím období, za které je jeho daň rovna paušální dani, vede poplatník (vlastník nebo nájemce) odpisy pouze evidenčně.
 >
 > (9) Pěstitelskými celky trvalých porostů s dobou plodnosti delší než tři roky se podle odstavce 2 rozumějí
 >
 > - a) ovocné stromy vysázené na souvislém pozemku o výměře nad 0,25 ha v hustotě nejméně 90 stromů na 1 ha,
+>
 > - b) ovocné keře vysázené na souvislém pozemku o výměře nad 0,25 ha v hustotě nejméně 1000 keřů na 1 ha,
+>
 > - c) chmelnice a vinice.
 >
 > (10) Hmotným majetkem se stávají věci uvedené do stavu způsobilého obvyklému užívání, kterým se rozumí dokončení věci a splnění technických funkcí a povinností stanovených zvláštními právními předpisy pro užívání.
@@ -236,40 +258,54 @@ Tato konstrukce umožňuje nájemcům uplatnit investice do cizích prostor. Př
 
 <details><summary>📜 <b>Text § 29</b></summary>
 
+> ### § 29
+>
 > (1) Vstupní cenou hmotného majetku se rozumí
 >
-> - a) pořizovací cena, je-li pořízen úplatně. […] U movitého majetku, který poplatník uvedený v § 2 pořídil úplatně v době delší než 1 rok před vložením do obchodního majetku nebo v době delší než 1 rok před zahájením nájmu, je vstupní cenou cena podle písmene d) s výjimkou majetku nabytého formou finančního leasingu,
-> - b) vlastní náklady, je-li pořízen nebo vyroben ve vlastní režii. […]
+> - a) pořizovací cena,31) je-li pořízen úplatně. Při odkoupení najatého majetku, u něhož nájemce odpisoval technické zhodnocení podle § 28 odst. 3, je součástí vstupní ceny, s výjimkou uvedenou v odstavci 4, i zůstatková cena tohoto technického zhodnocení. Nejsou-li při bezprostředním úplatném nabytí hmotného majetku po ukončení úplatného užívání dodrženy podmínky uvedené v § 24 odst. 4 nebo odst. 5, lze do vstupní ceny zahrnout úplatu za užívání, která byla uhrazena do data ukončení smlouvy a nebyla výdajem (nákladem) podle § 24; přitom u poplatníka, který nevede účetnictví, lze do vstupní ceny zahrnout i zálohy na úplatu za užívání do data ukončení smlouvy. U nemovitého majetku, který poplatník uvedený v § 2 pořídil úplatně v době delší než 5 let před jeho vložením do obchodního majetku nebo v době delší než 5 let před zahájením nájmu, cena podle písmene d). U nemovitého majetku, který poplatník uvedený v § 2 pořídil úplatně v době kratší než 5 let před jejich vložením do obchodního majetku nebo v době kratší než 5 let před zahájením nájmu, se pořizovací cena zvyšuje o náklady prokazatelně vynaložené na jejich opravy a technické zhodnocení. U movitého majetku, který poplatník uvedený v § 2 pořídil úplatně v době delší než 1 rok před vložením do obchodního majetku nebo v době delší než 1 rok před zahájením nájmu, je vstupní cenou cena podle písmene d) s výjimkou majetku nabytého formou finančního leasingu,
+>
+> - b) vlastní náklady,31) je-li pořízen nebo vyroben ve vlastní režii. Toto ustanovení se použije i u poplatníků, kteří nevedou účetnictví. U nemovitých věcí, které poplatník uvedený v § 2 pořídil nebo vyrobil ve vlastní režii v době delší než 5 let před jejich vložením do obchodního majetku nebo v době delší než 5 let před zahájením nájmu, cena podle písmene d). U nemovitých věcí, které poplatník uvedený v § 2 pořídil nebo vyrobil ve vlastní režii v době kratší než 5 let před jejich vložením do obchodního majetku nebo v době kratší než 5 let před zahájením nájmu, se vlastní náklady zvyšují o náklady prokazatelně vynaložené na jejich opravy a technické zhodnocení,
+>
 > - c) hodnota nesplacené pohledávky zajištěné převodem práva, a to u hmotného movitého majetku, který zůstává ve vlastnictví věřitele,
-> - d) reprodukční pořizovací cena v ostatních případech určená podle zvláštního právního předpisu; […]
-> - e) při nabytí majetku bezúplatně cena určená podle zvláštního právního předpisu o oceňování majetku ke dni nabytí, s výjimkou majetku odpisovaného podle § 30 odst. 10 písm. a), pokud u poplatníků uvedených v § 2 neuplynula od nabytí doba delší než 5 let, zvýšená u nemovitých věcí o náklady vynaložené na opravy a technické zhodnocení; je-li doba od nabytí delší než 5 let, rozumí se u poplatníků uvedených v § 2 vstupní cenou cena podle písmene d),
-> - f) hodnota technického zhodnocení podle § 33 odst. 1 dokončeného počínaje 1. lednem 2001 na hmotném majetku, jehož účetní odpisy jsou výdajem (nákladem) podle § 24 odst. 2 písm. v) bodu 1, zvýšená o ocenění tohoto odpisovaného hmotného majetku; […]
+>
+> - d) reprodukční pořizovací cena v ostatních případech určená podle zvláštního právního předpisu;1a) přitom u nemovité kulturní památky se reprodukční pořizovací cena stanoví jako cena stavby určená podle zvláštního právního předpisu bez přihlédnutí ke kategorii kulturní památky, historickému stáří kulturní památky a k ceně uměleckých a uměleckořemeslných děl, která jsou součástí stavby. U poplatníka, který má příjmy z nájmu podle § 9, je třeba reprodukční pořizovací cenu stanovit již při zahájení nájmu,
+>
+> - e) při nabytí majetku bezúplatně cena určená podle zvláštního právního předpisu o oceňování majetku1a) ke dni nabytí, s výjimkou majetku odpisovaného podle § 30 odst. 10 písm. a), pokud u poplatníků uvedených v § 2 neuplynula od nabytí doba delší než 5 let, zvýšená u nemovitých věcí o náklady vynaložené na opravy a technické zhodnocení; je-li doba od nabytí delší než 5 let, rozumí se u poplatníků uvedených v § 2 vstupní cenou cena podle písmene d),
+>
+> - f) hodnota technického zhodnocení podle § 33 odst. 1 dokončeného počínaje 1. lednem 2001 na hmotném majetku, jehož účetní odpisy jsou výdajem (nákladem) podle § 24 odst. 2 písm. v) bodu 1, zvýšená o ocenění tohoto odpisovaného hmotného majetku; přitom odpisy pro účely tohoto zákona lze uplatnit jen do výše vstupní ceny snížené o dosud uplatněné účetní odpisy hmotného majetku podle § 24 odst. 2 písm. v) bodu 1,
+>
 > - g) přepočtená zahraniční cena (§ 23 odst. 17),
+>
 > - h) u veřejně prospěšného poplatníka ocenění převzaté od účetní jednotky, která o tomto majetku naposledy účtovala, v případě bezúplatného převodu nebo přechodu majetku mezi vybranými účetními jednotkami podle právních předpisů upravujících účetnictví.
 >
-> Součástí vstupní ceny podle písmen a) až f) je i technické zhodnocení provedené po uvedení věci do stavu způsobilého obvyklému užívání, s výjimkou technického zhodnocení provedeného na nemovité kulturní památce a na hmotném majetku vyloučeném z odpisování (§ 27), nejpozději však v prvním roce odpisování. […] Vstupní cena hmotného majetku se snižuje o poskytnuté dotace ze státního rozpočtu, z rozpočtů obcí a krajů, státních fondů, […] (dále jen „veřejné zdroje“), poskytnuté na jeho pořízení nebo na jeho technické zhodnocení, pokud se tyto prostředky neúčtují podle zvláštního právního předpisu ve prospěch výnosů (příjmů). […] Vstupní cena hmotného majetku se snižuje o bezúplatný příjem ve formě účelového peněžitého daru na pořízení hmotného majetku nebo na jeho technické zhodnocení. […]
+> Součástí vstupní ceny podle písmen a) až f) je i technické zhodnocení provedené po uvedení věci do stavu způsobilého obvyklému užívání, s výjimkou technického zhodnocení provedeného na nemovité kulturní památce a na hmotném majetku vyloučeném z odpisování (§ 27), nejpozději však v prvním roce odpisování. Součástí vstupní ceny jednotky není ocenění té části jednotky, která je pozemkem. Pokud původní odpisovatel v případech uvedených v § 30 odst. 10 nezapočal odpisování, je u nabyvatele vstupní cenou hmotného majetku vstupní cena, z níž by původní odpisovatel odpisy uplatňoval. Vstupní cena hmotného majetku se snižuje o poskytnuté dotace ze státního rozpočtu, z rozpočtů obcí a krajů, státních fondů, regionální rady regionu soudržnosti, o poskytnuté prostředky (granty) přidělené podle zvláštního právního předpisu, o poskytnuté granty Evropských společenství, o poskytnuté dotace, příspěvky a podpory z veřejných rozpočtů a jiných peněžních fondů cizího státu s výjimkou peněžních fondů spravovaných podnikatelskými subjekty se sídlem nebo bydlištěm v zahraničí (dále jen „veřejné zdroje“), poskytnuté na jeho pořízení nebo na jeho technické zhodnocení, pokud se tyto prostředky neúčtují podle zvláštního právního předpisu20) ve prospěch výnosů (příjmů). Obdobně se postupuje i u hmotného majetku vytvořeného vlastní činností. Vstupní cena hmotného majetku se snižuje o bezúplatný příjem ve formě účelového peněžitého daru na pořízení hmotného majetku nebo na jeho technické zhodnocení. Do vstupní ceny hmotného majetku uvedeného v § 26 odst. 2 písm. b) a c) lze zahrnout i výdaje (náklady) na vyvolanou investici, kterou se pro účely tohoto zákona rozumí výdaje (náklady) vynaložené na pořízení majetku převedeného do vlastnictví jiné osoby nebo předaného jiné osobě nebo týkající se změny majetku ve vlastnictví jiné osoby a podmiňujícího funkci nebo užívání hmotného majetku uvedeného v § 26 odst. 2 písm. b) a c). V případě stavebního díla odpisovaného podle tohoto zákona, které je likvidováno v souvislosti s výstavbou nového stavebního díla nebo jeho technickým zhodnocením, je součástí vstupní ceny nového stavebního díla zůstatková cena likvidovaného stavebního díla namísto zůstatkové ceny likvidovaného stavebního díla podle právních předpisů upravujících účetnictví.
 >
 > (2) Za zůstatkovou cenu se pro účely tohoto zákona považuje rozdíl mezi vstupní cenou hmotného majetku a celkovou výší odpisů stanovených podle § 26 a § 30 až 32 z tohoto majetku, a to i tehdy, když do výdajů na zajištění zdanitelných příjmů [§ 24 odst. 2 písm. a)] zahrnul poplatník pouze poměrnou část odpisů podle § 28 odst. 6, 30e odst. 1 nebo 5 nebo § 30f odst. 5 nebo uplatňoval v některých zdaňovacích obdobích výdaje procentem z příjmů.
 >
-> (3) Technické zhodnocení zvyšuje vstupní cenu (dále jen „zvýšená vstupní cena“) a zároveň u majetku odpisovaného podle § 32 i zůstatkovou cenu (dále jen „zvýšená zůstatková cena“) příslušného majetku v tom zdaňovacím období, kdy je technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání; […]
+> (3) Technické zhodnocení zvyšuje vstupní cenu (dále jen „zvýšená vstupní cena“) a zároveň u majetku odpisovaného podle § 32 i zůstatkovou cenu (dále jen „zvýšená zůstatková cena“) příslušného majetku v tom zdaňovacím období, kdy je technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání; přitom poplatník, který samostatně eviduje a odpisuje technické zhodnocení hmotného majetku podle § 26 odst. 3 písm. a) nebo výdaje vymezené v § 26 odst. 3 písm. c) zvyšuje o každé další technické zhodnocení dokončené na původním majetku vstupní cenu a zároveň u majetku odpisovaného podle § 32 i zůstatkovou cenu již evidovaného jiného majetku v tom zdaňovacím období, kdy je technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání. Ustanovení předchozí věty se nepoužije u technického zhodnocení v případech uvedených v odstavcích 1, 4 a 6, § 30a odst. 3 a u technického zhodnocení provedeného na nemovité kulturní památce odpisovaného podle § 30 odst. 6 nebo u technického zhodnocení provedeného na hmotném majetku vyloučeném z odpisování. Povinnost zvýšit vstupní cenu samostatně evidovaného a odpisovaného technického zhodnocení o každé další technické zhodnocení dokončené na původním majetku se nevztahuje na technické zhodnocení provedené na nemovité kulturní památce, které se odpisuje podle § 30 odst. 6 vždy samostatně.
 >
-> (4) Poplatník, který odpisoval technické zhodnocení a výdaje vymezené v § 26 odst. 3 písm. c) nebo jejich část […] související s majetkem odkoupeným podle smlouvy o finančním leasingu, zvýší o pořizovací cenu odkoupeného majetku vstupní (zůstatkovou) cenu již odpisovaného jiného majetku v tom zdaňovacím období, kdy je majetek odkoupen, a pokračuje v započatém odpisování.
+> (4) Poplatník, který odpisoval technické zhodnocení a výdaje vymezené v § 26 odst. 3 písm. c) nebo jejich část, která není vyloučena z odpisování související s majetkem odkoupeným podle smlouvy o finančním leasingu, zvýší o pořizovací cenu odkoupeného majetku vstupní (zůstatkovou) cenu již odpisovaného jiného majetku v tom zdaňovacím období, kdy je majetek odkoupen, a pokračuje v započatém odpisování.
 >
-> (5) Vstupní cenou hmotného majetku ve spoluvlastnictví je u spoluvlastníka vstupní cena podle odstavce 1 ve výši hodnoty jeho spoluvlastnického podílu. […]
+> (5) Vstupní cenou hmotného majetku ve spoluvlastnictví je u spoluvlastníka vstupní cena podle odstavce 1 ve výši hodnoty jeho spoluvlastnického podílu. Hodnota technického zhodnocení provedeného na hmotném majetku ve spoluvlastnictví se u jednotlivých spoluvlastníků určí podle jejich spoluvlastnického podílu.
 >
 > (6) Odpisuje-li technické zhodnocení nájemce, zvyšuje se vstupní cena (zůstatková cena) u odpisovatele (pronajímatele) v roce ukončení nájmu nebo zrušení souhlasu odpisovatele s odpisováním nájemcem, a to
 >
 > - a) o částku nepeněžního příjmu stanoveného podle § 23 odst. 6 písm. a) bodu 2, je-li technické zhodnocení provedeno nad rámec nájemného,
-> - b) o zůstatkovou cenu technického zhodnocení evidovanou u nájemce, je-li jím plněno nájemné. […]
+>
+> - b) o zůstatkovou cenu technického zhodnocení evidovanou u nájemce, je-li jím plněno nájemné.
+>
+> Provede-li nájemce technické zhodnocení nad rámec smluveného nájemného se souhlasem odpisovatele (pronajímatele) a neodpisuje-li je nájemce ani odpisovatel (pronajímatel), zvyšuje se vstupní (zůstatková) cena příslušného majetku u odpisovatele (pronajímatele) v roce ukončení pronájmu o částku nepeněžního příjmu podle § 23 odst. 6 písm. a) bodu 1. Po zvýšení vstupní (zůstatkové) ceny podle tohoto odstavce pokračuje odpisovatel (pronajímatel) v odpisování ze zvýšené vstupní ceny nebo ze zvýšené zůstatkové ceny. Nemá-li poplatník majetek, jehož vstupní cenu by bylo možné zvýšit, vznikne mu jiný majetek v ocenění, které by jinak zvyšovalo vstupní cenu. Toto ustanovení se nepoužije, pokud dochází k ukončení nájmu z důvodu odkoupení najaté věci nájemcem, který zahrne zůstatkovou cenu jím odpisovaného technického zhodnocení do vstupní ceny podle § 29 odst. 1 písm. a).
 >
 > (7) Při zvýšení nebo snížení vstupní ceny, ke kterému dochází u již odpisovaného majetku z jiného důvodu, než je jeho technické zhodnocení (dále jen „změněná vstupní cena“), se odpis stanoví ze změněné vstupní (zůstatkové) ceny při zachování platné sazby (koeficientu) podle § 31 nebo § 32.
 >
-> (8) U hmotného majetku, který poplatník uvedený v § 2 pořídil v době kratší než 5 let před jeho vložením do obchodní korporace a nebyl zahrnut do obchodního majetku, je u nabyvatele vstupní cenou, byl-li pořízen úplatně, pořizovací cena, […]
+> (8) U hmotného majetku, který poplatník uvedený v § 2 pořídil v době kratší než 5 let před jeho vložením do obchodní korporace a nebyl zahrnut do obchodního majetku, je u nabyvatele vstupní cenou, byl-li pořízen úplatně, pořizovací cena, byl-li pořízen nebo vyroben ve vlastní režii, jsou vstupní cenou vlastní náklady, a při nabytí hmotného majetku bezúplatně, cena hmotného majetku podle zvláštního právního předpisu o oceňování majetku1a) ke dni nabytí. Přitom u nemovitých věcí lze vstupní cenu u nabyvatele zvýšit o náklady prokazatelně vynaložené na jejich opravy a technické zhodnocení před vložením do obchodní korporace. Dnem vkladu do obchodní korporace se pro účely tohoto zákona rozumí den uvedený ve smlouvě o vkladu.
 >
 > (9) Vstupní cena hmotného majetku se nemění,
 >
-> - a) dochází-li k ocenění jmění při fúzi nebo rozdělení obchodní korporace […],
+> - a) dochází-li k ocenění jmění při fúzi nebo rozdělení obchodní korporace podle zvláštního právního předpisu20) v případě, kdy to vyžaduje zvláštní právní předpis,131)
+>
 > - b) dojde-li k vypořádání mezi podílovými spoluvlastníky rozdělením věci podle zvláštního právního předpisu, nebo
+>
 > - c) jsou-li v budově vymezeny jednotky.
 >
 > (10) Vstupní cena hmotného majetku původního odpisovatele použitá při pokračování v odpisování se zvyšuje o částky, které se u poplatníka, který pokračuje v odpisování započatém původním odpisovatelem, staly součástí ocenění tohoto majetku podle právních předpisů upravujících účetnictví.
@@ -310,18 +346,11 @@ Důležité: do zůstatkové ceny se započítává **celý** odpis, i když do 
 
 <details><summary>📜 <b>Text § 30</b></summary>
 
-> (1) V prvním roce odpisování zatřídí poplatník hmotný majetek do odpisových skupin uvedených v příloze č. 1 k tomuto zákonu. […] Doba odpisování činí minimálně:
+> ### § 30
 >
-> | Odpisová skupina | Doba odpisování |
-> |---|---|
-> | 1 | 3 roky |
-> | 2 | 5 let |
-> | 3 | 10 let |
-> | 4 | 20 let |
-> | 5 | 30 let |
-> | 6 | 50 let |
->
-> Stanovená doba odpisování se nevztahuje na hmotný majetek, u něhož došlo v průběhu odpisování k prodloužení doby odpisování. Stavební dílo (dům, budova, stavba) se zařazuje do odpisové skupiny podle jeho hlavního užívání v souladu se zvláštní právním předpisem. Při užívání budovy k několika účelům je pro zařazení do odpisové skupiny rozhodující převažující podíl užívání na celkové využitelné podlahové ploše. Hmotný majetek, který nelze zařadit do odpisových skupin podle přílohy č. 1 k tomuto zákonu, s výjimkou uvedenou v odstavcích 6 až 8, zatříděný podle Klasifikace stavebních děl CZ-CC […] se zařadí do odpisové skupiny 5 a ostatní hmotný majetek zatříděný podle klasifikace produkce CZ-CPA se zařadí do odpisové skupiny 2.
+> (1) V prvním roce odpisování zatřídí poplatník hmotný majetek do odpisových skupin uvedených v příloze č. 1 k tomuto zákonu. Došlo-li u stavebního díla ke změně hlavního užívání a v důsledku této změny se mění i zatřídění do odpisové skupiny uvedené v příloze č. 1 k tomuto zákonu, provede poplatník změnu zatřídění tohoto majetku ve zdaňovacím období nebo v období, za něž se podává daňové přiznání, ve kterém ke změně došlo. Samostatně odpisované technické zhodnocení provedené na hmotném majetku vyloučeném z odpisování se zatřídí do odpisové skupiny, do které náleží hmotný majetek, na němž bylo technické zhodnocení provedeno. Doba odpisování činí minimálně:
+> Odpisová skupina Doba odpisování 1 3 roky 2 5 let 3 10 let 4 20 let 5 30 let 6 50 let.
+> Stanovená doba odpisování se nevztahuje na hmotný majetek, u něhož došlo v průběhu odpisování k prodloužení doby odpisování. Stavební dílo (dům, budova, stavba) se zařazuje do odpisové skupiny podle jeho hlavního užívání v souladu se zvláštní právním předpisem. Při užívání budovy k několika účelům je pro zařazení do odpisové skupiny rozhodující převažující podíl užívání na celkové využitelné podlahové ploše.99) Hmotný majetek, který nelze zařadit do odpisových skupin podle přílohy č. 1 k tomuto zákonu, s výjimkou uvedenou v odstavcích 6 až 8, zatříděný podle Klasifikace stavebních děl CZ-CC vydané Českým statistickým úřadem99) se zařadí do odpisové skupiny 5 a ostatní hmotný majetek zatříděný podle klasifikace produkce CZ-CPA se zařadí do odpisové skupiny 2.
 >
 > (2) Poplatník provádí rovnoměrné (§ 31) nebo zrychlené odpisování (§ 32). Způsob odpisování pro každý nově pořízený hmotný majetek stanoví odpisovatel, s výjimkou uvedenou v odstavci 10, a nelze jej změnit po celou dobu jeho odpisování.
 >
@@ -342,26 +371,44 @@ Důležité: do zůstatkové ceny se započítává **celý** odpis, i když do 
 > (10) Ze vstupní ceny, ze které odpisoval původní odpisovatel, který je poplatníkem uvedeným v § 2 nebo v § 17 odst. 3 nebo stálou provozovnou poplatníka uvedeného v § 17 odst. 4 na území České republiky, s výjimkou uvedenou v § 29 odst. 7, a při zachování způsobu odpisování pokračuje v odpisování započatém původním odpisovatelem
 >
 > - a) právní nástupce poplatníka a nástupnická obchodní korporace,
-> - b) poplatník u hmotného majetku nabytého
->   - 1. vkladem společníka, podílníka nebo člena družstva […],
->   - 2. vkladem obce nebo kraje […],
->   - 3. přeměnou,
-> - c) poplatník u hmotného majetku nabytého vkladem tichého společníka […],
-> - d) tichý společník u hmotného majetku nabytého vrácením jeho vkladu […],
-> - e) poplatník u hmotného majetku, který nabyl bezúplatným převodem podle zvláštních předpisů nebo bezúplatným převodem v důsledku delimitace státních organizací,
-> - f) poplatník uvedený v § 2, který vyřadil hmotný majetek z obchodního majetku a následně hmotný majetek do obchodního majetku opět zařadil. Obdobně se postupuje i v případě přerušení nájmu,
-> - g) postupník při postoupení smlouvy o finančním leasingu […],
-> - h) poplatník, který nabyl právo k užívání hmotného movitého majetku smlouvou o výpůjčce, a to po dobu zajištění dluhu převodem práva k tomuto majetku,
-> - i) dlužník, který nabyl do vlastnictví hmotný majetek na základě smlouvy o zápůjčce. […],
-> - j) manžel (manželka), který má v obchodním majetku hmotný majetek, který již byl v obchodním majetku a byl odpisován manželkou (manželem), s výjimkou majetku nabytého koupí od druhého z manželů,
-> - k) poplatník, který odpisoval hmotný majetek před ukončením činnosti,
-> - l) společník společnosti u majetku určeného podle druhu,
-> - m) poplatník, který převzal majetek v rámci změny příslušnosti hospodařit nebo práva hospodařit s majetkem státu,
-> - n) příspěvková organizace územního samosprávného celku nebo dobrovolného svazku obcí […],
-> - o) dobrovolný svazek obcí u majetku vloženého členskou obcí […],
-> - p) veřejná kulturní instituce u hmotného majetku předaného zřizovatelem k hospodaření […].
 >
-> V odpisování hmotného movitého majetku pokračuje i poplatník, pokud k tomuto majetku nabyl znovu vlastnická práva splněním dluhu, který byl zajištěn převodem práva […]. Obdobně pokračuje v odpisování i poplatník u hmotného majetku vráceného při ukončení nájmu a poplatník při zániku společnosti nebo zániku členství ve společnosti u majetku určeného podle druhu […]. Obdobně pokračuje v odpisování i poplatník, který je fyzickou osobou, u jím pronajímaného hmotného majetku vyřazeného z obchodního majetku nebo v případě zařazení jím pronajímaného hmotného majetku do obchodního majetku.
+> - b) poplatník u hmotného majetku nabytého
+>
+> - 1. vkladem společníka, podílníka nebo člena družstva s bydlištěm nebo sídlem na území České republiky, který byl zároveň u fyzické osoby zahrnut v obchodním majetku a u právnické osoby v jejím majetku,
+>
+> - 2. vkladem obce nebo kraje, pokud byl tento majetek ve vlastnictví obce nebo kraje a byl zahrnut v jejich majetku,
+>
+> - 3. přeměnou,
+>
+> - c) poplatník u hmotného majetku nabytého vkladem tichého společníka s bydlištěm nebo sídlem na území České republiky spolu s nabytím vlastnických práv k tomuto majetku, pokud tichý společník měl před uskutečněním vkladu tento majetek zahrnut v obchodním majetku,
+>
+> - d) tichý společník u hmotného majetku nabytého vrácením jeho vkladu, pokud nabyl vlastnická práva k tomuto majetku,
+>
+> - e) poplatník u hmotného majetku, který nabyl bezúplatným převodem podle zvláštních předpisů31c) nebo bezúplatným převodem v důsledku delimitace státních organizací,
+>
+> - f) poplatník uvedený v § 2, který vyřadil hmotný majetek z obchodního majetku a následně hmotný majetek do obchodního majetku opět zařadil. Obdobně se postupuje i v případě přerušení nájmu,
+>
+> - g) postupník při postoupení smlouvy o finančním leasingu, jestliže dodrží smluvenou celkovou výši úplaty, kupní cenu a nedojde ke zkrácení původně stanovené doby leasingu. Je-li postoupena užívaná věc za nižší cenu, než byla vstupní cena evidovaná u postupitele, lze odpisy uplatnit maximálně do výše ceny hrazené postupníkem,
+>
+> - h) poplatník, který nabyl právo k užívání hmotného movitého majetku smlouvou o výpůjčce, a to po dobu zajištění dluhu převodem práva29b) k tomuto majetku,
+>
+> - i) dlužník, který nabyl do vlastnictví hmotný majetek na základě smlouvy o zápůjčce. V odpisování pokračuje i poplatník, pokud k tomuto majetku nabyl vlastnická práva vrácením zapůjčené věci,
+>
+> - j) manžel (manželka), který má v obchodním majetku hmotný majetek, který již byl v obchodním majetku a byl odpisován manželkou (manželem), s výjimkou majetku nabytého koupí od druhého z manželů,
+>
+> - k) poplatník, který odpisoval hmotný majetek před ukončením činnosti,
+>
+> - l) společník společnosti u majetku určeného podle druhu,
+>
+> - m) poplatník, který převzal majetek v rámci změny příslušnosti hospodařit nebo práva hospodařit s majetkem státu,
+>
+> - n) příspěvková organizace územního samosprávného celku nebo dobrovolného svazku obcí u hmotného majetku předaného zřizovatelem k hospodaření a její zřizovatel při zpětném předání tohoto majetku,
+>
+> - o) dobrovolný svazek obcí u majetku vloženého členskou obcí a člen dobrovolného svazku obcí při zpětném předání tohoto majetku,
+>
+> - p) veřejná kulturní instituce u hmotného majetku předaného zřizovatelem k hospodaření a její zřizovatel při zpětném předání tohoto majetku.
+>
+> V odpisování hmotného movitého majetku pokračuje i poplatník, pokud k tomuto majetku nabyl znovu vlastnická práva splněním dluhu, který byl zajištěn převodem práva,29b) a to způsobem uplatňovaným po dobu zajištění dluhu podle písmene h). Obdobně pokračuje v odpisování i poplatník u hmotného majetku vráceného při ukončení nájmu a poplatník při zániku společnosti nebo zániku členství ve společnosti u majetku určeného podle druhu, který jím byl do této společnosti vložen. Obdobně pokračuje v odpisování i poplatník, který je fyzickou osobou, u jím pronajímaného hmotného majetku vyřazeného z obchodního majetku nebo v případě zařazení jím pronajímaného hmotného majetku do obchodního majetku.
 
 </details>
 
@@ -461,15 +508,23 @@ Nabývá-li se podíl některým ze **způsobů pokračování v odpisování** 
 
 <details><summary>📜 <b>Text § 30d</b></summary>
 
+> ### § 30d
+>
+> #### Nemovitá kulturní památka
+>
 > (1) Nemovitá věc, která byla kulturní památkou podle zákona č. 22/1958 Sb., o kulturních památkách, ve znění účinném ke dni 31. prosince 1987, nebyla k 31. prosinci 1987 zapsaná do státního seznamu kulturních památek a nebyla prohlášena za kulturní památku podle zákona č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů, se pro účely daní z příjmů považuje za nemovitou kulturní památku, a to i ve zdaňovacích obdobích nebo obdobích, za která se podává daňové přiznání, započatých přede dnem nabytí účinnosti tohoto zákona. To neplatí, je-li taková nemovitá věc nabyta ve zdaňovacím období nebo období, za které se podává daňové přiznání, započatých od 1. ledna 2022 jiným způsobem než způsobem podle § 30 odst. 10.
 >
 > (2) Poplatník může v prvním zdaňovacím období nebo období, za které se podává daňové přiznání, započatých od 1. ledna 2022 rozhodnout, že nemovitá věc podle odstavce 1 věty první není od tohoto období pro účely daní z příjmů považována za nemovitou kulturní památku; v takovém případě se
 >
 > - a) v daném období výsledek hospodaření nebo rozdíl mezi příjmy a výdaji
->   - 1. zvýší o úhrn odpisů, které byly uplatněny jím nebo poplatníkem, od kterého byla nemovitá věc nabyta některým ze způsobů podle § 30 odst. 10, jako výdaj […], a
->   - 2. sníží o úhrn odpisů, které by […] mohly být uplatněny, kdyby věc nebyla považována za nemovitou kulturní památku,
+>
+> - 1. zvýší o úhrn odpisů, které byly uplatněny jím nebo poplatníkem, od kterého byla nemovitá věc nabyta některým ze způsobů podle § 30 odst. 10, jako výdaj ve zdaňovacích obdobích a obdobích, za která se podává daňové přiznání, předcházejících danému období, a
+>
+> - 2. sníží o úhrn odpisů, které by v obdobích podle bodu 1 mohly být uplatněny, kdyby věc nebyla považována za nemovitou kulturní památku,
+>
 > - b) od daného období pro účely daní z příjmů zachází s takovou nemovitou věcí, jako by od 1. ledna 1988 nebyla nemovitou kulturní památkou, a
-> - c) pro účely určení zůstatkové ceny se za celkovou výši odpisů […] považuje úhrn odpisů, o které byl podle písmene a) bodu 2 snížen výsledek hospodaření nebo rozdíl mezi příjmy a výdaji.
+>
+> - c) pro účely určení zůstatkové ceny se za celkovou výši odpisů stanovených podle § 26 a § 30 až 32 ve zdaňovacích obdobích a obdobích, za která se podává daňové přiznání, předcházejících danému období považuje úhrn odpisů, o které byl podle písmene a) bodu 2 snížen výsledek hospodaření nebo rozdíl mezi příjmy a výdaji.
 >
 > (3) Pokud poplatník postupoval ve zdaňovacím období nebo období, za které se podává daňové přiznání, započatých před 1. lednem 2022 tak, jako by nemovitá věc podle odstavce 1 věty první nebyla nemovitou kulturní památkou, odstavec 1 věta první se nepoužije; v takovém případě poplatník nesmí uplatnit jako výdaj odpisy tak, aby v úhrnné výši přesahovaly vstupní cenu nebo zvýšenou vstupní cenu.
 
@@ -491,6 +546,10 @@ Význam zařazení mezi nemovité kulturní památky spočívá v **odlišném d
 
 <details><summary>📜 <b>Text § 30e</b></summary>
 
+> ### § 30e
+>
+> #### Odpisování vozidla kategorie M1
+>
 > (1) Při odpisování vozidla kategorie M1 se do výdajů k zajištění zdanitelného příjmu zahrnuje pouze poměrná část odpisu vypočítaná podle poměru částky omezení výdajů u vozidla kategorie M1 a úhrnu výdajů vynaložených na vozidlo kategorie M1.
 >
 > (2) Částka omezení výdajů u vozidla kategorie M1 činí 2 000 000 Kč a úhrn výdajů vynaložených na vozidlo kategorie M1 se rovná jeho vstupní ceně.
@@ -498,27 +557,50 @@ Význam zařazení mezi nemovité kulturní památky spočívá v **odlišném d
 > (3) Pokud je na vozidle kategorie M1 provedeno technické zhodnocení, je od okamžiku, kdy je technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání,
 >
 > - a) částka omezení výdajů u tohoto vozidla rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
 > - b) úhrn výdajů vynaložených na toto vozidlo roven součtu zůstatkové ceny v daném okamžiku a výdajů na technické zhodnocení.
 >
 > (4) Pokud dojde ke zvýšení nebo snížení vstupní ceny již odpisovaného vozidla kategorie M1 z jiného důvodu než technického zhodnocení, je od tohoto okamžiku
 >
 > - a) částka omezení výdajů u tohoto vozidla rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
 > - b) úhrn výdajů vynaložených na toto vozidlo roven zůstatkové ceně v daném okamžiku upravené o částku, o kterou byla zvýšena nebo snížena vstupní cena.
 >
-> (5) Při odpisování technického zhodnocení vozidla kategorie M1 odpisovaného podle § 30a se do výdajů k zajištění zdanitelného příjmu zahrnuje pouze poměrná část odpisu vypočítaná podle stejného poměru jako u vozidla, na kterém bylo technické zhodnocení provedeno. […]
+> (5) Při odpisování technického zhodnocení vozidla kategorie M1 odpisovaného podle § 30a se do výdajů k zajištění zdanitelného příjmu zahrnuje pouze poměrná část odpisu vypočítaná podle stejného poměru jako u vozidla, na kterém bylo technické zhodnocení provedeno. Pokud je na takovém vozidle provedeno další technické zhodnocení, je od okamžiku, kdy je další technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání,
+>
+> - a) částka omezení výdajů u tohoto vozidla i u technického zhodnocení rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí odpisů vozidla, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a částí odpisů technického zhodnocení, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na toto vozidlo i na technické zhodnocení roven součtu zůstatkové ceny vozidla v daném okamžiku, zůstatkové ceny technického zhodnocení v daném okamžiku a výdajů na další technické zhodnocení.
 >
 > (6) V případě spoluvlastnického podílu na vozidlu kategorie M1 je
 >
 > - a) částka omezení výdajů u tohoto podílu rovna poměrné části částky 2 000 000 Kč vypočítané podle výše spoluvlastnického podílu a
+>
 > - b) úhrn výdajů vynaložených na tento podíl roven jeho vstupní ceně.
 >
-> (7) Pokud je zvýšen spoluvlastnický podíl na vozidlu kategorie M1, […]
+> (7) Pokud je zvýšen spoluvlastnický podíl na vozidlu kategorie M1, je od tohoto okamžiku
 >
-> (8) Pokud je snížen spoluvlastnický podíl na vozidlu kategorie M1, […]
+> - a) částka omezení výdajů u tohoto podílu rovna rozdílu mezi poměrnou částí částky 2 000 000 Kč vypočítanou podle nové výše spoluvlastnického podílu a úhrnem poměrných částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, vypočítaných podle poměru nové výše spoluvlastnického podílu a původní výše spoluvlastnického podílu a
 >
-> (9) Pokud je na vozidle kategorie M1, které je ve spoluvlastnictví, provedeno technické zhodnocení, […]
+> - b) úhrn výdajů vynaložených na tento podíl roven součtu zůstatkové ceny v daném okamžiku a vstupní ceny nově nabývaného spoluvlastnického podílu.
 >
-> (10) Pokud dojde ke zvýšení nebo snížení vstupní ceny již odpisovaného vozidla kategorie M1, které je ve spoluvlastnictví, z jiného důvodu než technického zhodnocení, […]
+> (8) Pokud je snížen spoluvlastnický podíl na vozidlu kategorie M1, je od tohoto okamžiku
+>
+> - a) částka omezení výdajů u tohoto podílu rovna rozdílu mezi poměrnou částí částky 2 000 000 Kč vypočítanou podle nové výše spoluvlastnického podílu a úhrnem poměrných částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, vypočítaných podle poměru nové výše spoluvlastnického podílu a původní výše spoluvlastnického podílu a
+>
+> - b) úhrn výdajů vynaložených na tento podíl roven zůstakové ceně nové výše spoluvlastnického podílu.
+>
+> (9) Pokud je na vozidle kategorie M1, které je ve spoluvlastnictví, provedeno technické zhodnocení, je od okamžiku, kdy je technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání, u spoluvlastnického podílu
+>
+> - a) částka omezení výdajů rovna rozdílu mezi poměrnou částí částky 2 000 000 Kč vypočítanou podle výše spoluvlastnického podílu a úhrnem částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na tento podíl roven součtu zůstatkové ceny v daném okamžiku a části výdajů na technické zhodnocení připadající na tento podíl.
+>
+> (10) Pokud dojde ke zvýšení nebo snížení vstupní ceny již odpisovaného vozidla kategorie M1, které je ve spoluvlastnictví, z jiného důvodu než technického zhodnocení, je od tohoto okamžiku
+>
+> - a) částka omezení výdajů rovna rozdílu mezi poměrnou částí částky 2 000 000 Kč vypočítanou podle výše spoluvlastnického podílu a úhrnem částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na tento podíl roven součtu zůstatkové ceny v daném okamžiku upravené o část částky, o kterou byla zvýšena nebo snížena vstupní cena, připadající na tento podíl.
 
 </details>
 
@@ -542,27 +624,49 @@ Odstavce 3 až 10 řeší dílčí situace — provedení technického zhodnocen
 
 <details><summary>📜 <b>Text § 30f</b></summary>
 
+> ### § 30f
+>
+> #### Vozidlo kategorie M1 pořízené na finanční leasing
+>
 > (1) Pokud je vozidlo kategorie M1 předmětem finančního leasingu, je úplata u finančního leasingu výdajem na dosažení, zajištění a udržení zdanitelných příjmů pouze v poměrné části vypočítané podle poměru částky 2 000 000 Kč a úhrnu úplat. Pokud poplatníkovi vznikne v souvislosti s vozidlem podle věty první jiný majetek, použije se pro účely věty první poměrná část vypočítaná pro tento jiný majetek.
 >
 > (2) Pokud je vozidlo kategorie M1 nabyto jako předmět finančního leasingu, je
 >
 > - a) částka omezení výdajů u tohoto vozidla rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí úplat u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
 > - b) úhrn výdajů vynaložených na toto vozidlo roven jeho vstupní ceně.
 >
-> (3) Pokud je na vozidle kategorie M1, které bylo nabyto jako předmět finančního leasingu, provedeno technické zhodnocení, […]
+> (3) Pokud je na vozidle kategorie M1, které bylo nabyto jako předmět finančního leasingu, provedeno technické zhodnocení, je od okamžiku, kdy je technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání,
 >
-> (4) Pokud dojde ke zvýšení nebo snížení vstupní ceny již odpisovaného vozidla kategorie M1, které bylo nabyto jako předmět finančního leasingu, z jiného důvodu než technického zhodnocení, […]
+> - a) částka omezení výdajů u tohoto vozidla rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí úplat u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na toto vozidlo roven součtu zůstatkové ceny v daném okamžiku a výdajů na technické zhodnocení.
+>
+> (4) Pokud dojde ke zvýšení nebo snížení vstupní ceny již odpisovaného vozidla kategorie M1, které bylo nabyto jako předmět finančního leasingu, z jiného důvodu než technického zhodnocení, je od tohoto okamžiku
+>
+> - a) částka omezení výdajů u tohoto vozidla rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí úplat u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a částí odpisů, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na toto vozidlo roven zůstatkové ceně v daném okamžiku upravené o částku, o kterou byla zvýšena nebo snížena vstupní cena.
 >
 > (5) Při odpisování technického zhodnocení provedeného na vozidle kategorie M1, které je předmětem finančního leasingu, které je jiným majetkem, a při odpisování výdajů hrazených uživatelem vynaložených na takové vozidlo, které jsou jiným majetkem, se do výdajů k zajištění zdanitelného příjmu zahrnuje pouze poměrná část odpisu vypočítaná podle poměru částky omezení výdajů u tohoto jiného majetku a úhrnu výdajů vynaložených na tento jiný majetek.
 >
 > (6) U jiného majetku podle odstavce 5 je
 >
 > - a) částka omezení výdajů rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí úplat u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
 > - b) úhrn výdajů vynaložených na tento jiný majetek roven součtu úplat u finančního leasingu, které ještě nebyly výdajem, a vstupní ceny jiného majetku.
 >
-> (7) Pokud je na vozidle kategorie M1 podle odstavce 5 provedeno další technické zhodnocení, […]
+> (7) Pokud je na vozidle kategorie M1 podle odstavce 5 provedeno další technické zhodnocení, je u jiného majetku podle odstavce 5 od okamžiku, kdy je další technické zhodnocení dokončeno a uvedeno do stavu způsobilého obvyklému užívání,
 >
-> (8) Pokud je nabyto vozidlo kategorie M1 podle odstavce 5 jako předmět finančního leasingu, […]
+> - a) částka omezení výdajů rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí úplat u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a částí odpisů jiného majetku, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na tento jiný majetek roven součtu úplat u finančního leasingu, které ještě nebyly výdajem, zůstatkové ceny jiného majetku v tomto okamžiku a výdajů na další technické zhodnocení.
+>
+> (8) Pokud je nabyto vozidlo kategorie M1 podle odstavce 5 jako předmět finančního leasingu, je u jiného majetku podle odstavce 5 od tohoto okamžiku
+>
+> - a) částka omezení výdajů rovna rozdílu mezi částkou 2 000 000 Kč a úhrnem částí úplat u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a částí odpisů jiného majetku, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a
+>
+> - b) úhrn výdajů vynaložených na tento jiný majetek roven součtu zůstatkové ceny jiného majetku v tomto okamžiku a kupní ceny vozidla.
 
 </details>
 
@@ -580,17 +684,21 @@ Tím se zamezuje obcházení limitu cestou leasingu místo koupě — bez § 30f
 
 <details><summary>📜 <b>Text § 30g</b></summary>
 
-> (1) Vozidlem kategorie M1 se pro účely daní z příjmů rozumí vozidlo kategorie M1 podle nařízení Evropského parlamentu a Rady upravujícího schvalování motorových vozidel a jejich přípojných vozidel.
+> ### § 30g
 >
-> (2) Pro účely § 30e a 30f se za odpisy, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a úplaty u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, považují i odpisy […] u poplatníka, od kterého bylo vozidlo kategorie M1 nabyto některým ze způsobů podle § 30 odst. 10, a úplaty u finančního leasingu […] u poplatníka, od kterého bylo vozidlo kategorie M1 nabyto některým ze způsobů podle § 30 odst. 10.
+> #### Společná ustanovení pro vozidlo kategorie M1
+>
+> (1) Vozidlem kategorie M1 se pro účely daní z příjmů rozumí vozidlo kategorie M1 podle nařízení Evropského parlamentu a Rady upravujícího schvalování motorových vozidel a jejich přípojných vozidel142).
+>
+> (2) Pro účely § 30e a 30f se za odpisy, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, a úplaty u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů, považují i odpisy, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů u poplatníka, od kterého bylo vozidlo kategorie M1 nabyto některým ze způsobů podle § 30 odst. 10, a úplaty u finančního leasingu, které byly výdajem na dosažení, zajištění a udržení zdanitelných příjmů u poplatníka, od kterého bylo vozidlo kategorie M1 nabyto některým ze způsobů podle § 30 odst. 10.
 >
 > (3) Zůstatková cena vozidla kategorie M1 podle § 29 odst. 2 pro jiné účely než pro stanovování odpisů se určí tak, jako by bylo toto vozidlo odpisováno bez přerušení po minimální dobu odpisování způsobem, který poplatník pro odpisování zvolil. Pokud u vozidla nebyly odpisy stanovovány, ačkoli mohly být, platí pro účely věty první, že poplatník zvolil rovnoměrné odpisování bez zvýšení odpisu v prvním roce odpisování.
 >
 > (4) Pokud je zůstatková cena vozidla kategorie M1 uplatněna jako výdaj na dosažení, zajištění a udržení zdanitelných příjmů, § 23 odst. 4 písm. e) se nepoužije v části, ve které výdaje nebyly uznány jako výdaje na dosažení, zajištění a udržení zdanitelných příjmů z důvodu použití postupu podle § 30e odst. 1 a 5 a § 30f odst. 1 a 5.
 >
-> (5) Ustanovení § 30e odst. 1 a 5 a § 30f odst. 1 a 5 se nepoužijí, pokud je poměr, podle kterého se počítá poměrná část odpisů nebo úplaty u finančního leasingu, která je výdajem […], 1 nebo vyšší. Odstavec 3 se nepoužije, pokud byl poměr […] u vozidla kategorie M1 u poplatníka po celou dobu 1 nebo vyšší.
+> (5) Ustanovení § 30e odst. 1 a 5 a § 30f odst. 1 a 5 se nepoužijí, pokud je poměr, podle kterého se počítá poměrná část odpisů nebo úplaty u finančního leasingu, která je výdajem na dosažení, zajištění a udržení zdanitelných příjmů, 1 nebo vyšší. Odstavec 3 se nepoužije, pokud byl poměr, podle kterého se počítá poměrná část odpisů nebo úplaty u finančního leasingu, u vozidla kategorie M1 u poplatníka po celou dobu 1 nebo vyšší.
 >
-> (6) Ustanovení § 28 odst. 6 věty druhé, § 30e odst. 1 a 5 a § 30f odst. 1 a 5 se nepoužijí na vozidlo kategorie M1, které je sanitním nebo pohřebním automobilem nebo je využíváno k provozování silniční motorové dopravy na základě koncese, ani na vozidlo kategorie M1 poplatníka, který ho poskytuje jako předmět finančního leasingu, a to i v případě, že je finanční leasing ukončen před uplynutím minimální doby finančního leasingu nebo nedojde k převodu vlastnického práva na uživatele. […]
+> (6) Ustanovení § 28 odst. 6 věty druhé, § 30e odst. 1 a 5 a § 30f odst. 1 a 5 se nepoužijí na vozidlo kategorie M1, které je sanitním nebo pohřebním automobilem nebo je využíváno k provozování silniční motorové dopravy na základě koncese, ani na vozidlo kategorie M1 poplatníka, který ho poskytuje jako předmět finančního leasingu, a to i v případě, že je finanční leasing ukončen před uplynutím minimální doby finančního leasingu nebo nedojde k převodu vlastnického práva na uživatele. Pokud vozidlo kategorie M1 v průběhu doby odpisování přestane být vozidlem podle věty první, určí se poměr, podle kterého se počítá poměrná část odpisů nebo úplaty u finančního leasingu, která je výdajem na dosažení, zajištění a udržení zdanitelných příjmů, jako by nebylo vozidlem podle věty první od začátku odpisování. Odstavec 3 se nepoužije, pokud vozidlo kategorie M1 bylo u poplatníka po celou dobu vozidlem podle věty první.
 
 </details>
 
@@ -617,54 +725,53 @@ U těchto vozidel jde o nástroj k podnikání, nikoli o „luxusní spotřebu",
 
 <details><summary>📜 <b>Text § 31</b></summary>
 
+> ### § 31
+>
 > (1) Při rovnoměrném odpisování hmotného majetku jsou odpisovým skupinám přiřazeny tyto maximální roční odpisové sazby:
 >
-> **a) Roční odpisová sazba pro hmotný majetek neodpisovaný podle písmen b) až d)**
+> - a) Roční odpisová sazba pro hmotný majetek neodpisovaný podle písmen b) až d)
 >
-> | Odpisová skupina | v prvním roce odpisování | v dalších letech odpisování | pro zvýšenou vstupní cenu |
-> |---|---|---|---|
-> | 1 | 20 | 40 | 33,3 |
-> | 2 | 11 | 22,25 | 20 |
-> | 3 | 5,5 | 10,5 | 10 |
-> | 4 | 2,15 | 5,15 | 5,0 |
-> | 5 | 1,4 | 3,4 | 3,4 |
-> | 6 | 1,02 | 2,02 | 2 |
+> Odpisová
+>  skupina v prvním roce
+>  odpisování v dalších letech
+>  odpisování pro zvýšenou
+>  vstupní cenu 1 20 40 33,3 2 11 22,25 20 3 5,5 10,5 10 4 2,15 5,15 5,0 5 1,4 3,4 3,4 6 1,02 2,02 2,
 >
-> **b) Roční odpisová sazba při zvýšení odpisu v prvním roce odpisování o 20 %**
+> - b) Roční odpisová sazba při zvýšení odpisu v prvním roce odpisování o 20 %
 >
-> | Odpisová skupina | v prvním roce odpisování | v dalších letech odpisování | pro zvýšenou vstupní cenu |
-> |---|---|---|---|
-> | 1 | 40 | 30 | 33,3 |
-> | 2 | 31 | 17,25 | 20 |
-> | 3 | 24,4 | 8,4 | 10 |
+> Odpisová
+>  skupina v prvním roce
+>  odpisování v dalších letech
+>  odpisování pro zvýšenou
+>  vstupní cenu 1 40 30 33,3 2 31 17,25 20 3 24,4 8,4 10,
 >
-> **c) Roční odpisová sazba při zvýšení odpisu v prvním roce odpisování o 15 %**
+> - c) Roční odpisová sazba při zvýšení odpisu v prvním roce odpisování o 15 %
 >
-> | Odpisová skupina | v prvním roce odpisování | v dalších letech odpisování | pro zvýšenou vstupní cenu |
-> |---|---|---|---|
-> | 1 | 35 | 32,5 | 33,3 |
-> | 2 | 26 | 18,5 | 20 |
-> | 3 | 19 | 9 | 10 |
+> Odpisová
+>  skupina v prvním roce
+>  odpisování v dalších letech
+>  odpisování pro zvýšenou
+>  vstupní cenu 1 35 32,5 33,3 2 26 18,5 20 3 19 9 10,
 >
-> **d) Roční odpisová sazba při zvýšení odpisu v prvním roce odpisování o 10 %**
+> - d) Roční odpisová sazba při zvýšení odpisu v prvním roce odpisování o 10 %
 >
-> | Odpisová skupina | v prvním roce odpisování | v dalších letech odpisování | pro zvýšenou vstupní cenu |
-> |---|---|---|---|
-> | 1 | 30 | 35 | 33,3 |
-> | 2 | 21 | 19,75 | 20 |
-> | 3 | 15,4 | 9,4 | 10 |
+> Odpisová
+>  skupina v prvním roce
+>  odpisování v dalších letech
+>  odpisování pro zvýšenou
+>  vstupní cenu 1 30 35 33,3 2 21 19,75 20 3 15,4 9,4 10.
 >
-> (2) Roční odpisovou sazbu uvedenou v odstavci 1 písm. b) může použít poplatník s převážně zemědělskou a lesní výrobou, který je prvním odpisovatelem stroje pro zemědělství a lesnictví, v klasifikaci produkce CZ-CPA označeného kódem 28.3. […]
+> (2) Roční odpisovou sazbu uvedenou v odstavci 1 písm. b) může použít poplatník s převážně zemědělskou a lesní výrobou,7) který je prvním odpisovatelem stroje pro zemědělství a lesnictví, v klasifikaci produkce CZ-CPA označeného kódem 28.3. Za poplatníka s převážně zemědělskou a lesní výrobou se pro účely tohoto zákona považuje poplatník, u něhož příjmy z této činnosti činily v předcházejícím zdaňovacím období více než 50 % z celkových příjmů; přitom u poplatníka, jemuž vznikla daňová povinnost v průběhu zdaňovacího období, je rozhodný poměr skutečně dosažených příjmů.
 >
-> (3) Roční odpisovou sazbu uvedenou v odstavci 1 písm. c) může použít poplatník, který je prvním odpisovatelem zařízení pro čištění a úpravu vod v klasifikaci produkce CZ-CPA označeného kódem 28.29.12 […].
+> (3) Roční odpisovou sazbu uvedenou v odstavci 1 písm. c) může použít poplatník, který je prvním odpisovatelem zařízení pro čištění a úpravu vod v klasifikaci produkce CZ-CPA označeného kódem 28.29.12 využívaného ve stavbách zařazených podle Klasifikace stavebních děl CZ-CC vydané Českým statistickým úřadem99) do podtřídy 125113, pro třídicí a úpravárenské zařízení na zhodnocení druhotných surovin zahrnutých v oddílu 28, pomocí něhož jsou zpracovány druhotné suroviny specifikované ve třídě CZ-CPA 38.32.
 >
 > (4) Roční odpisovou sazbu uvedenou v odstavci 1 písm. d) může použít poplatník, který je prvním odpisovatelem hmotného majetku zatříděného podle tohoto zákona v odpisových skupinách 1 až 3 s výjimkou hmotného majetku uvedeného v odstavcích 2, 3 a 5.
 >
-> (5) Roční odpisovou sazbu podle odstavce 1 písm. b) až d) nelze uplatnit u letadel, pokud nejsou využívána provozovateli letecké dopravy […], u motocyklů a osobních automobilů, pokud nejsou využívány provozovateli silniční motorové dopravy a provozovateli taxislužby na základě vydané koncese a provozovateli autoškol […], hmotného majetku v klasifikaci produkce CZ-CPA označeného kódem 27.5 (spotřebiče převážně pro domácnost) a kódem 30.12 (rekreační a sportovní čluny).
+> (5) Roční odpisovou sazbu podle odstavce 1 písm. b) až d) nelze uplatnit u letadel, pokud nejsou využívána provozovateli letecké dopravy a leteckých prací na základě vydané koncese a provozovateli leteckých škol, u motocyklů a osobních automobilů, pokud nejsou využívány provozovateli silniční motorové dopravy a provozovateli taxislužby na základě vydané koncese a provozovateli autoškol nebo pokud se nejedná o osobní automobily v provedení speciální vozidlo podskupiny sanitní a pohřební podle zvláštního právního předpisu,78) hmotného majetku v klasifikaci produkce CZ-CPA označeného kódem 27.5 (spotřebiče převážně pro domácnost) a kódem 30.12 (rekreační a sportovní čluny).
 >
 > (6) Za prvního odpisovatele hmotného movitého majetku se pro účely tohoto zákona považuje poplatník, který si jako první pořídil nový hmotný movitý majetek, který dosud nebyl užíván k určenému účelu a u předchozího odpisovatele byl zbožím. Za prvního odpisovatele hmotného movitého majetku se považuje i poplatník, který tento majetek pořídil nebo vyrobil ve vlastní režii.
 >
-> (7) Při rovnoměrném odpisování se stanoví odpisy hmotného majetku za dané zdaňovací období ve výši jedné setiny součinu jeho vstupní ceny a přiřazené roční odpisové sazby. Poplatník může na základě svého rozhodnutí použít i sazby nižší než maximální sazby uvedené v odstavci 1. […]
+> (7) Při rovnoměrném odpisování se stanoví odpisy hmotného majetku za dané zdaňovací období ve výši jedné setiny součinu jeho vstupní ceny a přiřazené roční odpisové sazby. Poplatník může na základě svého rozhodnutí použít i sazby nižší než maximální sazby uvedené v odstavci 1. Sazby nižší než maximální sazby uvedené v odstavci 1 nemůže použít poplatník uvedený v § 2, který uplatňuje výdaje podle § 7 odst. 7 nebo § 9 odst. 4 a je povinen vést odpisy pouze evidenčně podle § 26 odst. 8 anebo používá hmotný majetek pouze zčásti k zajištění zdanitelného příjmu a do výdajů k zajištění zdanitelného příjmu zahrnuje poměrnou část odpisů podle § 28 odst. 6.
 >
 > (8) Při rovnoměrném odpisování ze zvýšené vstupní ceny hmotného majetku se stanoví odpisy tohoto majetku za dané zdaňovací období ve výši jedné setiny součinu jeho zvýšené vstupní ceny a přiřazené roční odpisové sazby platné pro zvýšenou vstupní cenu.
 >
@@ -713,28 +820,31 @@ Součet odpisů = 11 + 22,25 × 4 = 11 + 89 = **100 %**. Po pěti letech je maje
 
 <details><summary>📜 <b>Text § 32</b></summary>
 
-> (1) Při zrychleném odpisování hmotného majetku jsou odpisovým skupinám přiřazeny tyto koeficienty pro zrychlené odpisování:
+> ### § 32
 >
-> | Odpisová skupina | v prvním roce odpisování | v dalších letech odpisování | pro zvýšenou zůstatkovou cenu |
-> |---|---|---|---|
-> | 1 | 3 | 4 | 3 |
-> | 2 | 5 | 6 | 5 |
-> | 3 | 10 | 11 | 10 |
-> | 4 | 20 | 21 | 20 |
-> | 5 | 30 | 31 | 30 |
-> | 6 | 50 | 51 | 50 |
+> (1) Při zrychleném odpisování hmotného majetku jsou odpisovým skupinám přiřazeny tyto koeficienty pro zrychlené odpisování:
+> Koeficient pro zrychlené odpisováníOdpisová
+>  skupinav prvním roce
+>  odpisovánív dalších letech
+>  odpisovánípro zvýšenou
+>  zůstatkovou cenu134325653101110420212053031306505150.
 >
 > (2) Při zrychleném odpisování se stanoví odpisy hmotného majetku
 >
 > - a) v prvním roce odpisování jako podíl jeho vstupní ceny a přiřazeného koeficientu pro zrychlené odpisování platného v prvním roce odpisování; přitom poplatník, který je prvním odpisovatelem, může tento odpis zvýšit o
->   - 1. 20 % vstupní ceny stroje pro zemědělství a lesnictví, v klasifikaci produkce CZ-CPA označeného kódem 28.3, a to jen u poplatníka s převážně zemědělskou a lesní výrobou,
->   - 2. 15 % vstupní ceny zařízení pro čištění a úpravu vod v klasifikaci produkce CZ-CPA označeného kódem 28.29.12 […],
->   - 3. 10 % vstupní ceny hmotného majetku zatříděného podle tohoto zákona v odpisových skupinách 1 až 3 s výjimkou hmotného majetku uvedeného v bodech 1 a 2 a v § 31 odst. 5,
+>
+> - 1. 20 % vstupní ceny stroje pro zemědělství a lesnictví, v klasifikaci produkce CZ-CPA označeného kódem 28.3, a to jen u poplatníka s převážně zemědělskou a lesní výrobou,7)
+>
+> - 2. 15 % vstupní ceny zařízení pro čištění a úpravu vod v klasifikaci produkce CZ-CPA označeného kódem 28.29.12 využívaného ve stavbách zařazených podle Klasifikace stavebních děl CZ-CC vydané Českým statistickým úřadem99) do podtřídy 125113, pro třídicí a úpravárenské zařízení na zhodnocení druhotných surovin zahrnutých v oddílu 28, pomocí něhož jsou zpracovány druhotné suroviny specifikované ve třídě CZ-CPA 38.32,
+>
+> - 3. 10 % vstupní ceny hmotného majetku zatříděného podle tohoto zákona v odpisových skupinách 1 až 3 s výjimkou hmotného majetku uvedeného v bodech 1 a 2 a v § 31 odst. 5,
+>
 > - b) v dalších zdaňovacích obdobích jako podíl dvojnásobku jeho zůstatkové ceny a rozdílu mezi přiřazeným koeficientem pro zrychlené odpisování a počtem let, po které byl již odpisován.
 >
 > (3) Při zrychleném odpisování majetku zvýšeného o jeho technické zhodnocení se odpisy stanoví
 >
 > - a) v roce zvýšení zůstatkové ceny jako podíl dvojnásobku zvýšené zůstatkové ceny majetku a přiřazeného koeficientu zrychleného odpisování platného pro zvýšenou zůstatkovou cenu,
+>
 > - b) v dalších zdaňovacích obdobích jako podíl dvojnásobku zůstatkové ceny majetku a rozdílu mezi přiřazeným koeficientem zrychleného odpisování platným pro zvýšenou zůstatkovou cenu a počtem let, po které byl odpisován ze zvýšené zůstatkové ceny.
 >
 > (4) Při zkrácení doby odpisování podle § 30 odst. 1 u již odpisovaného hmotného majetku, kdy rozdíl mezi přiřazeným koeficientem pro zrychlené odpisování a počtem let, po které byl již hmotný majetek odpisován, je menší než 2, se pro stanovení ročního odpisu použije vždy rozdíl mezi přiřazeným koeficientem pro zrychlené odpisování a počtem let, po které byl již hmotný majetek odpisován, ve výši 2; přitom do počtu let se zahrnují pouze celá zdaňovací období podle § 21a.

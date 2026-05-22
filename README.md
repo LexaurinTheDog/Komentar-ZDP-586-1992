@@ -26,8 +26,8 @@ Začněte v [INDEX.md](INDEX.md), který obsahuje úplný obsah, mapu paragrafů
 
 - **13 kapitol** komentáře (00—12) + INDEX
 - Pokrývá **§ 1—42 ZDP** napříč všemi sedmi částmi zákona (DPFO, DPPO, společná ustanovení, správa daní, registrace, pravomoci, přechodná ustanovení)
-- Přibližně **135 000 slov** výkladu
-- **U každého komentovaného paragrafu je vloženo přesné aktuální znění** zákona (rozbalovací blok `<details>📜 Text § N`)
+- Přibližně **159 000 slov** (výklad + doslovná znění zákona)
+- **U každého z 189 paragrafů (§ 1 až § 42 včetně všech písmenných) je vloženo úplné doslovné znění** zákona z e-Sbírky (rozbalovací blok `<details>📜 Text § N`) — bez zkracování a bez vynechaných odstavců či písmen
 
 ## Metoda
 
