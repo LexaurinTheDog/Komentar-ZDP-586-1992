@@ -304,6 +304,11 @@ Tato daň se následně snižuje o **slevy na dani** podle § 35ba (→ § 16ab,
 
 **Vztah k slevám na dani (§ 35ba).** Zásadní rozdíl: výsledkem § 16 je *daň před slevami*. Slevy na dani (např. základní sleva na poplatníka, sleva na manžela, na invaliditu, na držitele průkazu ZTP/P) snižují *vypočtenou daň* v poměru 1 : 1, kdežto nezdanitelné části podle § 15 snižovaly *základ daně* a jejich efekt byl roven jen sazbě × odpočet. Slevu nelze zaměňovat s nezdanitelnou částí — jde o dvě odlišné fáze výpočtu. *Daňové zvýhodnění na dítě* podle § 35c jde dokonce nad rámec snížení daně až do záporných hodnot v podobě *daňového bonusu* (→ § 35c).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2023/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E99151B687B3E8D7C1257A4E0065417D?openDocument) — 14. 6. 2005, kat. A
+  > „Zaplatil-li zaměstnanec vyšší daň z příjmů fyzických osob jenom proto, že mu zaměstnavatel vyplatil náhradu za ztrátu na výdělku po skončení pracovní neschopnosti náležející mu za delší časové období po lhůtě splatnosti jednorázově, vznikla tím zaměstnanci škoda, za kterou zaměstnavatel odpovídá podle § 187 odst. 2 zák. práce"
+
 ---
 
 ### § 16a — Sazba a výpočet daně pro samostatný základ daně

@@ -249,6 +249,11 @@ Klíčová pravidla aplikace paušálu:
 
 **Archivace (odst. 5).** Daňovou evidenci je nutno uschovat za všechna období, pro něž *neuplynula lhůta pro stanovení daně* (→ § 148 daňového řádu — obecně 3 roky, s možností prodloužení až na 10 let).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 4092/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-32_Cdo_4092_2014.txt) — 27. 10. 2015, kat. A
+  > „Zpracování daňového přiznání pro jiné subjekty podnikatelským způsobem nespadá pod živnost „činnost účetních poradců, vedení účetnictví, vedení daňové evidence“ je-li proto pojistná smlouva sjednána k pojištění odpovědnosti za škodu způsobenou v souvislosti s provozováním této živnosti, nevztahuje se na škodu způsobenou pochybením učiněným až při samotném zpracování daňového přiznání. O to nejde tam, kde k pochybení došlo již v rámci vedení daňové evidence a do daňového přiznání bylo pouze přeneseno"
+
 ---
 
 ### § 8 — Příjmy z kapitálového majetku

@@ -307,6 +307,11 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 > *Pozn.: Pro doslovnost je úplné znění § 24 uvedeno vcelku zde; následující oddíly je rozebírají po jednotlivých odstavcích a písmenech a text zákona již neopakují.*
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
+  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+
 ---
 
 ### § 24 odst. 1 — Obecný test daňové uznatelnosti
@@ -324,6 +329,11 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 **Kompenzované účtování.** Třetí věta řeší situaci, kdy účetní jednotka účtuje náklady a výnosy kompenzovaně (saldově). Pro účely testu uznatelnosti limitované výší příjmů se na takové operace hledí, jako by byly účtovány odděleně — zabraňuje se obcházení limitů „čistým" vykázáním.
 
 → § 23 (konstrukce základu daně), → § 25 (výluky), → § 7 odst. 7 a § 9 odst. 4 (alternativa: paušální výdaje procentem z příjmů, kde se § 24 neaplikuje).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
+  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
 
 ---
 
@@ -345,6 +355,11 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 → § 26 a násl. (odpisy), → § 29 (vstupní a zůstatková cena), → § 38f (zápočet zahraniční daně), → zákon č. 563/1991 Sb., o účetnictví (účetní odpisy, ocenění majetku).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
+  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+
 ---
 
 ### § 24 odst. 2 písm. i) až ch) — Rezervy, opravné položky, sociální podmínky, cestovní náhrady, škody
@@ -362,6 +377,11 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 **Škody [písm. l)].** Pouze tři tituly umožňují uznat škodu **v plné výši** (bez omezení výší náhrady): škoda z *živelní pohromy* (definice → § 24 odst. 10: požár, výbuch, blesk, vichřice nad 75 km/h, povodeň, krupobití, sesuv půdy, lavina, zemětřesení od 4. stupně), škoda od *neznámého pachatele* (potvrzení policie) a zvýšené výdaje z úředních opatření. Ostatní škody jen do výše náhrad [písm. c)], resp. nad rámec náhrad neuznatelné [→ § 25 odst. 1 písm. n)].
 
 → zákon č. 593/1992 Sb. (rezervy a opravné položky), → zákoník práce (cestovní náhrady), → § 6 (zdanění benefitů u zaměstnance), → § 24 odst. 10 (definice živelní pohromy).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
+  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
 
 ---
 
@@ -393,6 +413,11 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 → § 25 odst. 1 písm. x) (zákaz souběhu skutečných PHM s paušálem), → § 593/1992 Sb. (opravné položky k pohledávkám), → § 23 odst. 3 (mimoúčetní úpravy u sankcí do zaplacení).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
+  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+
 ---
 
 ### § 24 odst. 3 až 14 — Doplňující pravidla (leasing, nabývací cena podílu, prodej závodu, definice živelní pohromy)
@@ -408,6 +433,11 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 **Živelní pohroma [odst. 10].** Legální definice pro účely § 24 odst. 2 písm. l) — výlučný výčet přírodních událostí, vždy s prahovými parametry (vichřice nad 75 km/h, zemětřesení od 4. stupně). Výše škody musí být doložena posudkem pojišťovny nebo soudního znalce.
 
 → § 21d (definice finančního leasingu a minimální doby), → § 17a (veřejně prospěšný poplatník), → § 24a, § 24b (závazné posouzení).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
+  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
 
 ---
 
