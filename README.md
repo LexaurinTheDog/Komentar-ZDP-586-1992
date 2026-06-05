@@ -37,6 +37,10 @@ Komentář byl sestaven AI asistentem (**Claude Opus 4.7**) **výhradně z loká
 
 Tento komentář **není autoritativním právním stanoviskem** ve smyslu § 4 odst. 1 OZ a neslouží jako daňové poradenství. Daň z příjmů je oblast s mimořádně rychlým legislativním vývojem; pro praktickou aplikaci je nutné ověřit aktuální znění (e-Sbírka), aktuální judikaturu (NSS, ÚS, SDEU) a stanoviska finanční správy a konzultovat daňového poradce nebo advokáta.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z dobového sněmovního tisku, digitální knihovna Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
