@@ -96,6 +96,45 @@ U penzijního připojištění a doplňkového penzijního spoření platí *zvl
 
 Procesní rovina: uplatnění nezdanitelných částí podléhá obecnému **dokazování** podle daňového řádu (§ 92 zákona č. 280/2009 Sb.) — poplatník nese důkazní břemeno, prokazuje nárok smlouvami, potvrzeními banky/penzijní společnosti/pojišťovny, potvrzeními o darech apod. Nesplnění hmotněprávních podmínek vede k doměření daně, případné dodanění dříve uplatněných odpočtů (sankční mechanismy odst. 4 a 5) probíhá formou dodatečného přiznání nebo doměřovacího řízení (→ § 10).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Manželé Novákovi hospodaří ve společné domácnosti. V roce 2025 zaplatili na hypotečním úvěru na rodinný dům, v němž oba trvale bydlí, úroky 180 000 Kč. Pan Novák dále poukázal 6 000 Kč registrované charitě a 4× bezúplatně daroval krev. Paní Nováková zaplatila 40 000 Kč na doplňkové penzijní spoření (nad částku krytou nejvyšším státním příspěvkem) a 20 000 Kč pojistné na soukromé životní pojištění. Důkazy: úvěrová smlouva a roční potvrzení banky o zaplacených úrocích, potvrzení o trvalém bydlišti (list vlastnictví, výpis z evidence obyvatel), potvrzení obdarované organizace o daru a jejím účelu, potvrzení transfuzní stanice o odběrech, potvrzení penzijní společnosti a pojišťovny o zaplacených příspěvcích.
+
+**2. Právní otázka.** V jaké výši a kterému z manželů lze uplatnit jednotlivé nezdanitelné části základu daně, jestliže součet úroků převyšuje domácnostní strop 150 000 Kč a součet příspěvků na produkty spoření na stáří převyšuje strop 48 000 Kč?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 — taxativní výčet nezdanitelných částí (dary, úroky z úvěru na bydlení, produkty spoření na stáří a pojištění dlouhodobé péče), jejich prahy a stropy.
+- *Související ustanovení téhož zákona:* § 4b (vymezení bytové potřeby — podmínka odpočtu úroků); § 15a, § 15b, § 15c (definice a daňová podpora produktů spoření a pojištění); § 16 a § 16ab (efekt odpočtu = sazba × odpočet); § 7 odst. 4, 5 (rozdělení daru poskytnutého v. o. s./k. s.); § 10 (dodanění při zániku nároku u pozemku); § 38h, § 38ch (roční zúčtování záloh u zaměstnance).
+- *Související předpisy:* zákon č. 280/2009 Sb., daňový řád, § 92 (důkazní břemeno poplatníka); zákon o sociálních službách (č. 108/2006 Sb.) pro § 15c; zákon o specifických zdravotních službách (paušální ocenění odběrů).
+- *Judikatura:* k odpočtu úroků a darů ustálená správní praxe NSS (nutnost prokázat splnění všech hmotněprávních podmínek — účel úvěru, trvalé bydlení, účel a příjemce daru). K odst. 8 nosný závěr SDEU o zákazu diskriminace „téměř-rezidentů" (rezident jiného členského státu, který dosahuje podstatné části příjmů ve státě zdroje, má nárok na osobní/rodinné daňové výhody). Konkrétní spisové značky je nutné před použitím ověřit v databázi.
+
+**4. Subsumpce.** *Úroky:* podmínky (úvěr na bytovou potřebu dle § 4b, trvalé bydlení, zaplacení) splněny; strop 150 000 Kč se vztahuje na domácnost, nikoli na osobu — z 180 000 Kč lze odečíst max. 150 000 Kč, manželé je rozdělí (jeden, nebo každý rovným dílem). *Dar 6 000 Kč:* práh ≥ 1 000 Kč splněn, strop 15 % ZD nevyčerpán → odečte celých 6 000 Kč. *Krev:* 4 × 3 000 = 12 000 Kč paušálně, práh splněn. *Spoření paní Novákové:* 40 000 + 20 000 = 60 000 Kč > 48 000 Kč → odečte jen 48 000 Kč.
+
+**5. Řešení.** Manželé optimalizují přiřazení úroků a daru tomu z nich, kdo má vyšší mezní sazbu (efekt odpočtu roste se sazbou — 15 %, resp. 23 % nad progresivní hranicí). Strop úroků 150 000 Kč nelze násobit počtem poplatníků. Limit spoření 48 000 Kč je společný pro všechny produkty jednoho poplatníka; přebytek 12 000 Kč propadá (nelze převést na manžela ani do dalšího roku). Procesně: nezdanitelné části se uplatní v daňovém přiznání, u zaměstnance v ročním zúčtování (zaměstnavatel je v průběhu roku nezohledňuje měsíčně). Riziko: neunesení důkazního břemene (chybějící potvrzení banky, neprokázané trvalé bydlení) vede k doměření daně.
+
+**6. Varianty.** (a) Část domu pan Novák pronajímá → odpočet úroků jen v *poměrné výši* odpovídající bydlení. (b) Úvěr byl čerpán na pozemek (§ 4b odst. 1 písm. b) a výstavba nebyla zahájena do 4 let → nárok zaniká a dříve odečtené úroky se stávají *příjmem podle § 10* (zpětné dodanění).
+
+#### G. Protiargumenty a rizika
+
+- *„Strop 150 000 Kč platí na každého poplatníka."* Nikoli — odst. 4 jej výslovně váže na úhrn všech úvěrů všech poplatníků v téže společně hospodařící domácnosti. Neutralizace: doložit, že jde o jednu domácnost; rozdělení mění jen rozložení odpočtu mezi manžele, nikoli celkovou částku.
+- *„Nevyčerpaný limit spoření 48 000 Kč si převedu do dalšího roku nebo na manžela."* Limit je roční a osobní; převod zákon neumožňuje. Slabé místo plánování: rozložit příspěvky tak, aby se každý rok limit využil, ale nepřekročil.
+- *Slabá místa:* korunová hodnota progresivní hranice a výše slev nejsou v § 15 a je nutné je dohledat; u nerezidentů je nutné prokázat 90% podíl příjmů potvrzením zahraničního správce daně — chybějící potvrzení je častý důvod neuznání odpočtu.
+
+#### H. Praktický závěr
+
+Nezdanitelné části podle § 15 snižují *základ daně*, nikoli daň; jejich přínos je roven sazbě × odpočtu. Klíčové je hlídat prahy (dar > 2 % ZD nebo ≥ 1 000 Kč) a stropy (dary 15 % ZD; úroky 150 000 Kč na domácnost; produkty spoření 48 000 Kč na poplatníka) a optimalizovat přiřazení mezi manžele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá příjemce i účel daru do taxativního výčtu odst. 1 (vč. EU/EHP)?
+- [ ] Je splněn práh daru (> 2 % ZD nebo ≥ 1 000 Kč) a dodržen strop 15 % ZD?
+- [ ] Jde u úroků o úvěr na bytovou potřebu dle § 4b a užívá poplatník předmět k trvalému bydlení (svému/osob blízkých)?
+- [ ] Nepřekročil úhrn úroků 150 000 Kč za domácnost (resp. 1/12 měsíčně)?
+- [ ] Nepřekročil úhrn příspěvků na produkty spoření a pojištění dlouhodobé péče 48 000 Kč u poplatníka?
+- [ ] U penzijního připojištění/DPS odečtena jen část nad nejvyšší státní příspěvek?
+- [ ] U nerezidenta: rezident EU/EHP a 90 % příjmů z ČR, doloženo potvrzením?
+
+**Typicky rozhodné důkazy / podklady:** roční potvrzení banky o zaplacených úrocích, úvěrová smlouva, doklad o trvalém bydlení a vlastnictví/členství, potvrzení obdarovaného o daru a účelu, potvrzení transfuzní stanice/zdravotnického zařízení o odběrech, potvrzení penzijní společnosti/pojišťovny, u nerezidenta potvrzení zahraničního správce daně.
+
 ---
 
 ### § 15a — Produkt spoření na stáří
@@ -138,6 +177,43 @@ Definice jsou *autonomní pro účely daní z příjmů* — nemusí se zcela kr
 - *DIP* (odst. 5): odkaz na zákon o podnikání na kapitálovém trhu, s rozšířením na obdobné zahraniční produkty.
 
 Definice v § 15a je společným základem jak pro odpočet podle § 15 odst. 6, tak pro osvobození zaměstnaneckých příspěvků (→ § 6) a pro podmínky daňové podpory podle § 15b.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník uzavře u pojišťovny v jiném členském státě EU smlouvu o životním pojištění pro případ dožití se sjednanou pojistnou částkou pro případ dožití 50 000 Kč a pojistnou dobou 25 let. Současně zvažuje, zda mu pro daňový odpočet „postačí" i dlouhodobý investiční produkt (DIP) zřízený u zahraničního obchodníka s cennými papíry. Důkazy: pojistná smlouva s uvedením druhu pojištění, pojistné doby a pojistné částky pro případ dožití; doklad o oprávnění pojišťovny provozovat činnost v EU/EHP; smluvní dokumentace DIP a doklad o oprávnění poskytovatele.
+
+**2. Právní otázka.** Splňuje sjednané životní pojištění definici „soukromého životního pojištění" jako produktu spoření na stáří podle § 15a, je-li pojistná částka pro případ dožití při pojistné době nad 20 let pouze 50 000 Kč?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15a — autonomní daňová definice „produktu spoření na stáří" (pět typů) a jejich parametrů, zejména limity pojistné částky pro případ dožití (odst. 3).
+- *Související ustanovení téhož zákona:* § 15 odst. 6 (odpočet příspěvků — navazuje na definici); § 15b (kdy je produkt *daňově podporovaný*); § 6 (osvobození zaměstnaneckého příspěvku na produkt); § 8 (zdanění výnosů z kapitálového majetku/DIP).
+- *Související předpisy:* zákon upravující podnikání na kapitálovém trhu (definice DIP — odst. 5); zákon o doplňkovém penzijním spoření a zákon o penzijním připojištění se státním příspěvkem; předpisy o pojišťovnictví (oprávnění pojišťovny v EU/EHP).
+- *Judikatura:* k autonomnímu výkladu daňových pojmů obecný nosný závěr, že daňové definice se vykládají podle účelu daňového zákona a nemusí se krýt s pojmy sektorových předpisů. Specifická judikatura k § 15a (zavedenému od 2024) je zatím sporá; ověřit v databázi.
+
+**4. Subsumpce.** Jde o pojištění pro případ dožití sjednané s pojišťovnou oprávněnou působit v EU/EHP — typový znak naplněn. Pojistná doba činí 25 let (nad 20 let), proto se uplatní limit písm. b): pojistná částka pro případ dožití musí být *nejméně 70 000 Kč*. Sjednaných 50 000 Kč tento limit *nedosahuje* → smlouva nesplňuje definici soukromého životního pojištění jako produktu spoření na stáří. DIP zřízený u oprávněného zahraničního poskytovatele v EU/EHP definici odst. 5 naopak splňuje.
+
+**5. Řešení.** Pojištění v dané podobě neumožní daňový odpočet podle § 15 odst. 6 (není „produktem spoření na stáří" ve smyslu § 15a). Řešení: navýšit pojistnou částku pro případ dožití alespoň na 70 000 Kč, nebo zkrátit pojistnou dobu do 20 let (pak postačí 40 000 Kč). DIP lze do odpočtu zahrnout, je-li současně *daňově podporovaný* podle § 15b (časová a věková podmínka). Pozor: samotné splnění definice § 15a nestačí pro odpočet — kumulativně musí být splněna i daňová podpora dle § 15b.
+
+**6. Varianty.** (a) Pojistná doba 15 let a pojistná částka pro případ dožití 40 000 Kč → definice splněna. (b) Pojištění bez sjednané pojistné částky pro případ dožití (pouze pojištění důchodu) → limit pojistné částky se posuzuje podle částky odpovídající jednorázovému plnění při dožití (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *„Definice v § 15a se musí krýt se zákonem o pojišťovnictví/kapitálovém trhu."* Nikoli — § 15a obsahuje *autonomní* definice „pro účely daní z příjmů"; sektorové předpisy jsou východiskem, ne závazným měřítkem. Neutralizace: posuzovat splnění daňových znaků samostatně.
+- *„Produkt splňuje § 15a, tedy mám nárok na odpočet."* Definice je jen *vstupní branou*; nárok na odpočet je dále podmíněn daňovou podporou podle § 15b (10 let + 60 let). Slabé místo: opomenutí kumulativní podmínky § 15b.
+- *Slabé místo:* u zahraničních produktů je nutné prokázat oprávnění poskytovatele/pojišťovny působit v EU/EHP; chybějící doklad ohrožuje uznání produktu.
+
+#### H. Praktický závěr
+
+§ 15a je definiční (technické) ustanovení: vymezuje pět produktů spoření na stáří a jejich parametry. Pro praxi je rozhodující kontrola limitů pojistné částky pro případ dožití u životního pojištění (40 000 / 70 000 Kč podle délky pojistné doby) a zahrnutí DIP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá produkt do některé z pěti kategorií odst. 1?
+- [ ] U životního pojištění: jde o pojištění pro případ dožití/dožití-smrti/důchodu s nárokem nejdříve v roce 60 let věku?
+- [ ] Je dodržen limit pojistné částky pro případ dožití (≥ 40 000 Kč při 10–20 letech; ≥ 70 000 Kč nad 20 let)?
+- [ ] U instituce penzijního pojištění/DIP: oprávnění a dohled v EU/EHP?
+- [ ] Pamatováno, že § 15a sám o sobě nezakládá odpočet — nutná i daňová podpora dle § 15b?
+
+**Typicky rozhodné důkazy / podklady:** pojistná/produktová smlouva s uvedením druhu, pojistné doby a pojistné částky pro případ dožití; doklad o oprávnění a dohledu nad poskytovatelem/pojišťovnou v EU/EHP; produktová dokumentace DIP dle zákona o podnikání na kapitálovém trhu.
 
 ---
 
@@ -224,6 +300,44 @@ Jde tedy o **zpětné dodanění** dříve čerpaných výhod za desetileté „
 
 *Příklad 5 — předčasný výběr.* Poplatník si po 6 letech (před dosažením 60 let i před uplynutím 120 měsíců) nechá vyplatit prostředky z doplňkového penzijního spoření, aniž by šlo o invaliditu či jinou výjimku. Příspěvky, které si za posledních 10 let odečetl od základu daně, se stanou *příjmem podle § 10*; příspěvky zaměstnavatele osvobozené v posledních 10 letech *příjmem podle § 6*. Obojí dodaní ve svém přiznání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník si 8 let spořil v doplňkovém penzijním spoření (DPS) a každý rok si od základu daně odečetl část příspěvků; zaměstnavatel mu navíc přispíval a tyto příspěvky byly osvobozené. Ve věku 52 let (před uplynutím 120 měsíců i před rokem dosažení 60 let) si nechá vyplatit naspořené prostředky formou jednorázového odbytného, aniž by šlo o invaliditu III. stupně, smrt či převod na jiný produkt stejného druhu. Důkazy: smlouva o DPS s datem vzniku, výpis o době trvání, doklady o výši vlastních odečtených příspěvků za posledních 10 zdaňovacích období, potvrzení zaměstnavatele o výši osvobozených příspěvků za totéž období, doklad o výplatě a jejím důvodu.
+
+**2. Právní otázka.** Nastává navrácení daňové podpory a v jaké výši a v jakém režimu (§ 10 vs. § 6) se dříve uplatněné výhody dodaňují, došlo-li k výplatě před splněním podmínky 120 měsíců / 60 let bez zákonné výjimky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15b — podmínky daňové podpory (odst. 1), důvody a obsah navrácení daňové podpory (odst. 4 a 5), oznamovací povinnost (odst. 3), kontinuita doby (odst. 7).
+- *Související ustanovení téhož zákona:* § 15a (definice produktu); § 15 odst. 6 (odpočet, který se navrací); § 10 (ostatní příjmy — dodanění vlastních příspěvků); § 6 (příjem ze závislé činnosti — dodanění osvobozených příspěvků zaměstnavatele, ale „nevyplácený plátcem"); § 38g (povinnost podat přiznání).
+- *Související předpisy:* zákon o doplňkovém penzijním spoření a zákon o penzijním připojištění se státním příspěvkem (podmínky výplaty, předdůchod); daňový řád (§ 92 — důkazní břemeno; dodatečné/doměřovací řízení).
+- *Judikatura:* k institutu zpětného dodanění dříve uplatněných odpočtů (dříve u životního pojištění dle § 15 odst. 6 ve znění do 2023) nosný závěr, že porušení podmínek vede ke vzniku zdanitelného příjmu ve výši dříve odečtených částek. Konkrétní rozhodnutí ověřit; § 15b je nový (od 2024).
+
+**4. Subsumpce.** Výplata nastala *před* 120 měsíci i *před* rokem dosažení 60 let; nejde o invaliditu III. stupně, smrt, předdůchodové plnění z DPS ani o převod na produkt stejného druhu do 1 měsíce → naplněn důvod navrácení podle odst. 4 písm. a). Obsah navrácení (odst. 5): vlastní odečtené příspěvky za posledních 10 období → *příjem podle § 10*; osvobozené příspěvky zaměstnavatele za daný a 10 předcházejících období → *příjem podle § 6*.
+
+**5. Řešení.** Poplatník v daňovém přiznání zdaní jako *ostatní příjem (§ 10)* úhrn vlastních příspěvků odečtených za posledních 10 zdaňovacích období a jako *příjem ze závislé činnosti (§ 6)* úhrn osvobozených příspěvků zaměstnavatele za daný a 10 předcházejících období; tento příjem se nepovažuje za vyplácený plátcem, takže jej nezdaňuje zaměstnavatel, ale poplatník sám. Doba trvání produktu před výplatou (8 let) se započítá k limitu 120 měsíců jen při legitimním převodu na nový produkt stejného druhu (odst. 7) — zde se neuplatní, protože šlo o výplatu. Riziko: opomenutí dodanění a nepodání přiznání → doměření daně, penále a úrok z prodlení.
+
+**6. Varianty.** (a) Výplata z důvodu přiznané invalidity III. stupně → navrácení nenastává (výjimka odst. 4 písm. a bod 1). (b) Poskytovateli odňato povolení a prostředky poplatník do 1 měsíce vloží na jiný daňově podporovaný produkt stejného druhu → navrácení nenastává a doba trvání se započte (odst. 4 písm. a bod 2 a odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *„Předčasným výběrem přijdu jen o budoucí podporu, nikoli o tu už vyčerpanou."* Nikoli — odst. 5 zavádí *zpětné* dodanění za desetileté klouzavé okno. Neutralizace: posoudit, zda nelze využít některou výjimku (invalidita, předdůchod z DPS, převod).
+- *„Příspěvky zaměstnavatele dodaní zaměstnavatel jako plátce."* Nikoli — odst. 5 písm. b výslovně stanoví, že tento příjem se nepovažuje za vyplácený plátcem; dodaňuje jej poplatník v přiznání. Slabé místo: nesprávné očekávání srážky plátcem.
+- *Slabé místo:* prokázání výše dříve odečtených/osvobozených příspěvků za 10 let — poplatník nese důkazní břemeno; chybějící evidence komplikuje správné dodanění. Oznamovací povinnost vůči zaměstnavateli (odst. 3) bývá opomíjena.
+
+#### H. Praktický závěr
+
+§ 15b je „strážcem" účelu úlevy: výhodu lze čerpat jen při dodržení podmínky 120 měsíců a zároveň 60 let věku (s taxativními výjimkami). Předčasné porušení spouští navrácení daňové podpory — zpětné dodanění vlastních příspěvků v režimu § 10 a osvobozených příspěvků zaměstnavatele v režimu § 6 za desetileté okno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výplata/plnění/odepsání v souladu s odst. 1 (10 let a zároveň 60 let, příp. invalidita III. stupně/zánik)?
+- [ ] Nenastal některý důvod navrácení podle odst. 4 (předčasná výplata, zánik produktu, vyplacení výnosů z DIP mimo produkt)?
+- [ ] Uplatní se některá výjimka (invalidita III. stupně, smrt, převod na produkt stejného druhu do 1 měsíce, předdůchod z DPS)?
+- [ ] Vyčíslen příjem dle § 10 (vlastní příspěvky za 10 období) a dle § 6 (osvobozené příspěvky zaměstnavatele za daný + 10 období)?
+- [ ] Splněna oznamovací povinnost zaměstnance vůči zaměstnavateli (odst. 3) do konce měsíce?
+- [ ] Při převodu zohledněna kontinuita doby trvání dle odst. 7?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o produktu s datem vzniku a údajem o době trvání; doklady o výši vlastních odečtených příspěvků za 10 zdaňovacích období; potvrzení zaměstnavatele o výši osvobozených příspěvků; doklad o výplatě/plnění a jeho důvodu (vč. dokladu o invaliditě, předdůchodu či převodu); oznámení zaměstnavateli.
+
 ---
 
 ### § 15c — Pojištění dlouhodobé péče
@@ -258,6 +372,44 @@ Pro **daňovou podporu** musí být splněny podmínky odst. 2:
 - jde buď o *obnosové pojištění* s opakovaným měsíčním plněním po celou dobu závislosti, nebo o *škodové pojištění* ve formě poskytnutí péče nebo náhrady nákladů na péči.
 
 Naopak (odst. 3) **není** daňově podporované pojištění, kde pojistitel může smlouvu vypovědět později než 2 měsíce od uzavření nebo na základě oznámení pojistné události, anebo si vyhradil právo měnit pojistné podle věku či zdravotního stavu pojištěného. Tato negativní vymezení mají chránit pojistníka před produkty, jejichž ochrana by se v okamžiku potřeby ukázala jako iluzorní (možnost výpovědi po hlášené pojistné události) nebo neúnosně drahá.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník uzavře pojištění, jehož pojistnou událostí je jeho vlastní závislost na pomoci jiné osoby. Ve smlouvě je sjednáno opakované měsíční pojistné plnění, avšak plnění je vázáno již na *stupeň závislosti II*; pojistitel si dále vyhradil právo měnit výši pojistného podle vývoje zdravotního stavu pojištěného a možnost smlouvu vypovědět na základě oznámení pojistné události. Poplatník chce zaplacené pojistné uplatnit v rámci společného limitu 48 000 Kč. Důkazy: pojistná smlouva a pojistné podmínky (definice pojistné události, navázání na stupeň závislosti, výpovědní a sankční ujednání, mechanismus změny pojistného), potvrzení pojišťovny o zaplaceném pojistném, doklad o oprávnění pojišťovny v EU/EHP.
+
+**2. Právní otázka.** Jde o daňově podporované pojištění dlouhodobé péče podle § 15c, je-li plnění vázáno na stupeň závislosti II a pojistitel si vyhradil změnu pojistného podle zdravotního stavu a výpověď po oznámení pojistné události?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15c — definice pojištění dlouhodobé péče (odst. 1), podmínky daňové podpory (odst. 2 — stupeň závislosti III/IV, forma plnění) a negativní vymezení (odst. 3 — výpověď, změna pojistného).
+- *Související ustanovení téhož zákona:* § 15 odst. 6 (společný limit 48 000 Kč, do nějž pojistné spadá); § 15a, § 15b (souběžné produkty spoření v témže limitu).
+- *Související předpisy:* zákon o sociálních službách (č. 108/2006 Sb.) — vymezení stupňů závislosti III a IV; předpisy o pojišťovnictví (oprávnění pojišťovny v EU/EHP; rozdíl obnosového a škodového pojištění dle občanského zákoníku/zákona o pojišťovnictví).
+- *Judikatura:* k posouzení stupně závislosti správní judikatura NSS k zákonu o sociálních službách (kritéria zvládání základních životních potřeb). Specifická judikatura k § 15c (od 2024) zatím chybí; ověřit.
+
+**4. Subsumpce.** Pojistná událost (vlastní závislost) a oprávněná pojišťovna v EU/EHP odpovídají odst. 1. Avšak odst. 2 písm. b) vyžaduje vztah ke *stupni závislosti III nebo IV* — sjednaný stupeň II podmínku *nesplňuje*. Navíc jsou naplněna obě negativní vymezení odst. 3: pojistitel může měnit pojistné podle zdravotního stavu (písm. b) a vypovědět smlouvu po oznámení pojistné události (písm. a). → pojištění *není* daňově podporované.
+
+**5. Řešení.** Zaplacené pojistné nelze zahrnout do odpočtu podle § 15 odst. 6. Náprava: sjednat plnění navázané na stupeň závislosti III/IV, vyloučit právo pojistitele měnit pojistné podle věku/zdravotního stavu a omezit výpověď na nejvýše 2 měsíce od uzavření (a nikoli po oznámení pojistné události). Teprve pak je pojistné daňově uznatelné (v rámci společného stropu 48 000 Kč). Riziko: poplatník uplatní odpočet v dobré víře podle marketingového označení produktu, aniž ověří splnění odst. 2 a 3 → následné doměření.
+
+**6. Varianty.** (a) Plnění navázáno na stupeň závislosti III a IV a pojistitel nemá právo měnit pojistné ani vypovědět po oznámení události → daňová podpora splněna. (b) Škodové pojištění hradící náklady péče po celou dobu závislosti III/IV → rovněž daňově podporované (odst. 2 písm. c bod 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Pojištění se jmenuje ‚dlouhodobá péče', tedy je daňově uznatelné."* Marketingové označení nerozhoduje; rozhodují materiální podmínky odst. 2 a 3 (stupeň III/IV, forma plnění, zákaz výpovědi a změny pojistného). Neutralizace: kontrola pojistných podmínek.
+- *„Stačí jakákoli závislost na péči."* Nikoli — daňová podpora se vztahuje jen na *nejtěžší* stupně závislosti III a IV podle zákona o sociálních službách. Slabé místo: produkty kryjící i nižší stupně bez oddělení daňově podporované složky.
+- *Slabé místo:* posouzení, zda jde o obnosové či škodové pojištění a zda plnění trvá *po celou dobu* závislosti; chybějící doklad o oprávnění pojišťovny v EU/EHP.
+
+#### H. Praktický závěr
+
+§ 15c definuje úzce vymezený daňově podporovaný produkt: pojistné lze odečíst (v rámci limitu 48 000 Kč) jen u pojištění krytí závislosti stupně III/IV, s plněním po celou dobu závislosti a bez „únikových" ujednání pojistitele (výpověď po oznámení události, změna pojistného podle zdravotního stavu).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pojistnou událostí závislost pojištěného (či osoby blízké) na pomoci jiné osoby z důvodu dlouhodobě nepříznivého zdravotního stavu?
+- [ ] Vzniká právo na plnění *pojištěnému* a vztahuje se na stupeň závislosti III nebo IV?
+- [ ] Jde o obnosové pojištění (opakované měsíční plnění) nebo škodové (péče/náhrada nákladů) po celou dobu závislosti?
+- [ ] Nemá pojistitel právo vypovědět smlouvu později než 2 měsíce od uzavření nebo po oznámení události?
+- [ ] Nemá pojistitel právo měnit pojistné podle věku/zdravotního stavu?
+- [ ] Je pojistné započteno do společného limitu 48 000 Kč dle § 15 odst. 6?
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva a pojistné podmínky (definice pojistné události, navázání na stupeň závislosti III/IV, forma plnění, výpovědní a sankční ujednání, mechanismus změny pojistného), potvrzení pojišťovny o zaplaceném pojistném, doklad o oprávnění pojišťovny působit v EU/EHP, případně rozhodnutí o stupni závislosti.
 
 ---
 
@@ -309,6 +461,44 @@ Tato daň se následně snižuje o **slevy na dani** podle § 35ba (→ § 16ab,
 - *NS* [21 Cdo 2023/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E99151B687B3E8D7C1257A4E0065417D?openDocument) — 14. 6. 2005, kat. A
   > „Zaplatil-li zaměstnanec vyšší daň z příjmů fyzických osob jenom proto, že mu zaměstnavatel vyplatil náhradu za ztrátu na výdělku po skončení pracovní neschopnosti náležející mu za delší časové období po lhůtě splatnosti jednorázově, vznikla tím zaměstnanci škoda, za kterou zaměstnavatel odpovídá podle § 187 odst. 2 zák. práce"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** OSVČ dosáhne za zdaňovací období dílčích základů daně, z nichž po sečtení (§ 5) a po odečtení nezdanitelných částí (§ 15) a odčitatelných položek (§ 34) vznikne základ daně 2 480 000 Kč. Progresivní hranice (36násobek průměrné mzdy) pro daný rok činí — dle nařízení vlády — určitou částku, kterou poplatník musí nejprve ověřit; ilustrativně 1 800 000 Kč. Důkazy: daňová evidence / účetnictví prokazující dílčí základy, doklady k nezdanitelným částem a odčitatelným položkám, nařízení vlády stanovící průměrnou mzdu pro dané období.
+
+**2. Právní otázka.** Jakou sazbou a v jakém pořadí kroků se vypočte daň z základu daně, který přesahuje 36násobek průměrné mzdy, a aplikuje se vyšší sazba 23 % na celý základ, nebo jen na jeho nadlimitní část?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 — klouzavě progresivní sazba (15 % do 36násobku průměrné mzdy, 23 % nad) a algoritmus výpočtu (odst. 2 — snížení o nezdanitelné části a odčitatelné položky, zaokrouhlení na celá sta Kč dolů, součet součinů).
+- *Související ustanovení téhož zákona:* § 5 (sestavení základu daně z dílčích základů § 6–§ 10); § 15 (nezdanitelné části); § 34 (odčitatelné položky); § 16ab (vazba na slevy a daň ze samostatného základu); § 35ba a § 35c (slevy a daňové zvýhodnění — snižují až *vypočtenou* daň).
+- *Související předpisy:* zákon o pojistném na sociální zabezpečení (definice průměrné mzdy — všeobecný vyměřovací základ × přepočítací koeficient); nařízení vlády stanovící údaje pro daný rok; daňový řád (§ 146 — zaokrouhlování, vyměření).
+- *Judikatura:* NS 21 Cdo 2023/2004 (14. 6. 2005) — citováno v komentáři: jednorázová výplata náhrady za delší období po lhůtě splatnosti, která zvýší daň poplatníka progresí/sazbou, zakládá škodu, za niž odpovídá zaměstnavatel podle § 187 odst. 2 zák. práce. Nosný význam: progresivní/sazbový dopad načasování příjmu může mít soukromoprávní následky.
+
+**4. Subsumpce.** Po sečtení dílčích základů a odečtení nezdanitelných částí a odčitatelných položek (krok 1–2) se základ zaokrouhlí na celá sta Kč dolů (krok 3) — zde 2 480 000 Kč. Sazba 15 % se vztahuje na část do hranice (ilustrativně 1 800 000 Kč), sazba 23 % *jen* na nadlimitní část (680 000 Kč), nikoli na celý základ (klouzavá progrese). Daň = 0,15 × 1 800 000 + 0,23 × 680 000 = 270 000 + 156 400 = 426 400 Kč (před slevami).
+
+**5. Řešení.** Výsledkem § 16 je *daň před slevami*. Tu teprve snižují slevy podle § 35ba (poměr 1 : 1) a případné daňové zvýhodnění § 35c (až do bonusu) v rámci § 16ab. Vyšší sazba se uplatní jen na část nad 36násobek průměrné mzdy, takže na hranici nedochází ke skokové změně efektivní sazby. Procesně se daň vyměří podle daňového řádu na základě přiznání. Riziko: použití nesprávné (loňské) korunové hodnoty progresivní hranice nebo aplikace 23 % na celý základ — obojí vede k chybnému výpočtu.
+
+**6. Varianty.** (a) Základ daně nepřesáhne 36násobek průměrné mzdy → celý se zdaní 15 %, sazba 23 % se neuplatní. (b) Jednorázové „nahromadění" příjmu do jednoho roku (např. doplatek za více let) vyšroubuje část základu nad hranici → vyšší zatížení 23 %; rozložení příjmu do více období by progresi zmírnilo (srov. nosný závěr NS 21 Cdo 2023/2004).
+
+#### G. Protiargumenty a rizika
+
+- *„Po překročení hranice se 23 % platí z celého základu."* Nikoli — jde o *klouzavou* progresi; 23 % se aplikuje jen na část přesahující 36násobek průměrné mzdy. Neutralizace: výpočet jako součet součinů jednotlivých částí a jejich sazeb (odst. 2).
+- *„Slevy na dani snižují základ daně stejně jako nezdanitelné části."* Nikoli — § 16 dává daň *před slevami*; slevy (§ 35ba) snižují až vypočtenou daň v poměru 1 : 1, kdežto nezdanitelné části (§ 15) snižovaly základ a jejich efekt je jen sazba × odpočet. Slabé místo: záměna fází výpočtu.
+- *Slabé místo:* korunová hodnota 36násobku průměrné mzdy se každoročně mění a v zákoně není uvedena; nutné dohledat v nařízení vlády pro dané období, jinak hrozí chybný výpočet.
+
+#### H. Praktický závěr
+
+§ 16 stanoví klouzavě progresivní sazbu (15 % / 23 %) a pevné pořadí výpočtu: základ daně → minus nezdanitelné části a odčitatelné položky → zaokrouhlení na celá sta Kč dolů → součet součinů částí základu a jejich sazeb. Výstupem je daň *před slevami*.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Sestaven základ daně dle § 5 (součet dílčích základů § 6–§ 10)?
+- [ ] Odečteny nezdanitelné části (§ 15) a odčitatelné položky (§ 34) *před* zaokrouhlením?
+- [ ] Základ zaokrouhlen na celá sta Kč dolů?
+- [ ] Zjištěna aktuální korunová hodnota 36násobku průměrné mzdy pro dané období (nařízení vlády)?
+- [ ] Sazba 23 % aplikována jen na nadlimitní část (klouzavá progrese)?
+- [ ] Rozlišeno, že výstupem je daň před slevami (§ 35ba, § 35c se uplatní až dle § 16ab)?
+
+**Typicky rozhodné důkazy / podklady:** daňová evidence/účetnictví prokazující dílčí základy daně, doklady k nezdanitelným částem a odčitatelným položkám, nařízení vlády stanovící průměrnou mzdu pro dané zdaňovací období, výpočet daně v daňovém přiznání.
+
 ---
 
 ### § 16a — Sazba a výpočet daně pro samostatný základ daně
@@ -328,6 +518,44 @@ Ustanovení § 16a upravuje zdanění **samostatného základu daně** — zvlá
 Klíčové je, že samostatný základ daně se zdaňuje **jednotnou sazbou 15 %**, *bez aplikace progresivní sazby 23 %*. Vyšší 23% sazba se tedy na samostatný základ daně nepoužije — proto je tato kategorie pro poplatníky s vysokými příjmy zařazenými do samostatného základu daně výhodnější než zahrnutí týchž příjmů do obecného základu daně podle § 16.
 
 **Výpočet (odst. 2)** je jednoduchý: samostatný základ daně se zaokrouhlí *na celá sta Kč dolů* a vynásobí sazbou 15 %. Samostatný základ daně se *nesnižuje* o nezdanitelné části podle § 15 ani o odčitatelné položky — ty se uplatňují pouze proti obecnému základu daně podle § 16. Výsledná daň ze samostatného základu daně vstupuje do souhrnného výpočtu podle § 16ab (→ § 16ab).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník s vysokými příjmy drží portfolio zahraničních akcií a obdrží v daném roce dividendy z držby těchto cenných papírů, které se zahrnují do *samostatného základu daně*. Jeho obecný základ daně (z podnikání a ze závislé činnosti) přitom přesahuje 36násobek průměrné mzdy, takže nadlimitní část obecného základu podléhá sazbě 23 %. Zvažuje, jak budou dividendy zdaněny. Důkazy: výpisy od zahraničního obchodníka/depozitáře o vyplacených dividendách, doklady o sražené zahraniční dani (pro účely zápočtu mimo rámec § 16a), přepočet na CZK.
+
+**2. Právní otázka.** Jakou sazbou se zdaní příjmy zahrnuté do samostatného základu daně a uplatní se na ně progresivní sazba 23 % obdobně jako na obecný základ daně, snižuje-li se samostatný základ o nezdanitelné části?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16a — jednotná sazba 15 % pro samostatný základ daně (bez progrese) a výpočet (odst. 2 — zaokrouhlení na celá sta Kč dolů × 15 %).
+- *Související ustanovení téhož zákona:* § 8 (dílčí základ z kapitálového majetku, zahraniční dividendy); § 16 (obecný základ — progrese 15/23 %); § 16ab (souhrnný výpočet daně, vazba na slevy a bonus); § 15 a § 34 (nezdanitelné části a odčitatelné položky — proti samostatnému základu se *neuplatní*). *Přesné vymezení rozsahu samostatného základu daně ověřit v § 8 odst. 4 a souvisejících ustanoveních.*
+- *Související předpisy:* smlouvy o zamezení dvojího zdanění a § 38f (zápočet zahraniční daně — řeší se mimo samotný § 16a); daňový řád (vyměření, zaokrouhlení).
+- *Judikatura:* k oddělenému režimu samostatného základu daně a k zákazu uplatnit proti němu odpočty obecná výkladová zásada speciální úpravy; konkrétní judikatura k novelizované podobě § 16a je sporá — ověřit.
+
+**4. Subsumpce.** Dividendy zahrnuté do samostatného základu daně se zaokrouhlí na celá sta Kč dolů a zdaní *jednotnou sazbou 15 %* podle odst. 1 a 2. Progresivní sazba 23 % se na samostatný základ *nepoužije*, byť obecný základ poplatníka hranici přesahuje — jde o dvě oddělené základny. Nezdanitelné části (§ 15) ani odčitatelné položky (§ 34) samostatný základ *nesnižují*.
+
+**5. Řešení.** Daň ze samostatného základu daně = 0,15 × (zaokrouhlený samostatný základ). Tato daň vstupuje do souhrnného výpočtu podle § 16ab a *nesnižuje* se o slevy na dani (ty se uplatní jen proti dani podle § 16). Pro poplatníky s vysokými příjmy je proto zahrnutí kvalifikovaných příjmů do samostatného základu daně výhodnější než jejich zahrnutí do obecného základu (kde by nad hranicí podléhaly 23 %). Zahraniční sraženou daň lze zpravidla započíst dle smlouvy o zamezení dvojího zdanění a § 38f (mimo rámec § 16a).
+
+**6. Varianty.** (a) Tytéž dividendy by se zahrnuly do obecného základu daně a obecný základ by přesahoval hranici → nadlimitní část by podléhala 23 % (méně výhodné). (b) Poplatník uplatňuje daňový bonus dle § 35c → uplatní se kolizní pravidla § 16ab odst. 2 a 3 (bonus vs. daň ze samostatného základu) (→ § 16ab).
+
+#### G. Protiargumenty a rizika
+
+- *„Na vysoký samostatný základ se uplatní také sazba 23 %."* Nikoli — § 16a stanoví *jednotnou* sazbu 15 % bez progrese; vyšší sazba se týká jen obecného základu dle § 16. Neutralizace: oddělené výpočty obou základen.
+- *„Proti samostatnému základu si odečtu nezdanitelné části nebo slevy."* Nikoli — odpočty (§ 15, § 34) i slevy (§ 35ba) se uplatní jen proti obecnému základu/dani podle § 16; § 16a žádné snížení nepřipouští. Slabé místo: snaha „přesunout" odpočty na výhodněji zdaněný základ.
+- *Slabé místo:* přesné vymezení, které příjmy do samostatného základu daně patří, vyžaduje ověření v § 8 a souvisejících ustanoveních; chybné zařazení mění sazbu i celkovou daň.
+
+#### H. Praktický závěr
+
+§ 16a zavádí pro samostatný základ daně jednotnou sazbu 15 % bez progrese; výpočet je prostý součin zaokrouhleného (na celá sta Kč dolů) samostatného základu a sazby. Proti tomuto základu se neuplatní nezdanitelné části ani slevy; výsledná daň vstupuje do § 16ab.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Patří daný příjem skutečně do samostatného základu daně (ověřit v § 8 a souv.)?
+- [ ] Zaokrouhlen samostatný základ na celá sta Kč dolů?
+- [ ] Aplikována jednotná sazba 15 % (nikoli progrese 23 %)?
+- [ ] Nebyly proti samostatnému základu chybně uplatněny nezdanitelné části/slevy?
+- [ ] Vstupuje daň ze samostatného základu správně do souhrnného výpočtu dle § 16ab?
+- [ ] Vyřešen případný zápočet zahraniční daně dle § 38f a smlouvy o zamezení dvojího zdanění (mimo § 16a)?
+
+**Typicky rozhodné důkazy / podklady:** výpisy obchodníka s cennými papíry/depozitáře o vyplacených příjmech zahrnovaných do samostatného základu, doklady o zahraniční sražené dani, přepočet na CZK, výpočet daně v daňovém přiznání.
 
 ---
 
@@ -368,6 +596,44 @@ Výpočet: (80 000 − 30 840) + 9 000 = **58 160 Kč**. Korunové hodnoty slev 
 
 **Vztah k daňovému řádu.** Takto vypočtená daň je předmětem **daňového přiznání** podle § 38g a § 135 a násl. zákona č. 280/2009 Sb., daňového řádu; je-li daň nižší než zákonný práh, povinnost podat přiznání nevzniká (→ § 38g). Vyměření a placení daně, lhůty i postup při doměření se řídí obecnou procesní úpravou daňového řádu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník (zaměstnanec) má daň z obecného základu podle § 16 ve výši 12 000 Kč, uplatňuje daňové zvýhodnění na tři děti, takže mu po odečtení zvýhodnění vzniká *daňový bonus* podle § 35c odst. 3 ve výši 14 000 Kč. Současně mu plyne daň ze samostatného základu daně podle § 16a (zahraniční dividendy) ve výši 5 000 Kč. Důkazy: výpočet daně z obecného základu, doklady k daňovému zvýhodnění (rodné listy, potvrzení o studiu, čestné prohlášení druhého z poplatníků), výpisy o dividendách a daň dle § 16a.
+
+**2. Právní otázka.** Jak se určí celková daň poplatníka, střetne-li se daňový bonus podle § 35c se samostatně zdaněnou daní podle § 16a — započte se bonus i proti dani ze samostatného základu daně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16ab — souhrnný výpočet daně (odst. 1: daň = (§ 16 − slevy) + § 16a) a kolizní pravidla pro bonus (odst. 2 a 3).
+- *Související ustanovení téhož zákona:* § 16 (daň z obecného základu); § 16a (daň ze samostatného základu — 15 %); § 35ba (slevy snižující daň podle § 16); § 35c (daňové zvýhodnění a daňový bonus); § 38g, § 38h, § 38ch (přiznání a roční zúčtování).
+- *Související předpisy:* zákon č. 280/2009 Sb., daňový řád, § 135 a násl. (daňové přiznání), § 136 (lhůty), § 38g ZDP (povinnost podat přiznání); úprava výplaty daňového bonusu (§ 35d, § 38ch ZDP).
+- *Judikatura:* k povaze daňového bonusu jako *vratitelné* částky (negativní daň) a k podmínkám jeho výplaty správní judikatura NSS; konkrétní rozhodnutí k novému § 16ab zatím chybí — ověřit.
+
+**4. Subsumpce.** Daň podle § 16 (12 000 Kč) snížená o slevy a daňové zvýhodnění vede k bonusu 14 000 Kč (§ 35c odst. 3). Daň podle § 16a činí 5 000 Kč. Aplikuje se odst. 2: bonus (14 000 Kč) je *vyšší než* daň podle § 16a (5 000 Kč) → bonus se o tuto daň *sníží* (na 9 000 Kč) a daň poplatníka *se rovná nule*.
+
+**5. Řešení.** Celková daň poplatníka = 0 Kč; vyplatí se daňový bonus 9 000 Kč (14 000 − 5 000). Smyslem je, aby poplatník nedostával plný bonus a současně neplatil daň ze samostatného základu daně — daň podle § 16a se „pohltí" bonusem a o tutéž částku jej zmenší. Kdyby byla daň podle § 16a vyšší než bonus (odst. 3), bonus by byl nulový a daň poplatníka by se rovnala dani podle § 16a snížené o bonus. Procesně se vše promítne do daňového přiznání (§ 38g) nebo ročního zúčtování (§ 38ch).
+
+**6. Varianty.** (a) Daň podle § 16a 16 000 Kč a bonus 14 000 Kč → uplatní se odst. 3: bonus = 0, daň poplatníka = 16 000 − 14 000 = 2 000 Kč. (b) Poplatník neuplatňuje děti (žádný bonus) → použije se prostá rovnice odst. 1: daň = (daň podle § 16 − slevy) + daň podle § 16a, bez kolizních pravidel.
+
+#### G. Protiargumenty a rizika
+
+- *„Slevy na dani snižují i daň podle § 16a."* Nikoli — odst. 1 staví slevy *jen* proti dani podle § 16; daň ze samostatného základu se přičítá až po odečtení slev. Neutralizace: dodržet pořadí (§ 16 − slevy) + § 16a.
+- *„Daňový bonus dostanu v plné výši nezávisle na dani podle § 16a."* Nikoli — odst. 2 a 3 bonus a daň podle § 16a navzájem započítávají; plný bonus a nulová daň ze samostatného základu současně nelze. Slabé místo: opomenutí kolizních pravidel.
+- *Slabé místo:* správné vyčíslení bonusu podle § 35c (limity, podmínka minimálního příjmu) a doložení nároku na daňové zvýhodnění; chyba v bonusu se promítne i do § 16ab.
+
+#### H. Praktický závěr
+
+§ 16ab skládá celkovou daň: (daň podle § 16 − slevy) + daň podle § 16a, přičemž slevy se uplatní jen proti dani podle § 16. Daňový bonus podle § 35c a daň ze samostatného základu daně se vzájemně započítávají podle odst. 2 a 3 — poplatník nemůže současně inkasovat plný bonus a neplatit daň podle § 16a.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vypočtena daň podle § 16 a od ní odečteny slevy (§ 35ba, daňové zvýhodnění § 35c)?
+- [ ] Přičtena daň podle § 16a (až po odečtení slev od daně podle § 16)?
+- [ ] Vznikl daňový bonus podle § 35c odst. 3? Pokud ano, je vyšší/roven, nebo nižší než daň podle § 16a?
+- [ ] Při bonusu ≥ daň § 16a: bonus snížen o tuto daň, daň poplatníka = 0 (odst. 2)?
+- [ ] Při bonusu < daň § 16a: bonus = 0, daň = daň § 16a − bonus (odst. 3)?
+- [ ] Výsledek promítnut do přiznání (§ 38g) / ročního zúčtování (§ 38ch)?
+
+**Typicky rozhodné důkazy / podklady:** výpočet daně z obecného základu (§ 16) a ze samostatného základu (§ 16a), doklady k slevám a k daňovému zvýhodnění (rodné listy, potvrzení o studiu, prohlášení druhého poplatníka), výpisy o příjmech v samostatném základu, daňové přiznání / výsledek ročního zúčtování.
+
 ---
 
 ### § 16b — Zdaňovací období
@@ -389,6 +655,44 @@ Toto vymezení je klíčem k aplikaci řady ostatních ustanovení komentované 
 - desetileté „klouzavé okno" pro navrácení daňové podpory podle § 15b (počítané ve zdaňovacích obdobích = kalendářních letech).
 
 Navázání na kalendářní rok rovněž určuje **lhůtu pro podání daňového přiznání** a splatnost daně podle daňového řádu (obecně do 1. dubna následujícího roku, resp. déle při elektronickém podání nebo zastoupení poradcem) — viz § 136 daňového řádu a § 38g ZDP (→ § 38g).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poplatník (fyzická osoba) zahájí podnikání v září. Domnívá se, že může — obdobně jako právnická osoba — zvolit *hospodářský rok* a podat první přiznání až za období září–srpen následujícího roku. Současně řeší, kdy doběhne desetileté „klouzavé okno" u jeho doplňkového penzijního spoření a za jaké období se počítá strop úroků z hypotéky. Důkazy: doklad o zahájení samostatné činnosti, daňová evidence vedená za kalendářní rok, potvrzení banky a penzijní společnosti vázaná na kalendářní rok.
+
+**2. Právní otázka.** Může fyzická osoba mít zdaňovací období jiné než kalendářní rok (např. hospodářský rok), a k jakému období se vztahují roční limity a lhůty u daně z příjmů fyzických osob?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16b — zdaňovacím obdobím daně z příjmů *fyzických osob* je *kalendářní rok* (bezvýjimečně).
+- *Související ustanovení téhož zákona:* § 21a (zdaňovací období právnických osob, vč. hospodářského roku — kontrast); § 15 (roční limity nezdanitelných částí — „ve zdaňovacím období"); § 16 (progresivní hranice 36násobku průměrné mzdy za rok); § 15b (desetileté okno počítané ve zdaňovacích obdobích = kalendářních letech); § 38g (povinnost podat přiznání).
+- *Související předpisy:* zákon č. 280/2009 Sb., daňový řád, § 136 (lhůty pro podání přiznání — odvozené od konce zdaňovacího období), § 33 (počítání času).
+- *Judikatura:* k pevnému navázání zdaňovacího období fyzických osob na kalendářní rok existuje ustálená správní praxe; jde o jednoznačné pravidlo bez výkladových sporů. Konkrétní rozhodnutí zde nejsou nosně potřebná.
+
+**4. Subsumpce.** Poplatník je fyzická osoba → § 16b stanoví zdaňovací období *kalendářní rok* bez možnosti volby. Hospodářský rok je vyhrazen pouze (některým) právnickým osobám (§ 21a). První zdaňovací období proto skončí 31. 12. roku zahájení činnosti, nikoli po 12 měsících podnikání. Roční limity (§ 15) i desetileté okno (§ 15b) se počítají podle kalendářních let.
+
+**5. Řešení.** Poplatník podá přiznání za kalendářní rok (od zahájení činnosti v září do 31. 12.) ve lhůtě podle § 136 daňového řádu (obecně do 1. 4. následujícího roku, déle při elektronickém podání či zastoupení poradcem). Strop úroků 150 000 Kč i limit 48 000 Kč na produkty spoření se posuzují za tentýž kalendářní rok; při placení úroků jen po část roku platí pravidlo 1/12 měsíčně (§ 15 odst. 4). Desetileté okno u DPS běží v kalendářních letech. Riziko: pokus o volbu hospodářského roku by vedl k vadnému přiznání a doměření.
+
+**6. Varianty.** (a) Poplatník je *právnická osoba* → může mít hospodářský rok dle § 21a (jiný režim, mimo § 16b). (b) Poplatník zemře v průběhu roku → uplatní se zvláštní úprava zdaňovacího období a přiznání při úmrtí poplatníka dle daňového řádu a § 38g/§ 239a a násl. (modifikace obecného pravidla kalendářního roku).
+
+#### G. Protiargumenty a rizika
+
+- *„Podnikající fyzická osoba si může zvolit hospodářský rok jako firma."* Nikoli — § 16b váže období fyzických osob výlučně na kalendářní rok; hospodářský rok je institut právnických osob (§ 21a). Neutralizace: odlišit poplatníka FO a PO.
+- *„Roční limity se počítají od zahájení činnosti po 12 měsíců."* Nikoli — počítají se za kalendářní rok; při dílčím roce se u úroků uplatní pravidlo 1/12 měsíčně. Slabé místo: chybný výpočet poměrných limitů.
+- *Slabé místo:* zvláštní situace (úmrtí poplatníka, přechod na/ze paušální daně) modifikují počítání období a lhůt — nutno ověřit zvláštní úpravu v daňovém řádu a ZDP.
+
+#### H. Praktický závěr
+
+Zdaňovacím obdobím daně z příjmů fyzických osob je vždy kalendářní rok; volba hospodářského roku je vyloučena (na rozdíl od právnických osob dle § 21a). K tomuto období se vážou všechny roční limity (§ 15), progresivní hranice (§ 16), desetileté okno (§ 15b) i lhůty pro přiznání (§ 136 DŘ, § 38g).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o poplatníka fyzickou osobu (→ zdaňovací období = kalendářní rok)?
+- [ ] Nebyla chybně zvolena/uvažována jiná délka období (hospodářský rok)?
+- [ ] Roční limity (§ 15) a hranice (§ 16) posouzeny za kalendářní rok; u dílčího roku úroků uplatněno pravidlo 1/12?
+- [ ] Desetileté okno (§ 15b) počítáno v kalendářních letech?
+- [ ] Lhůta pro přiznání odvozena od konce kalendářního roku (§ 136 DŘ, § 38g)?
+- [ ] Zohledněny zvláštní situace (úmrtí poplatníka apod.) modifikující období/lhůty?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zahájení/ukončení samostatné činnosti, daňová evidence/účetnictví vedené za kalendářní rok, potvrzení vázaná na kalendářní rok (banka, penzijní společnost, pojišťovna), daňové přiznání za kalendářní rok.
 
 ---
 

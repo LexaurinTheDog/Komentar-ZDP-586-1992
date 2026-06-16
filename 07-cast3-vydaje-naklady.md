@@ -312,6 +312,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 - *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
   > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní s. r. o. (poplatník daně z příjmů právnických osob, vede účetnictví) zaúčtovala v jednom zdaňovacím období do nákladů: (a) odpisy výrobní linky, (b) smluvní pokutu 200 000 Kč zaplacenou odběrateli za pozdní dodávku, (c) penále finančnímu úřadu 50 000 Kč za pozdě odvedenou DPH, (d) reprezentační večeři s obchodním partnerem 8 000 Kč, (e) pojistné na sociální zabezpečení za prosinec, které uhradila až v únoru následujícího roku. Správce daně při kontrole zpochybnil daňovou uznatelnost položek b)–e). Důkazy: účetnictví, faktury, výpisy z účtu, smlouva o dodávce, platební výměr na penále.
+
+**2. Právní otázka.** Jak se na uvedené položky uplatní třístupňový mechanismus daňové uznatelnosti (obecný test § 24 odst. 1 → samostatný titul § 24 odst. 2 → výluka § 25), a které položky jsou daňově uznatelné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 jako celek — obecný test (odst. 1), demonstrativní výčet uznávacích titulů (odst. 2) a doplňující pravidla (odst. 3–14).
+- *Související ustanovení téhož zákona:* § 25 (taxativní výluky a jejich „ventily" odkazem do § 24); § 23 (konstrukce základu daně, mimoúčetní úpravy); § 26–33 (odpisy).
+- *Související předpisy:* zákon č. 280/2009 Sb., daňový řád (§ 92 — důkazní břemeno); zákon č. 563/1991 Sb., o účetnictví; zákon č. 593/1992 Sb., o rezervách.
+- *Judikatura:* nosný závěr NSS, podle něhož je k uznatelnosti výdaje nutné prokázat nejen jeho zaúčtování, ale i faktické uskutečnění a věcnou souvislost se zdanitelným příjmem; v komentáři citovaný NS 21 Cdo 1525/2014 (odpisy hmotného majetku jako výdaj reálně snižující příjem). Aktuální judikaturu NSS k dokazování daňových výdajů ověřte.
+
+**4. Subsumpce.** Položka a) — odpisy: projde testem odst. 1, má samostatný titul [odst. 2 písm. a)], § 25 nevylučuje → uznatelná. Položka b) — soukromoprávní smluvní pokuta: vyloučena obecně [§ 25 odst. 1 písm. f)], avšak s „ventilem" do § 24 odst. 2 písm. zi); protože byla zaplacena, je uznatelná. Položka c) — veřejnoprávní penále: § 25 odst. 1 písm. f) bez výjimky → neuznatelná. Položka d) — reprezentace: § 25 odst. 1 písm. t) bez výjimky (nejde o reklamní předmět do 500 Kč) → neuznatelná. Položka e) — pojistné zaměstnavatele: samostatný titul [odst. 2 písm. f)] s podmínkou zaplacení do konce následujícího měsíce; uhrazeno-li v únoru za prosinec, je výdajem až období úhrady.
+
+**5. Řešení.** Uznatelné jsou a), b) a (s časovým posunem) e); neuznatelné c) a d). Postupuje se striktně třístupňově: nejprve obecný test, pak ověření samostatného titulu a jeho podmínek, nakonec kontrola výluky § 25 včetně jejího případného odkazu zpět do § 24. Procesně poplatník unese důkazní břemeno předložením účetnictví, smluv, faktur a dokladů o úhradě. Riziko: záměna soukromoprávní a veřejnoprávní sankce a opomenutí podmínky zaplacení.
+
+**6. Varianty.** (i) Kdyby smluvní pokuta b) nebyla do konce období zaplacena, byla by mimoúčetní úpravou zvyšující základ daně a uznatelnou až v období úhrady. (ii) Kdyby večeře d) byla nahrazena reklamními propiskami s logem za 300 Kč/ks, šlo by o uznatelný reklamní předmět [§ 25 odst. 1 písm. t) in fine].
+
+#### G. Protiargumenty a rizika
+
+- *„Náklad je řádně zaúčtován, tedy je daňově uznatelný."* Zaúčtování je nutnou, nikoli postačující podmínkou; rozhoduje věcná souvislost se zdanitelným příjmem, prokázaná výše a absence výluky v § 25. Neutralizace: doložit účel a faktické uskutečnění plnění.
+- *„Slovo ‚zejména' v § 25 znamená, že výčet výluk je jen příkladmý, takže lze argumentovat analogií."* Materiálně § 25 funguje jako uzavřený katalog; rozšiřování výluk analogií v neprospěch poplatníka je nepřípustné. Naopak položku v § 25 neuvedenou nelze vyloučit, projde-li testem § 24 odst. 1.
+- Slabé místo: u položek s podmínkou zaplacení (sankce, pojistné, přeúčtování) bývá opomenut akruální posun do období úhrady; chybějícím podkladem je často doklad o datu skutečné platby.
+
+#### H. Praktický závěr
+
+Na každý sporný náklad aplikuj třístupňový algoritmus: (1) věcná souvislost se zdanitelným příjmem, (2) splnění podmínek příslušného titulu § 24 odst. 2, (3) absence výluky § 25 (a její případný „ventil" do § 24). Dvojice § 24/§ 25 čti vždy společně.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Souvisí výdaj se zdanitelným (neosvobozeným) příjmem?
+- [ ] Má položka samostatný titul v § 24 odst. 2 a jsou splněny jeho podmínky (limit, zaplacení, doba leasingu)?
+- [ ] Není výdaj vyloučen § 25? Pokud ano, odkazuje § 25 na výjimku v § 24?
+- [ ] Je výše prokázána a doložena (§ 92 daňového řádu)?
+- [ ] U sankcí, pojistného a přeúčtování ověřeno datum skutečné úhrady?
+
+**Typicky rozhodné důkazy / podklady:** účetnictví / daňová evidence, faktury a smlouvy, doklady o úhradě (výpisy z účtu), platební výměry, protokoly (likvidace, škoda), posudky o výši škody.
+
 ---
 
 ### § 24 odst. 1 — Obecný test daňové uznatelnosti
@@ -334,6 +371,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 - *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
   > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** OSVČ — IT konzultant (poplatník s příjmy podle § 7, vede daňovou evidenci, neuplatňuje paušál) zaúčtoval do výdajů 350 000 Kč za „poradenské a marketingové služby" od dodavatele D. Při daňové kontrole správce daně zjistil, že D služby reálně neposkytl (nemá zaměstnance, žádné výstupy, řetězec subdodávek nelze dohledat). Poplatník předložil pouze fakturu a smlouvu. Důkazy: faktura, rámcová smlouva, výslech jednatele D, absence hmotných výstupů (analýz, kampaní), platba v hotovosti.
+
+**2. Právní otázka.** Postačuje k uznatelnosti výdaje formálně bezvadná faktura a smlouva, nebo musí poplatník prokázat i faktické uskutečnění deklarovaného plnění a jeho souvislost se zdanitelným příjmem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 — generální klauzule; tři kumulativní podmínky (věcná souvislost, výše prokázaná poplatníkem, výše dovolená zákonem).
+- *Související ustanovení téhož zákona:* § 25 odst. 1 písm. i) (výdaje na nezdaňované příjmy); § 7 odst. 7 (alternativa paušálních výdajů, kde se § 24 neaplikuje); § 23 (základ daně).
+- *Související předpisy:* § 92 odst. 3 daňového řádu (poplatník prokazuje vše, co uvádí v přiznání); § 8 daňového řádu (volné hodnocení důkazů).
+- *Judikatura:* ustálený nosný závěr NSS — k uplatnění daňového výdaje nestačí formální doklad; je nutno prokázat, že plnění bylo skutečně poskytnuto, a to (zpravidla) deklarovaným dodavatelem, resp. že výdaj fakticky sloužil k dosažení zdanitelných příjmů. Aktuální spisové značky NSS k dokazování daňových výdajů ověřte v judikatorních databázích.
+
+**4. Subsumpce.** Podmínka „věcná souvislost" — má-li poradenství souviset s IT činností poplatníka, šlo by v principu o uznatelný účel; tato podmínka je sporná, neboť výstupy chybí. Podmínka „výše prokázaná poplatníkem" — není splněna: faktura a smlouva samy o sobě neprokazují uskutečnění plnění; důkazní břemeno tíží poplatníka a ten je neunesl. Podmínka „výše dovolená zákonem" — bez zákonného limitu, irelevantní.
+
+**5. Řešení.** Výdaj 350 000 Kč je neuznatelný pro neunesení důkazního břemene podle § 24 odst. 1 ve spojení s § 92 daňového řádu. Správce daně o tuto částku zvýší základ daně a doměří daň (případně penále podle § 251 daňového řádu). Procesně by poplatník musel doložit konkrétní výstupy, e‑mailovou komunikaci, předávací protokoly, svědky realizace. Riziko: doměrek plus sankce; alternativní výklad (uznatelnost na základě samotné faktury) judikatura odmítá.
+
+**6. Varianty.** (i) Kdyby poplatník doložil reálné výstupy (analýzy, reporty) a komunikaci prokazující provedení prací, podmínka prokázané výše by byla splněna a výdaj uznatelný. (ii) Kdyby poplatník uplatňoval výdaje paušálem podle § 7 odst. 7, § 24 odst. 1 by se vůbec neaplikoval a prokazování skutečných výdajů by odpadlo.
+
+#### G. Protiargumenty a rizika
+
+- *„Výdaj směřoval k neúspěšnému projektu, který nepřinesl žádný příjem, proto je neuznatelný."* Postačuje souvislost s příjmem, který je předmětem daně — netřeba konkrétní realizovaný příjem; i výdaj na neúspěšný, avšak racionálně k zisku směřující projekt je uznatelný. Neutralizace: doložit podnikatelský účel.
+- *„Faktura je veřejná listina a důkazní břemeno přechází na správce daně."* Faktura je soukromá listina; vznikne‑li důvodná pochybnost správce daně, břemeno prokázat uskutečnění plnění zůstává na poplatníkovi (§ 92 daňového řádu).
+- Slabé místo: dokazování věcné souvislosti u režijních a obtížně přiřaditelných výdajů; chybí‑li primární dokumentace (výstupy, komunikace), je argumentace neudržitelná.
+
+#### H. Praktický závěr
+
+Generální klauzule vyžaduje současně věcnou souvislost, prokázanou výši a dodržení zákonných limitů. Faktura nestačí — průběžně archivuj doklady o faktickém uskutečnění a účelu plnění; důkazní břemeno nese poplatník.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Směřuje výdaj k dosažení, zajištění či udržení zdanitelného (neosvobozeného) příjmu?
+- [ ] Je doloženo faktické uskutečnění plnění (výstupy, komunikace, předávací protokoly)?
+- [ ] Není výdaj uplatněn opakovaně (zákaz dvojího uplatnění)?
+- [ ] Je dodržen případný zákonný limit?
+- [ ] Neuplatňuje poplatník paušální výdaje (pak se § 24 neaplikuje)?
+
+**Typicky rozhodné důkazy / podklady:** faktury a smlouvy, hmotné výstupy plnění, e‑mailová a jiná komunikace, předávací protokoly, doklady o úhradě, svědecké výpovědi o realizaci.
 
 ---
 
@@ -360,6 +434,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 - *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
   > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební a. s. v jednom roce: (a) odpisuje halu (daňové odpisy podle § 31), současně ji účetně odpisuje jinou sazbou; (b) zlikvidovala starý výrobní objekt s daňovou zůstatkovou cenou 2 mil. Kč proto, že na jeho místě staví nové skladové centrum; (c) zaplatila členský příspěvek Hospodářské komoře ČR a příspěvek profesnímu spolku, jehož členství není podmínkou podnikání; (d) uhradila pojistné na sociální zabezpečení za zaměstnance za prosinec až 20. února; (e) zaplatila daň z nemovitých věcí za halu. Důkazy: účetnictví, odpisový plán, doklad o demolici a stavebním povolení, doklady o úhradě.
+
+**2. Právní otázka.** Které z položek a)–e) jsou daňově uznatelné a v jaké výši, a jak se projeví dualismus daňových a účetních odpisů a podmínka zaplacení u pojistného zaměstnavatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 2 písm. a) (odpisy hmotného majetku), písm. b) a c) (zůstatková cena), písm. d) (členské příspěvky), písm. f) (pojistné zaměstnavatele s podmínkou zaplacení), písm. ch) (daň z nemovitých věcí a ostatní daně).
+- *Související ustanovení téhož zákona:* § 26–33 (daňové odpisy); § 29 odst. 2 (zůstatková cena); § 25 odst. 1 písm. f) (sankce), písm. g) (pojistné OSVČ), písm. zo) (osvobozený členský příspěvek), písm. zg) (účetní odpisy); § 38f (zápočet zahraniční daně).
+- *Související předpisy:* zákon č. 563/1991 Sb., o účetnictví (účetní odpisy, ocenění); zákon č. 589/1992 Sb. a zákon č. 592/1992 Sb. (pojistné).
+- *Judikatura:* v komentáři citovaný NS 21 Cdo 1525/2014 — odpisy hmotného majetku spojené s úplatným pořízením majetku potřebného k podnikání reálně snižují příjmy z činnosti.
+
+**4. Subsumpce.** (a) Daňově se uplatní pouze daňové odpisy podle § 30–32; účetní odpisy jsou daňově irelevantní [s výjimkou písm. v)] — rozdíl je mimoúčetní úpravou. (b) Zůstatková cena demolovaného objektu likvidovaného v souvislosti s výstavbou nového stavebního díla je výslovně neuplatnitelná — vstupuje do vstupní ceny nové stavby [písm. b) in fine]. (c) Příspěvek Hospodářské komoře je uznatelný [písm. d) bod 5]; příspěvek dobrovolnému spolku, kde členství není podmínkou podnikání, uznatelný není. (d) Pojistné za prosinec zaplacené 20. února (po konci ledna) je výdajem až období úhrady. (e) Daň z nemovitých věcí zaplacená a nezahrnutá do ocenění je uznatelná [písm. ch)].
+
+**5. Řešení.** Uznatelné: daňové odpisy haly, příspěvek Hospodářské komoře, daň z nemovitých věcí. Neuznatelné v daném období: zůstatková cena demolovaného objektu (nikdy — vstupuje do nové stavby), příspěvek dobrovolnému spolku, pozdě zaplacené pojistné (uznatelné až v období úhrady). Procesně: vést pečlivě odpisové plány odděleně (daňové vs. účetní), evidovat datum úhrady pojistného, doložit souvislost demolice s novou stavbou.
+
+**6. Varianty.** (i) Kdyby byl starý objekt zlikvidován bez vazby na novou výstavbu (např. jako nepotřebný), jeho zůstatková cena by byla uznatelná [písm. b) bod 2]. (ii) Kdyby pojistné za prosinec bylo zaplaceno do 31. ledna, bylo by výdajem již roku, k němuž se vztahuje.
+
+#### G. Protiargumenty a rizika
+
+- *„Účetní odpisy věrně zobrazují opotřebení, proto by měly být daňově uznatelné."* ZDP zakotvuje dualismus: daňově se uplatní jen odpisy podle § 26–33; účetní odpis je daňově účinný jen u majetku, který není hmotným majetkem ve smyslu zákona [písm. v)]. Rozdíl řeš mimoúčetní úpravou (§ 23 odst. 3).
+- *„Zůstatkovou cenu zbořeného objektu jsme přece reálně ztratili, musí být nákladem."* Při demolici v souvislosti s novou výstavbou ji zákon výslovně vylučuje a převádí do vstupní ceny nové stavby; uplatní se až jejím odpisováním. Klíčové je doložit (ne)existenci souvislosti s novou stavbou.
+- Slabé místo: rozlišení „povinného" a „dobrovolného" členství u příspěvků a sledování okamžiku úhrady pojistného; chybějícím podkladem bývá doklad o datu platby.
+
+#### H. Praktický závěr
+
+Daňové a účetní odpisy drž odděleně; zůstatkovou cenu při likvidaci posuzuj podle důvodu vyřazení (demolice kvůli nové stavbě = do vstupní ceny nové stavby); členské příspěvky jen v taxativně vyjmenovaných případech; pojistné zaměstnavatele jen po zaplacení v zákonné lhůtě.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Uplatněny daňové odpisy podle § 30–32 (nikoli účetní)?
+- [ ] Souvisí likvidace majetku s novou výstavbou (pak ZC do vstupní ceny nové stavby)?
+- [ ] Spadá členský příspěvek do taxativního výčtu písm. d)?
+- [ ] Bylo pojistné zaměstnavatele zaplaceno do konce následujícího měsíce (resp. do podání přiznání)?
+- [ ] Je daň z nemovitých věcí zaplacena a není součástí ocenění majetku?
+
+**Typicky rozhodné důkazy / podklady:** odpisové plány (daňové i účetní), karty majetku, doklad o demolici a stavební povolení, doklady o členství a úhradě příspěvků, výpisy prokazující datum úhrady pojistného a daně.
+
 ---
 
 ### § 24 odst. 2 písm. i) až ch) — Rezervy, opravné položky, sociální podmínky, cestovní náhrady, škody
@@ -382,6 +493,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 - *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
   > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní s. r. o. v jednom roce: (a) vytvořila účetní rezervu 1 mil. Kč na generální opravu stroje, ale nedeponovala prostředky podle zákona o rezervách; (b) vytvořila opravnou položku 100 % k pohledávce 80 000 Kč po splatnosti 30 měsíců, nepromlčené; (c) hradí zaměstnancům příspěvek na rekvalifikaci a benefit garantovaný kolektivní smlouvou; (d) proplatila řediteli tuzemskou pracovní cestu (16 hodin) — stravné, ubytování, PHM za firemní vůz; (e) zaúčtovala do nákladů škodu 300 000 Kč po vichřici (rychlost větru 80 km/h), nepojištěna. Důkazy: účetnictví, smlouva o rezervě, evidence pohledávek, kolektivní smlouva, cestovní příkazy, posudek o škodě.
+
+**2. Právní otázka.** Které z položek a)–e) jsou daňově uznatelné a za jakých podmínek, zejména s ohledem na vazbu na zákon č. 593/1992 Sb. a na zvláštní režim škod z živelní pohromy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 2 písm. i) (rezervy a opravné položky podle zvláštního zákona), písm. j) (sociální podmínky, rekvalifikace, práva z kolektivní smlouvy), písm. k) a zh) (cestovní náhrady), písm. l) (škody z živelní pohromy a od neznámého pachatele).
+- *Související ustanovení téhož zákona:* § 24 odst. 10 (definice živelní pohromy); § 24 odst. 2 písm. c) (zůstatková cena při škodě do výše náhrad); § 25 odst. 1 písm. n) (manka a škody nad náhrady), písm. v) (účetní opravné položky); § 6 (zdanění benefitů u zaměstnance).
+- *Související předpisy:* zákon č. 593/1992 Sb., o rezervách (§ 7 — rezerva na opravy; § 8, 8a, 8c — opravné položky); zákon č. 262/2006 Sb., zákoník práce (limity cestovních náhrad).
+- *Judikatura:* nosný závěr — daňově účinná je jen rezerva/opravná položka tvořená v souladu se zákonem o rezervách; účetní rezerva nad tento rámec je daňově neúčinná (ověřte aktuální judikaturu NSS).
+
+**4. Subsumpce.** (a) Rezerva na opravu bez splnění podmínek zákona č. 593/1992 Sb. (mj. deponování prostředků na samostatný účet) je daňově neúčinná. (b) Opravná položka k nepromlčené pohledávce 80 000 Kč po splatnosti přes 18, resp. 30 měsíců může být zákonná podle § 8a zákona o rezervách → uznatelná. (c) Rekvalifikace související s činností a benefit garantovaný kolektivní smlouvou jsou uznatelné [písm. j) body 3 a 4]. (d) Cestovní náhrady do limitu zákoníku práce (stravné nad 12 hodin, ubytování, PHM firemního vozu) jsou uznatelné [písm. k)]. (e) Vichřice nad 75 km/h je živelní pohroma [§ 24 odst. 10]; škoda je uznatelná v plné výši i bez pojištění [písm. l)], musí však být doložena posudkem.
+
+**5. Řešení.** Uznatelné: zákonná opravná položka, rekvalifikace a benefit z kolektivní smlouvy, cestovní náhrady do limitu, škoda z vichřice (doloží‑li se posudkem pojišťovny nebo soudního znalce). Neuznatelná: účetní rezerva na opravu nad rámec zákona o rezervách. Procesně: u rezerv/OP striktně podle zákona č. 593/1992 Sb.; u škody z živelní pohromy obstarat posudek o výši škody.
+
+**6. Varianty.** (i) Kdyby vítr dosahoval jen 60 km/h, nešlo by o živelní pohromu a škoda by byla uznatelná jen do výše náhrad [písm. c)], nad ně neuznatelná [§ 25 odst. 1 písm. n)]. (ii) Kdyby rezerva na opravu splnila podmínky zákona o rezervách (písemný plán, deponování), byla by daňově účinná.
+
+#### G. Protiargumenty a rizika
+
+- *„Rezerva věrně zachycuje budoucí náklad opravy, proto je daňovým nákladem."* ZDP uznává jen rezervy podle zákona č. 593/1992 Sb.; účetní rezerva nad tento rámec je daňově neúčinná a nutno ji vyloučit mimoúčetně. Neutralizace: splnit zákonné podmínky (plán, deponování).
+- *„Vichřice je živelní pohroma, takže škodu uznáme bez dalšího."* Uznatelnost je vázána na prahový parametr (vítr nad 75 km/h) a na doložení výše škody posudkem pojišťovny nebo soudního znalce; bez posudku hrozí neuznání. Neutralizace: obstarat posudek a meteorologické potvrzení rychlosti větru.
+- Slabé místo: u benefitů je třeba odlišit režim u zaměstnavatele (náklad podle písm. j) od zdanění u zaměstnance (§ 6); u cestovních náhrad hrozí překročení limitu zákoníku práce [→ § 25 odst. 1 písm. j)].
+
+#### H. Praktický závěr
+
+Rezervy a opravné položky tvoř výhradně podle zákona č. 593/1992 Sb.; benefity zaměstnanců opírej o kolektivní smlouvu/vnitřní předpis; cestovní náhrady drž v limitech zákoníku práce; škody z živelní pohromy doloží posudkem (vítr nad 75 km/h, zemětřesení od 4. stupně).
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Splňuje rezerva/opravná položka podmínky zákona č. 593/1992 Sb.?
+- [ ] Je benefit garantován kolektivní smlouvou, vnitřním předpisem či smlouvou [písm. j) bod 4]?
+- [ ] Nepřekračují cestovní náhrady limity zákoníku práce?
+- [ ] Jde u škody o živelní pohromu (§ 24 odst. 10) nebo neznámého pachatele (potvrzení policie)?
+- [ ] Je výše škody doložena posudkem pojišťovny nebo soudního znalce?
+
+**Typicky rozhodné důkazy / podklady:** smlouva/plán tvorby rezervy a doklad o deponování, evidence pohledávek a doba po splatnosti, kolektivní smlouva a vnitřní předpisy, cestovní příkazy a vyúčtování, posudek o výši škody a potvrzení o příčině (meteorologie / policie).
 
 ---
 
@@ -418,6 +566,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 - *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
   > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní s. r. o. (vede účetnictví) v jednom roce: (a) postoupila pohledávku se jmenovitou hodnotou 500 000 Kč za úplatu 300 000 Kč, k pohledávce dříve tvořila zákonnou opravnou položku 200 000 Kč; (b) prodala podíl v jiné s. r. o. za 100 000 Kč, jeho nabývací cena byla 400 000 Kč; (c) zaplatila smluvní pokutu odběrateli 150 000 Kč ze smlouvy o dílo až v lednu následujícího roku; (d) uplatňuje u dvou vozidel paušální výdaj na dopravu, přičemž jeden vůz používá i k soukromým jízdám. Důkazy: smlouva o postoupení, evidence opravných položek, smlouva o převodu podílu, smlouva o dílo a doklad o úhradě pokuty, evidence vozidel a prohlášení o užívání.
+
+**2. Právní otázka.** Jaký daňový výdaj lze uplatnit u postoupené pohledávky a prodaného podílu (pravidlo „jen do výše příjmu"), kdy je daňově účinná smluvní pokuta a jak se uplatní paušální výdaj na dopravu včetně krácené varianty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 2 písm. s) (postoupení pohledávky do výše příjmu, navýšení o zákonnou OP), písm. w) (nabývací cena podílu jen do výše příjmu z prodeje), písm. zi) (sankce ze závazkových vztahů jen po zaplacení), písm. zt) (paušální výdaj na dopravu 5 000 Kč / 4 000 Kč, max. 3 vozidla).
+- *Související ustanovení téhož zákona:* § 25 odst. 1 písm. x) (zákaz souběhu skutečných PHM a paušálu), písm. f) (sankce), písm. zk) (náklady na držbu podílu); § 23 odst. 3 (mimoúčetní úprava u sankcí do zaplacení); § 24 odst. 7 (nabývací cena podílu).
+- *Související předpisy:* zákon č. 593/1992 Sb. (opravné položky); zákon č. 563/1991 Sb., o účetnictví.
+- *Judikatura:* nosný závěr — pravidla „jen do výše příjmu" u prodeje podílů a postupovaných pohledávek brání generování umělé daňové ztráty; ověřte aktuální judikaturu NSS k uznatelnosti ztráty z postoupení pohledávek.
+
+**4. Subsumpce.** (a) U postoupení je výdajem jmenovitá hodnota jen do výše příjmu (300 000 Kč), tento limit však lze zvýšit o dříve tvořenou zákonnou opravnou položku (200 000 Kč) → uznatelný výdaj až 500 000 Kč, ztráta z postoupení je daňově účinná v tomto rozsahu [písm. s)]. (b) U prodeje podílu je nabývací cena výdajem jen do výše příjmu z prodeje (100 000 Kč); zbývajících 300 000 Kč je daňově neúčinná ztráta [písm. w)]. (c) Smluvní pokuta ze závazkového vztahu je výdajem jen po zaplacení; uhrazena v lednu → výdajem až následujícího roku [písm. zi)], do té doby mimoúčetní úprava zvyšující základ daně. (d) U vozu používaného i soukromě se uplatní krácený paušál 4 000 Kč a neuzná se 20 % ostatních provozních výdajů (kromě odpisů); u druhého vozu plný paušál 5 000 Kč.
+
+**5. Řešení.** Postoupená pohledávka — výdaj do 500 000 Kč (díky navýšení o OP); prodej podílu — výdaj jen 100 000 Kč; smluvní pokuta — výdaj až roku úhrady; paušál — 5 000 + 4 000 Kč/měsíc, u kráceného vozu navíc krácení 20 % ostatních výdajů a zákaz uplatnění skutečných PHM [§ 25 odst. 1 písm. x)]. Procesně: evidovat tvorbu OP, datum úhrady pokuty, prohlášení o (ne)soukromém užívání vozidel.
+
+**6. Varianty.** (i) Kdyby k postupované pohledávce nebyla tvořena zákonná OP, byl by výdaj omezen jen na 300 000 Kč a ztráta 200 000 Kč by byla neúčinná. (ii) Kdyby poplatník u téhož vozu uplatnil skutečné PHM, nemohl by současně uplatnit paušál — způsob nelze v průběhu období měnit.
+
+#### G. Protiargumenty a rizika
+
+- *„Reálnou ztrátu z prodeje podílu a z postoupení pohledávky musíme uznat celou."* Zákon ji u podílů [písm. w)] i u pohledávek [písm. s)] omezuje na výši příjmu; cílem je zabránit umělým daňovým ztrátám. U pohledávek lze limit zvýšit jen o zákonnou OP/rezervu — neutralizace přes včasnou zákonnou tvorbu OP.
+- *„Smluvní pokutu jsme zaúčtovali do nákladů, tedy snižuje základ daně.“* Sankce ze závazkového vztahu je výdajem až po zaplacení [písm. zi)]; do úhrady jde o mimoúčetní úpravu. Pozor na záměnu se vždy neuznatelnými veřejnoprávními sankcemi [§ 25 odst. 1 písm. f)].
+- Slabé místo: u paušálu na dopravu se opomíjí zákaz souběhu se skutečnými PHM [§ 25 odst. 1 písm. x)] a strop 3 vozidel; chybějícím podkladem je prohlášení o výlučně/zčásti soukromém užívání.
+
+#### H. Praktický závěr
+
+U prodeje podílů a postoupení pohledávek počítej s limitem „jen do výše příjmu" (u pohledávek navýšeným o zákonnou OP); soukromoprávní sankce uplatni až po zaplacení; paušál na dopravu (5 000 / krácený 4 000 Kč, max. 3 vozidla) nekombinuj se skutečnými PHM.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Je u postoupení/prodeje dodržen limit výše příjmu (u pohledávek navýšen o zákonnou OP)?
+- [ ] Byla soukromoprávní sankce skutečně zaplacena (jinak mimoúčetní úprava)?
+- [ ] Nejde o veřejnoprávní sankci (vždy neuznatelnou)?
+- [ ] Je u paušálu na dopravu dodržen strop 3 vozidel a krácení 4 000 Kč u soukromě užívaných vozů?
+- [ ] Nejsou současně uplatněny skutečné PHM a paušál?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy o postoupení a o převodu podílu, evidence a doklady o tvorbě zákonných OP, smlouvy a doklady o úhradě sankcí, evidence vozidel, prohlášení o způsobu užívání, kniha jízd nebo doklad o paušálu.
+
 ---
 
 ### § 24 odst. 3 až 14 — Doplňující pravidla (leasing, nabývací cena podílu, prodej závodu, definice živelní pohromy)
@@ -438,6 +623,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 - *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
   > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dopravní s. r. o. uzavřela smlouvu o finančním leasingu nákladního vozidla na 54 měsíců (sjednaná cena, odkup za 1 000 Kč). Po 30 měsících leasing předčasně ukončila a vozidlo odkoupila. Do nákladů průběžně účtovala celé leasingové splátky. Současně spolek (veřejně prospěšný poplatník) s hlavní osvobozenou a vedlejší hospodářskou činností řeší, v jakém rozsahu uplatní společné provozní náklady. Důkazy: leasingová smlouva, splátkový kalendář, doklad o předčasném ukončení a odkupu, účetnictví spolku s rozčleněním činností.
+
+**2. Právní otázka.** Jaká část leasingových úplat je daňově uznatelná při dodržení i při předčasném ukončení finančního leasingu, a jak se u veřejně prospěšného poplatníka uplatní pravidlo, že výdaje jsou uznatelné jen v rozsahu souvisejícím s příjmy, které jsou předmětem daně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 3 (výdaje jen v rozsahu souvisejícím se zdanitelnými příjmy u veřejně prospěšných poplatníků), odst. 4–6 (finanční leasing: zařazení do obchodního majetku, minimální doba, poměrná část při předčasném ukončení), odst. 7 (nabývací cena podílu), odst. 10 (definice živelní pohromy).
+- *Související ustanovení téhož zákona:* § 21d (definice finančního leasingu a minimální doby); § 17a (veřejně prospěšný poplatník); § 24a a § 24b (závazné posouzení rozdělení / poměru výdajů); § 24 odst. 2 písm. h) (úplata u leasingu).
+- *Související předpisy:* zákon č. 563/1991 Sb., o účetnictví; zákon č. 280/2009 Sb., daňový řád (§ 132–133 — závazné posouzení).
+- *Judikatura:* nosný závěr — při předčasném ukončení finančního leasingu lze uplatnit jen poměrnou část úplaty připadající na skutečnou dobu trvání; cílem je zabránit zrychlenému uplatnění pořizovací ceny majetku (ověřte aktuální judikaturu NSS k finančnímu leasingu).
+
+**4. Subsumpce.** Leasing — při dodržení podmínek (zařazení do obchodního majetku po skončení, minimální doba dle § 21d) jsou úplaty uznatelné; při předčasném ukončení po 30 z 54 měsíců je výdajem jen poměrná část úplaty připadající na skutečnou dobu (resp. skutečně zaplacená úplata, je‑li nižší) [odst. 6]. Účtování celých splátek do nákladů je proto nutno mimoúčetně korigovat. Veřejně prospěšný poplatník — společné provozní náklady jsou uznatelné jen v poměru připadajícím na zdaňované příjmy [odst. 3]; klíč rozdělení lze stvrdit závazným posouzením (→ § 24a).
+
+**5. Řešení.** U leasingu uznatelná jen poměrná část úplaty za 30 měsíců; rozdíl se vyloučí mimoúčetně. U spolku se společné náklady rozdělí podle racionálního klíče (např. podle výnosů či plochy) a uznají jen v části na zdaňovanou činnost; pro jistotu lze požádat o závazné posouzení. Procesně: doložit splátkový kalendář a datum ukončení; u spolku transparentní metodiku rozdělení nákladů.
+
+**6. Varianty.** (i) Kdyby spolek nedokázal náklady přiřaditelné jen ke zdaňované činnosti oddělit, riskuje doměrek; závazné posouzení (§ 24a) riziko eliminuje. (ii) Kdyby leasing dodržel celou sjednanou dobu a vozidlo bylo zařazeno do obchodního majetku, byly by úplaty uznatelné v plné výši [odst. 4].
+
+#### G. Protiargumenty a rizika
+
+- *„Leasingové splátky jsme platili a účtovali průběžně, jsou tedy nákladem v zaplacené výši."* Při předčasném ukončení zákon uznává jen poměrnou část úplaty připadající na skutečnou dobu leasingu [odst. 6]; zbytek nutno vyloučit. Neutralizace: přepočítat poměrnou část a opravit základ daně.
+- *„Spolek je nezisková organizace, takže si může uplatnit všechny provozní náklady."* U veřejně prospěšného poplatníka jsou uznatelné jen výdaje na příjmy, které jsou předmětem daně [odst. 3]; náklady na osvobozenou/nezdaňovanou činnost uznat nelze [→ § 25 odst. 1 písm. i)]. Neutralizace: oddělená evidence a klíč rozdělení.
+- Slabé místo: stanovení minimální doby leasingu podle § 21d a volba obhajitelného klíče rozdělení společných nákladů; chybějícím podkladem bývá metodika alokace.
+
+#### H. Praktický závěr
+
+U finančního leasingu hlídej minimální dobu a při předčasném ukončení uplatni jen poměrnou část úplaty; u veřejně prospěšných poplatníků odděluj náklady na zdaňovanou a nezdaňovanou činnost a zvaž závazné posouzení rozdělení výdajů.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Je u finančního leasingu splněna minimální doba (§ 21d) a zařazení předmětu do obchodního majetku?
+- [ ] Při předčasném ukončení uplatněna jen poměrná část úplaty na skutečnou dobu [odst. 6]?
+- [ ] U veřejně prospěšného poplatníka jsou náklady přiřazeny jen ke zdaňovaným příjmům [odst. 3]?
+- [ ] Existuje obhajitelný klíč rozdělení společných výdajů (případně potvrzený dle § 24a)?
+- [ ] U škody z živelní pohromy splněny prahy odst. 10 a doložen posudek?
+
+**Typicky rozhodné důkazy / podklady:** leasingová smlouva a splátkový kalendář, doklad o (předčasném) ukončení a odkupu, oddělená evidence příjmů a nákladů podle činností, metodika rozdělení společných výdajů, případné rozhodnutí o závazném posouzení.
 
 ---
 
@@ -469,6 +691,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 → § 23 odst. 5, → § 24 odst. 3, → § 132–133 daňového řádu (obecná úprava závazného posouzení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zapsaný spolek (veřejně prospěšný poplatník) provozuje hlavní (osvobozenou) sportovní činnost a vedlejší hospodářskou činnost — provoz bufetu a pronájem reklamních ploch (zdaňované příjmy). Sdílí jednu budovu, společnou správu, energie a mzdu správce. Spolek navrhuje rozdělit společné náklady podle poměru zdaňovaných a celkových výnosů (např. 30 : 100). Obává se, že správce daně klíč při kontrole zpochybní a doměří daň. Důkazy: účetnictví s rozčleněním činností, kalkulace výnosů, popis využití budovy a pracovní náplň správce.
+
+**2. Právní otázka.** Může spolek získat předem závaznou jistotu o správnosti navrženého způsobu rozdělení společných výdajů mezi zdaňovanou a nezdaňovanou činnost, a jaké náležitosti musí žádost obsahovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24a — závazné posouzení způsobu rozdělení výdajů, které nelze přiřadit pouze ke zdanitelným příjmům; náležitosti žádosti [odst. 2 písm. a)–h)].
+- *Související ustanovení téhož zákona:* § 23 odst. 5 a § 24 odst. 3 (kritéria, podle nichž se rozdělení posuzuje); § 25 odst. 1 písm. i) (zákaz uplatnit náklady na nezdaňované příjmy); § 17a (veřejně prospěšný poplatník).
+- *Související předpisy:* § 132 a § 133 daňového řádu (obecná úprava závazného posouzení); zákon č. 634/2004 Sb., o správních poplatcích (poplatek za žádost — ověřte aktuální sazbu).
+- *Judikatura:* nosný závěr — rozhodnutí o závazném posouzení váže správce daně za podmínky, že skutečný stav odpovídá stavu popsanému v žádosti; institut slouží právní jistotě, nikoli legalizaci fiktivního klíče (ověřte aktuální judikaturu).
+
+**4. Subsumpce.** Spolek má výdaje související jak se zdanitelnými příjmy (bufet, reklama), tak s příjmy osvobozenými/nezdaňovanými (hlavní činnost) — naplňuje hypotézu § 24a odst. 1. Žádost musí obsahovat identifikaci poplatníka, celkové výdaje a příjmy (u veřejně prospěšného poplatníka i podle druhů nepodnikatelských činností), přehled dotací, popis sporných výdajů a příjmů, údaje o majetku a jeho využití, zdůvodnění navrženého klíče, dotčené zdaňovací období a návrh výroku [odst. 2]. Navržený klíč (poměr výnosů 30 : 100) musí odpovídat § 23 odst. 5 a § 24 odst. 3.
+
+**5. Řešení.** Spolek podá žádost se všemi náležitostmi a navrženým výrokem; uhradí správní poplatek. Vyhoví‑li správce daně, je rozhodnutí závazné pro dané zdaňovací období a chrání spolek před doměrkem (za podmínky shody skutečného stavu s popisem v žádosti). Procesně: připravit přesvědčivé zdůvodnění klíče a doložit využití majetku. Riziko: nesoulad skutečnosti s popisem ruší závaznost.
+
+**6. Varianty.** (i) Kdyby spolek vůbec společné náklady nerozdělil a uplatnil je celé, hrozí doměrek podle § 24 odst. 3 a § 25 odst. 1 písm. i). (ii) Kdyby šlo o nemovitost se smíšeným (podnikatelským a soukromým) využitím u OSVČ, použil by se speciální § 24b namísto § 24a.
+
+#### G. Protiargumenty a rizika
+
+- *„Závazné posouzení je zbytečné, klíč si určíme sami a obhájíme jej až při kontrole."* Bez závazného posouzení nese poplatník plné riziko, že správce daně klíč zpochybní a doměří daň i penále; § 24a poskytuje předběžnou jistotu. Neutralizace: podat žádost u typově sporných smíšených nákladů.
+- *„Jednou potvrzený klíč platí trvale."* Rozhodnutí je závazné pro konkrétní zdaňovací období a za podmínky, že skutečný stav odpovídá žádosti; při změně poměru činností je nutné nové posouzení.
+- Slabé místo: kvalita a věrohodnost navrženého klíče a úplnost údajů v žádosti; chybějícím podkladem bývá doložení skutečného využití majetku a struktury výnosů.
+
+#### H. Praktický závěr
+
+Při smíšené činnosti, kde nelze výdaje jednoznačně přiřadit jen ke zdanitelným příjmům, využij závazné posouzení podle § 24a; podej úplnou žádost s obhajitelným klíčem a počítej se závazností jen pro dané období a při shodě skutečnosti s popisem.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Má poplatník výdaje vázané jak na zdanitelné, tak na nezdaňované/osvobozené příjmy?
+- [ ] Obsahuje žádost všechny náležitosti dle § 24a odst. 2 písm. a)–h) včetně návrhu výroku?
+- [ ] Odpovídá navržený klíč § 23 odst. 5 a § 24 odst. 3?
+- [ ] Je uhrazen správní poplatek a vymezeno dotčené zdaňovací období?
+- [ ] Odpovídá skutečný stav popisu v žádosti (jinak zaniká závaznost)?
+
+**Typicky rozhodné důkazy / podklady:** účetnictví s rozčleněním činností, kalkulace celkových a zdaňovaných výnosů, přehled dotací a podpor, popis a dokumentace využití majetku, zdůvodnění klíče rozdělení, návrh výroku rozhodnutí.
+
 ---
 
 ### § 24b — Závazné posouzení poměru výdajů u nemovité věci se smíšeným využitím
@@ -496,6 +755,43 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 § 24b je *specializovaná varianta* závazného posouzení pro typickou praktickou situaci OSVČ a pronajímatelů: **nemovitost se smíšeným využitím** — část slouží podnikání nebo nájmu, část soukromým účelům (např. rodinný dům, kde je v přízemí provozovna). Sporné bývá rozdělení nákladů na energie, opravy, údržbu. Poplatník navrhne klíč (typicky podle podlahové plochy či objemu prostor) a správce daně jej závazně posoudí. Vazba na → § 25 odst. 1 písm. u) je zásadní: výdaje na osobní potřebu jsou vždy neuznatelné, takže správné oddělení podnikatelské a soukromé části chrání poplatníka před doměrkem.
 
 → § 7, § 9 (příjmy ze samostatné činnosti a z nájmu), → § 24 odst. 3, → § 25 odst. 1 písm. u) (výdaje na osobní potřebu).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** OSVČ — provozovatel kadeřnictví (příjmy podle § 7, vede daňovou evidenci) vlastní rodinný dům: přízemí (40 % podlahové plochy) slouží jako provozovna, patro (60 %) k bydlení. Uplatňuje 100 % nákladů na energie, opravy a údržbu domu do daňových výdajů. Správce daně namítá, že část připadá na soukromé bydlení a je neuznatelná. Poplatník chce předem získat jistotu o správnosti poměru. Důkazy: plán domu s plochami a objemy prostor, údaje o vytápění, faktury za energie a opravy, popis využití prostor.
+
+**2. Právní otázka.** Může OSVČ získat předem závazné potvrzení poměru, v jakém uplatní výdaje na provoz nemovitosti používané zčásti k podnikání (nájmu) a zčásti k soukromým účelům, a jaké náležitosti žádost vyžaduje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24b — závazné posouzení poměru výdajů spojených s provozem nemovité věci se smíšeným (podnikatelským/nájemním a soukromým) využitím; náležitosti žádosti [odst. 2 písm. a)–f)].
+- *Související ustanovení téhož zákona:* § 24 odst. 3 (kritérium souvislosti se zdanitelnými příjmy); § 25 odst. 1 písm. u) (výdaje na osobní potřebu jsou vždy neuznatelné, včetně oprav majetku nezařazeného do obchodního majetku); § 7 a § 9 (příjmy ze samostatné činnosti a z nájmu); § 4 odst. 4 (obchodní majetek).
+- *Související předpisy:* § 132–133 daňového řádu (závazné posouzení); zákon č. 634/2004 Sb., o správních poplatcích (poplatek — ověřte sazbu).
+- *Judikatura:* nosný závěr — výdaje na soukromou část nemovitosti nelze uplatnit; rozhodující je prokazatelný a racionální klíč (typicky podlahová plocha či objem prostor). Aktuální judikaturu ověřte.
+
+**4. Subsumpce.** Nemovitost slouží zčásti podnikání (provozovna), zčásti soukromému bydlení — naplňuje hypotézu § 24b odst. 1 (poplatník s příjmy podle § 7). Žádost musí obsahovat identifikaci poplatníka, adresu nemovitosti, plochu a objem jednotlivých prostor s rozdělením na využívané a nevyužívané k činnosti (včetně údajů o vytápění a klimatizaci), popis využití prostor ve zdaňovacím období, popis a dokumentaci způsobu uplatnění výdajů a návrh výroku [odst. 2]. Navržený klíč (40 % plochy na provozovnu) musí odpovídat § 24 odst. 3.
+
+**5. Řešení.** Poplatník uplatní jen poměrnou část nákladů (cca 40 % podle plochy provozovny) a o tento poměr může požádat o závazné posouzení; vyhoví‑li správce daně, je rozhodnutí závazné pro dané období a chrání před doměrkem. Uplatnění 100 % nákladů je v rozporu s § 25 odst. 1 písm. u). Procesně: doložit plán domu, plochy/objemy a způsob vytápění; připravit obhajitelný klíč.
+
+**6. Varianty.** (i) Kdyby poplatník nemovitost nezařadil do obchodního majetku, byly by neuznatelné i výdaje na její opravy a technické zhodnocení [§ 25 odst. 1 písm. u) in fine]. (ii) Kdyby šlo o veřejně prospěšného poplatníka se smíšenou činností (nikoli o nemovitost se soukromým využitím), použil by se obecnější § 24a.
+
+#### G. Protiargumenty a rizika
+
+- *„Dům je v mém vlastnictví a používám ho k podnikání, takže náklady uplatním celé."* Část připadající na soukromé bydlení je výdajem na osobní potřebu a je neuznatelná [§ 25 odst. 1 písm. u)]; uplatnit lze jen poměrnou část odpovídající podnikatelskému využití. Neutralizace: rozdělit náklady podle plochy/objemu a doložit klíč.
+- *„Závazné posouzení nepotřebuji, poměr si stanovím sám."* Bez něj nese poplatník riziko doměrku, pokud správce daně klíč zpochybní; § 24b dává předem jistotu pro typicky spornou situaci. Neutralizace: podat žádost s pečlivou dokumentací prostor.
+- Slabé místo: volba a doložení klíče (plocha vs. objem vs. doba užívání) a evidence skutečného využití prostor; chybějícím podkladem bývá plán nemovitosti a údaje o vytápění.
+
+#### H. Praktický závěr
+
+U nemovitosti se smíšeným využitím uplatni jen poměrnou část provozních nákladů odpovídající podnikání/nájmu; soukromou část vždy vylučuj [§ 25 odst. 1 písm. u)] a pro jistotu poměru využij závazné posouzení podle § 24b.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Slouží nemovitost zčásti k činnosti dle § 7/§ 9 a zčásti soukromým účelům?
+- [ ] Je stanoven racionální klíč rozdělení (podlahová plocha / objem prostor)?
+- [ ] Je soukromá část nákladů vyloučena [§ 25 odst. 1 písm. u)]?
+- [ ] Je u oprav/technického zhodnocení nemovitost zařazena do obchodního majetku (§ 4 odst. 4)?
+- [ ] Obsahuje žádost všechny náležitosti dle § 24b odst. 2 včetně návrhu výroku a údajů o plochách a vytápění?
+
+**Typicky rozhodné důkazy / podklady:** plán nemovitosti s plochami a objemy prostor, údaje o vytápění a klimatizaci, popis využití jednotlivých prostor, faktury za energie, opravy a údržbu, dokumentace způsobu uplatnění výdajů, návrh výroku rozhodnutí.
 
 ---
 
@@ -634,6 +930,44 @@ Náklad neuznatelný již podle nízké kapitalizace [písm. w)] se do testu § 
 **Reklasifikace paušálu na dopravu [písm. x)].** Při uplatnění paušálního výdaje na dopravu [§ 24 odst. 2 písm. zt)] jsou neuznatelné skutečné PHM a parkovné; u kráceného paušálu navíc 20 % ostatních výdajů (kromě odpisů).
 
 → § 24 odst. 2 (zrcadlové výjimky), → § 23 odst. 7 (spojené osoby), → § 23e (omezení nadměrných výpůjčních výdajů — ATAD), → § 19 odst. 1 (osvobození podílů na zisku), → zákon č. 593/1992 Sb. (opravné položky a rezervy).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Holdingová a. s. (matka) drží 100% podíl v dceřiné společnosti. V jednom roce zaúčtovala do nákladů: (a) úroky 1,2 mil. Kč z úvěru od sesterské (spojené) společnosti, přičemž úhrn úvěrů od spojených osob činí osminásobek vlastního kapitálu; (b) režijní náklady správy podílu (mzdy, poradenství) 800 000 Kč při příjmu z podílů na zisku od dcery 10 mil. Kč; (c) reprezentační dary obchodním partnerům 60 000 Kč a reklamní propisky s logem za 300 Kč/ks; (d) penále finančnímu úřadu 90 000 Kč; (e) manko v skladu 200 000 Kč nad rámec ekonomicky zdůvodněné normy ztratného. Důkazy: účetnictví, smlouvy o úvěrech, výpočet vlastního kapitálu, evidence darů, platební výměr, inventura.
+
+**2. Právní otázka.** Které z položek a)–e) jsou podle taxativního výčtu § 25 daňově neuznatelné a v jakém rozsahu, a jak se projeví pravidla nízké kapitalizace, limit režie u držby podílu a vyloučení reprezentace, sankcí a mank?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 1 písm. w) (nízká kapitalizace — finanční náklady z úvěrů od spojených osob nad 4násobek, resp. 6násobek vlastního kapitálu), písm. zk) (náklady na držbu podílu v dceřiné společnosti, režie omezena 5 % příjmu z podílů na zisku), písm. t) (reprezentace, reklamní předmět do 500 Kč bez DPH), písm. f) (penále a pokuty), písm. n) a odst. 2 (manka a škody nad náhrady, definice).
+- *Související ustanovení téhož zákona:* § 23 odst. 7 (spojené osoby); § 23e (omezení nadměrných výpůjčních výdajů — ATAD); § 19 odst. 1 písm. ze) (osvobození podílů na zisku); § 24 odst. 2 písm. zi) (sankce jako výjimka), písm. l) (škody z živelní pohromy).
+- *Související předpisy:* směrnice ATAD (2016/1164); zákon č. 593/1992 Sb., o rezervách; zákon č. 280/2009 Sb., daňový řád.
+- *Judikatura:* nosný závěr — § 25 funguje jako uzavřený katalog výluk; rozšiřování výluk analogií v neprospěch poplatníka je nepřípustné, naopak položku zde neuvedenou nelze vyloučit, projde‑li testem § 24 odst. 1. U reprezentace vs. reklamy se rozlišuje podle adresnosti a měřitelnosti propagačního účinku (ověřte aktuální judikaturu NSS).
+
+**4. Subsumpce.** (a) Úroky od spojené osoby — úvěr činí 8× vlastního kapitálu, limit pro běžného poplatníka je 4×; neuznatelná je část finančních nákladů připadající na úvěr nad 4násobek [písm. w)]; zbylá uznatelná část pak prochází ještě testem § 23e (zákaz dvojího vyloučení). (b) Režijní náklady držby podílu jsou omezeny na 5 % příjmu z podílů na zisku, tj. 5 % z 10 mil. = 500 000 Kč; nad tuto hranici (300 000 Kč) jsou neuznatelné, neprokáže‑li matka nižší skutečnou výši [písm. zk)]. (c) Dary 60 000 Kč jsou reprezentace → neuznatelné [písm. t)]; propisky s logem do 500 Kč bez DPH jsou uznatelné. (d) Penále finančnímu úřadu je veřejnoprávní sankce → neuznatelné [písm. f)] bez výjimky. (e) Manko nad ekonomicky zdůvodněnou normu ztratného je neuznatelné [písm. n) ve spojení s odst. 2].
+
+**5. Řešení.** Neuznatelné: část úroků nad limit nízké kapitalizace, část režie držby podílu nad 5 % (300 000 Kč), reprezentační dary 60 000 Kč, penále 90 000 Kč, manko nad normu 200 000 Kč. Uznatelné: propisky s logem, část úroků a režie v rámci limitů. Procesně: nejprve aplikovat § 25 odst. 1 písm. w), pak na zbytek § 23e; doložit výpočet vlastního kapitálu, skutečnou výši režie, normu ztratného. Riziko: záměna soukromoprávní a veřejnoprávní sankce; opomenutí souběhu nízké kapitalizace a ATAD.
+
+**6. Varianty.** (i) Kdyby věřitelem úroků byla nespojená banka, nízká kapitalizace [písm. w)] by se neuplatnila, avšak test § 23e (limit 30 % EBITDA / 80 mil. Kč) by se aplikoval na všechny věřitele. (ii) Kdyby matka prokázala, že skutečné režijní náklady držby podílu jsou nižší než 5 % příjmu, uplatnila by je v této nižší skutečné výši [písm. zk)].
+
+#### G. Protiargumenty a rizika
+
+- *„Návětí § 25 říká ‚zejména', takže výčet je demonstrativní a sporné náklady lze uznat výkladem."* Materiálně jde o uzavřený katalog; položku zde uvedenou nelze uznat, ledaže § 25 sám odkáže na výjimku v § 24. Naopak rozšiřovat výluky analogií v neprospěch poplatníka nelze. Neutralizace: argumentovat textem a systematikou dvojic § 24/§ 25.
+- *„Úroky od spojené osoby jsou běžný finanční náklad, nízká kapitalizace je nepřiměřená."* Pravidlo cílí na poměr dluhu k vlastnímu kapitálu u spojených osob a koexistuje s § 23e; jde o dvě samostatná, souběžně aplikovaná omezení. Náklad vyloučený podle písm. w) se do § 23e nezapočítává podruhé.
+- Slabé místo: prokázání skutečné (nižší) výše režijních nákladů držby podílu a stanovení obhajitelné normy přirozených úbytků/ztratného; chybějícím podkladem bývá výpočet vlastního kapitálu a doklad o normě ztratného.
+
+#### H. Praktický závěr
+
+§ 25 čti jako uzavřený katalog výluk se „ventily" do § 24. U dluhového financování od spojených osob aplikuj nejprve nízkou kapitalizaci [písm. w)], pak § 23e; režii držby podílu omez na 5 % příjmu z podílů na zisku; reprezentaci, veřejnoprávní sankce a manka nad normu vždy vylučuj.
+
+**Checklist (advokát / soud / správní orgán / poplatník):**
+- [ ] Je náklad uveden v některém písmenu § 25 odst. 1? Pokud ano, odkazuje na výjimku v § 24?
+- [ ] U úvěrů od spojených osob ověřen limit 4násobku (6násobku) vlastního kapitálu [písm. w)] a následně test § 23e?
+- [ ] Nepřekračuje režie držby podílu 5 % příjmu z podílů na zisku [písm. zk)] (či prokázána nižší skutečná výše)?
+- [ ] Jde o reprezentaci, nebo o reklamní předmět do 500 Kč bez DPH [písm. t)]?
+- [ ] Jsou sankce veřejnoprávní (vždy neuznatelné), nebo soukromoprávní zaplacené [§ 24 odst. 2 písm. zi)]?
+- [ ] Je manko/škoda nad rámec náhrad a nad ekonomicky zdůvodněnou normu [písm. n), odst. 2]?
+
+**Typicky rozhodné důkazy / podklady:** účetnictví, smlouvy o úvěrech a výpočet vlastního kapitálu, doklad o spojených osobách, kalkulace skutečné výše režie držby podílu, evidence darů a reklamních předmětů, platební výměry na sankce, inventurní zápisy a doklad o normě ztratného.
 
 ---
 

@@ -421,6 +421,43 @@ Nepeněžní příjem ze **školky/dětské skupiny** poskytnuté rodinnému př
 
 → § 3 (předmět daně z příjmů FO) · → § 4 (osvobození obecná) · → § 5 (základ daně, dílčí základy) · → § 7 (samostatná činnost — odlišení od švarcsystému) · → § 8 (kapitálové příjmy — podíly na zisku společníků) · → § 10 (ostatní příjmy — kvalifikované opce) · → § 16 (sazba daně 15 %/23 %) · → § 35ba (slevy na dani) · → § 36 (srážková daň zvláštní sazbou) · → § 38f (zamezení dvojího zdanění) · → § 38h (výběr a placení záloh plátcem) · → § 38j (povinnosti plátce, mzdové listy) · → § 38k (prohlášení poplatníka) · → § 38ch (roční zúčtování záloh) · → § 6a (kvalifikované zaměstnanecké opce).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní společnost STAVKO s. r. o. dlouhodobě „spolupracuje" s panem *Dvořákem*, který je formálně OSVČ s živnostenským oprávněním a fakturuje společnosti měsíčně 60 000 Kč „za stavební práce". Dvořák však pracuje výhradně pro STAVKO, dochází na pracoviště v pevné pracovní době, používá nářadí a materiál společnosti, podléhá pokynům stavbyvedoucího a nemá jiné odběratele. Při daňové kontrole správce daně zkoumá, zda nejde o zastřený pracovněprávní vztah (švarcsystém). Účastníci: STAVKO (potenciální plátce/zaměstnavatel), Dvořák (potenciální zaměstnanec), správce daně. Důkazy k obstarání: rámcová smlouva o dílo, faktury, evidence docházky, e‑mailová a SMS komunikace s pokyny, výslechy stavbyvedoucího a Dvořáka, zjištění o (ne)existenci jiných odběratelů, kdo poskytoval nářadí a OOPP.
+
+**2. Právní otázka.** Naplňuje faktická podstata vztahu mezi STAVKO a Dvořákem znaky závislé činnosti podle § 6 odst. 1 písm. a) bodu 1 (povinnost dbát příkazů plátce při výkonu práce), takže příjem má být zdaněn jako příjem ze závislé činnosti s povinnostmi plátce, ačkoli je formálně vykázán jako samostatná činnost podle § 7?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 písm. a) bod 1 ZDP — příjem ze vztahu, v němž je poplatník povinen při výkonu práce dbát příkazů plátce; autonomní (daňové) pojetí závislé činnosti nezávislé na formálním označení vztahu.
+- *Související ustanovení téhož zákona:* § 6 odst. 2 (legislativní zkratky zaměstnanec/zaměstnavatel a povinnosti plátce), § 6 odst. 3 (šíře pojmu příjem), § 6 odst. 12 (dílčí základ daně); → § 7 (samostatná činnost), z níž má být příjem překvalifikován; → § 38h, § 38j (povinnosti plátce, jejichž porušení zakládá doměrek).
+- *Související předpisy:* zákon č. 435/2004 Sb., o zaměstnanosti (definice nelegální práce a zákaz švarcsystému); zákon č. 262/2006 Sb., zákoník práce (znaky závislé práce v § 2 a § 3); daňový řád č. 280/2009 Sb. (dokazování, ručení plátce, doměření); předpisy o pojistném (589/1992 Sb., 592/1992 Sb.).
+- *Judikatura:* ustálená rozhodovací praxe Nejvyššího správního soudu k odlišení závislé a samostatné činnosti vychází z materiálního posouzení znaků — soustavnost, osobní výkon práce, vztah podřízenosti, výkon jménem a na účet „zaměstnavatele", poskytování pracovních prostředků a hospodářská závislost na jediném odběrateli (nosný závěr: rozhodující je faktický obsah vztahu, nikoli jeho označení; konkrétní spisové značky NSS nutno ověřit).
+
+**4. Subsumpce.** Znak *povinnosti dbát příkazů* je naplněn (pevná pracovní doba, pokyny stavbyvedoucího). *Osobní výkon* a *soustavnost* jsou rovněž dány. *Výkon na účet a jménem plátce* a *poskytnutí pracovních prostředků* potvrzuje, že nářadí a materiál dodává STAVKO. *Hospodářská závislost* je doložena absencí jiných odběratelů. Sporné může zůstat, zda nešlo o legitimní subdodávku s vlastní organizací práce — to by vyžadovalo prokázat samostatné rozvržení činnosti, nesení podnikatelského rizika a vlastní zákazníky, což zde chybí.
+
+**5. Řešení.** Převažují‑li znaky subordinace, správce daně příjem překvalifikuje z § 7 na § 6; STAVKO jako plátce odpovídá za nesražené zálohy (→ § 38h) a hrozí mu doměření daně, penále a úrok z prodlení, jakož i doměření pojistného. Procesně: shromáždit důkazy o faktické organizaci práce, vyjádřit se ke kontrolnímu zjištění, případně bránit se odvoláním a žalobou. Alternativní výklad (legitimní dodavatelský vztah) je tím slabší, čím výlučnější je vazba na jediného odběratele.
+
+**6. Varianty.** (i) Pokud by Dvořák současně fakturoval více nezávislým odběratelům, sám si organizoval práci a používal vlastní vybavení, převážily by znaky samostatné činnosti (§ 7) a překvalifikace by neobstála. (ii) Pokud by Dvořák byl jediným společníkem a jednatelem vlastní s. r. o., která fakturuje STAVKO, posuzoval by se vztah na úrovni korporací (a jeho vlastní odměna od jeho s. r. o. by spadala pod § 6 odst. 1 písm. b)/c) u jeho společnosti, nikoli u STAVKO).
+
+#### G. Protiargumenty a rizika
+
+- *Smluvní autonomie a formální označení.* Lze namítat, že strany uzavřely smlouvu o dílo dle občanského zákoníku a stát nemá přepisovat jejich vůli. Neutralizace: daňové (a pracovněprávní) pojetí závislé činnosti je autonomní a materiální — rozhodující je faktický obsah, nikoli nomen iuris; § 6 odst. 1 písm. a) bod 1 cílí právě na povinnost dbát příkazů.
+- *Důkazní břemeno a neostrá hranice.* Znaky závislosti nejsou v jednotlivém případě vždy jednoznačné a hranice vůči subdodávce je plynulá. Riziko: správce daně musí znaky materiálně prokázat; izolovaný znak (např. docházka) nestačí. Neutralizace: opřít se o souhrn znaků a ustálenou judikaturu NSS, nikoli o jediný indikátor.
+- *Slabé místo.* Komentář u § 6 výslovně upozorňuje, že konkrétní spisové značky NSS je nutno ověřit — argumentaci nelze stavět na smyšlených citacích; je třeba dohledat aktuální nosná rozhodnutí a zohlednit, že rozhodné částky a praxe se vyvíjejí.
+
+#### H. Praktický závěr
+
+Příjem ze závislé činnosti podle § 6 je dán faktickou podřízeností poplatníka příkazům plátce; formální označení vztahu (živnost, smlouva o dílo, mandátní smlouva) je nerozhodné. Při pochybnostech posuzujte souhrn materiálních znaků a počítejte s tím, že překvalifikace zatíží plátce (zálohy, penále, pojistné).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zmapovat faktickou organizaci práce: pracovní doba, pokyny, kontrola, podřízenost.
+- [ ] Zjistit, kdo poskytuje pracovní prostředky, materiál a OOPP a kdo nese podnikatelské riziko.
+- [ ] Ověřit hospodářskou (ne)závislost — existenci jiných odběratelů/klientů.
+- [ ] Posoudit souhrn znaků dle ustálené judikatury NSS, nikoli jediný indikátor.
+- [ ] Vyčíslit fiskální dopady překvalifikace (zálohy → § 38h, penále, doměrek pojistného).
+
+**Typicky rozhodné důkazy / podklady:** smlouva (o dílo/živnostenská), faktury, evidence docházky, komunikace s pokyny, výslechy nadřízeného a pracovníka, doklady o poskytnutí nářadí/OOPP, přehled odběratelů.
+
 ---
 
 ### § 6a — Kvalifikované zaměstnanecké opce
@@ -573,3 +610,40 @@ Splnění oznamovací povinnosti je **podmínkou** uplatnění zvýhodněného r
 - **Daňový řád (280/2009 Sb.):** procesní rámec pro oznamovací povinnosti a hlášení.
 
 → § 6 odst. 3 (vynětí příjmu z opce ze závislé činnosti) · → § 6 odst. 14 až 17 (obecný odklad zdanění zaměstnaneckých akcií/opcí) · → § 10 odst. 1 písm. q) (zdanění jako ostatní příjem) · → § 23 odst. 7 (ceny mezi spojenými osobami) · → § 38j (oznamovací povinnosti plátce).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Technologický startup CLOUDIX s. r. o. (roční obrat 120 mil. Kč, aktiva 90 mil. Kč, není bankou ani poradenskou firmou, není členem velké skupiny) chce udržet klíčového vývojáře *Ing. Procházku*. Uzavře s ním písemnou smlouvu, jíž mu **bezúplatně** poskytne nepřevoditelný příslib nabýt 1% obchodní podíl za sjednanou opční cenu 80 000 Kč; podíl lze uplatnit nejdříve za 3 roky. Tržní cena podílu při poskytnutí činí 100 000 Kč. CLOUDIX o poskytnutí opce řádně informuje správce daně v jednotném měsíčním hlášení. Procházka pro společnost pracuje na pracovní smlouvu, jeho běžná mzda výrazně přesahuje 1,2násobek minimální mzdy měsíčně. Po 4 letech (trvání zaměstnání nepřetržité) opci uplatní; tržní cena podílu je 500 000 Kč. Účastníci: CLOUDIX (kvalifikovaný zaměstnavatel), Procházka (kvalifikovaný zaměstnanec), správce daně. Důkazy/podklady: opční smlouva, doklad o tržní ceně podílu k oběma okamžikům, mzdové listy, obě oznámení správci daně.
+
+**2. Právní otázka.** Splňuje poskytnutá opce všechny znaky **kvalifikované zaměstnanecké opce** podle § 6a, takže příjem z jejího uplatnění ve výši dle § 6a odst. 7 se podle → § 6 odst. 3 nepovažuje za příjem ze závislé činnosti a zdaní se jako ostatní příjem podle → § 10 odst. 1 písm. q) (mimo pojistné základy), a v jaké výši se tento příjem stanoví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6a odst. 1 (pět kumulativních podmínek opce), odst. 2 (kvalifikovaný zaměstnanec — práh 5 %, 12 měsíců, 1,2násobek minimální mzdy), odst. 3 (kvalifikovaný zaměstnavatel — strop obratu 2,5 mld. Kč a aktiv 2 mld. Kč, odvětvové vyloučení), odst. 4 (kvalifikovaný obchodní podíl), odst. 7 (stanovení příjmu), odst. 8 a 9 (oznamovací povinnosti).
+- *Související ustanovení téhož zákona:* → § 6 odst. 3 věta poslední (vynětí příjmu ze závislé činnosti); → § 10 odst. 1 písm. q) (zařazení do ostatních příjmů); → § 23 odst. 7 (odhlédnutí od operací porušujících ceny mezi spojenými osobami); → § 38j (jednotné měsíční hlášení zaměstnavatele).
+- *Související předpisy:* zákon o obchodních korporacích č. 90/2012 Sb. (obchodní podíl, ovládající/ovládaná osoba); zákon upravující účetnictví (účetní jednotka, konsolidace pro vymezení skupiny); zákon o oceňování majetku č. 151/1997 Sb. (tržní cena podílu); daňový řád č. 280/2009 Sb. (oznámení, hlášení).
+- *Judikatura:* k § 6a jako k nové úpravě dosud chybí ustálená judikatura; výklad se opírá o text zákona a o systematickou vazbu na → § 10 a → § 6 (neuvádět smyšlené spisové značky).
+
+**4. Subsumpce.** Podmínky opce (odst. 1): bezúplatnost — splněno; písemná smlouva s opční cenou — splněno; oznámení správci daně — splněno; nabytí nejdříve za 3 roky — splněno (uplatněno po 4 letech); povinnost sdělit tržní ceny — splněno. Kvalifikovaný zaměstnanec (odst. 2): podíl 1 % < 5 % — splněno; trvání činnosti 4 roky ≥ 12 měsíců — splněno; úhrn jiných příjmů ≥ 1,2násobku minimální mzdy/měsíc — splněno. Kvalifikovaný zaměstnavatel (odst. 3): obrat i aktiva pod stropem, mimo vyloučená odvětví — splněno. Stanovení příjmu (odst. 7): vyšší z částek (tržní cena při poskytnutí 100 000 Kč vs. opční cena 80 000 Kč) = 100 000 Kč; příjem = 500 000 − 100 000 = **400 000 Kč**.
+
+**5. Řešení.** Všechny znaky jsou naplněny, proto se příjem 400 000 Kč nepovažuje za příjem ze závislé činnosti (→ § 6 odst. 3) a zdaní se jako ostatní příjem podle → § 10 odst. 1 písm. q); nevstupuje do vyměřovacích základů pojistného. Procesní kroky: zaměstnavatel musí oznámit poskytnutí (odst. 8) i uplatnění (odst. 9) ve lhůtě hlášení; poplatník zahrne příjem do daňového přiznání za příslušné období. Riziko: při nesplnění byť jediné podmínky (zejména oznamovací povinnosti dle odst. 1 písm. c) ve spojení s odst. 8) zvýhodněný režim odpadá a příjem se zdaní jako příjem ze závislé činnosti podle → § 6 se vstupem do pojistného.
+
+**6. Varianty.** (i) Kdyby úhrn Procházkových kvalifikovaných podílů (z nabytých i nabytelných opcí) přesáhl 5 %, nešlo by o kvalifikovaného zaměstnance a celý příjem by se zdanil jako závislá činnost. (ii) Kdyby zaměstnavatel zmeškal oznámení správci daně podle odst. 8, nebyla by naplněna podmínka odst. 1 písm. c) a zvýhodněný režim by nebylo možné uplatnit — bez ohledu na splnění ostatních (i ekonomicky podstatnějších) podmínek.
+
+#### G. Protiargumenty a rizika
+
+- *Formalismus oznamovacích povinností.* Lze namítnout, že odepření režimu kvůli zmeškanému oznámení je nepřiměřeně tvrdé, když ekonomická podstata je naplněna. Neutralizace: zákon činí oznámení výslovnou podmínkou (odst. 1 písm. c ve spojení s odst. 8); proto je třeba lhůty hlášení důsledně hlídat a nespoléhat na materiální naplnění.
+- *Ocenění tržní ceny podílu u nekótovaných startupů.* Tržní cena podílu ve společnosti bez veřejného trhu je obtížně zjistitelná a sporná. Neutralizace: opřít se o zákon o oceňování majetku a o pravidlo odst. 7 (odhlédnutí od umělého navýšení vklady/přeměnami a od operací porušujících → § 23 odst. 7); pořídit znalecké ocenění k oběma rozhodným okamžikům.
+- *Slabé místo.* Jde o novou a komplexní úpravu bez ustálené judikatury; výklad jednotlivých znaků (zejm. vymezení skupiny dle odst. 5–6 a konsolidačních limitů odst. 3) je nejistý a může se vyvíjet — argumentaci je nutno průběžně ověřovat proti aktuálnímu znění a stanoviskům správce daně.
+
+#### H. Praktický závěr
+
+§ 6a umožňuje u startupů přesunout zdanění příjmu z realizace zaměstnanecké opce ze závislé činnosti (→ § 6) do ostatních příjmů (→ § 10), čímž se příjem vyjme z pojistných základů. Režim je však podmíněn kumulativním splněním všech znaků na straně opce, zaměstnance i zaměstnavatele a důsledným plněním oznamovacích povinností; selhání jediné podmínky znamená návrat ke zdanění podle § 6.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit všech pět znaků opce dle odst. 1 (bezúplatnost, písemná smlouva, oznámení, ≥ 3 roky / liquidity event, sdělení tržních cen).
+- [ ] Ověřit kvalifikaci zaměstnance (podíl ≤ 5 %, ≥ 12 měsíců činnosti, jiné příjmy ≥ 1,2násobku minimální mzdy/měsíc).
+- [ ] Ověřit kvalifikaci zaměstnavatele (obrat ≤ 2,5 mld. Kč, aktiva ≤ 2 mld. Kč, vč. skupiny; mimo vyloučená odvětví).
+- [ ] Podat obě oznámení správci daně ve lhůtě jednotného měsíčního hlášení (odst. 8 při poskytnutí, odst. 9 při uplatnění/vypořádání).
+- [ ] Stanovit příjem dle odst. 7 (rozdíl nad vyšší z částek; odhlédnout od umělého navýšení ceny a porušení → § 23 odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** opční smlouva, znalecké ocenění tržní ceny podílu k okamžiku poskytnutí i uplatnění, účetní závěrky pro doložení velikostních limitů, mzdové listy k prahu příjmů, doklady o podání obou oznámení správci daně.
