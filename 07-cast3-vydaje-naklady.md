@@ -309,8 +309,10 @@ Ustanovení § 24 a § 25 tvoří v rámci části třetí ZDP („Společná us
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
-  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+- *NSS* [2 Afs 223/2004 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241961) — 8. 9. 2005
+  > „Z ustanovení § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů nelze dovodit, že vynaložené výdaje se vždy musí reálně projevit v příjmech daňového poplatníka, tzn. že mezi výdaji a příjmy nutně existuje vztah přímé úměry. Smysl tohoto ustanovení však zjevně spočívá v tom, že se musí jednat o výdaje za tímto účelem vynaložené. … Mezi těmito výdaji a očekávanými příjmy tak musí existovat přímý a bezprostřední vztah, v opačném případě se pojmově nemůže jednat o výdaje vynaložené na dosažení, udržení či zajištění příjmů"
+- *NSS* [48 Af 31/2017 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424605) — 25. 3. 2020
+  > „…předložené účetní doklady samy o sobě neprokazují, že žalobkyní uplatněné náklady … jsou daňově účinnými ve smyslu § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů …, neboť musí být nejen prokázáno, že k transakci došlo, ale též že se tak stalo za účelem dosažení, zajištění či udržení zdanitelných příjmů, v tvrzeném rozsahu a za úhradu odpovídající ceně uvedené v daňových dokladech"
 
 #### F. Kazuistika
 
@@ -369,8 +371,10 @@ Na každý sporný náklad aplikuj třístupňový algoritmus: (1) věcná souvi
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
-  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+- *NSS* [2 Afs 223/2004 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241961) — 8. 9. 2005
+  > „Z ustanovení § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů nelze dovodit, že vynaložené výdaje se vždy musí reálně projevit v příjmech daňového poplatníka, tzn. že mezi výdaji a příjmy nutně existuje vztah přímé úměry. Smysl tohoto ustanovení však zjevně spočívá v tom, že se musí jednat o výdaje za tímto účelem vynaložené. … Mezi těmito výdaji a očekávanými příjmy tak musí existovat přímý a bezprostřední vztah, v opačném případě se pojmově nemůže jednat o výdaje vynaložené na dosažení, udržení či zajištění příjmů"
+- *NSS* [48 Af 31/2017 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424605) — 25. 3. 2020
+  > „…předložené účetní doklady samy o sobě neprokazují, že žalobkyní uplatněné náklady … jsou daňově účinnými ve smyslu § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů …, neboť musí být nejen prokázáno, že k transakci došlo, ale též že se tak stalo za účelem dosažení, zajištění či udržení zdanitelných příjmů, v tvrzeném rozsahu a za úhradu odpovídající ceně uvedené v daňových dokladech"
 
 #### F. Kazuistika
 
@@ -431,8 +435,10 @@ Generální klauzule vyžaduje současně věcnou souvislost, prokázanou výši
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
-  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+- *NSS* [2 Afs 223/2004 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241961) — 8. 9. 2005
+  > „Z ustanovení § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů nelze dovodit, že vynaložené výdaje se vždy musí reálně projevit v příjmech daňového poplatníka, tzn. že mezi výdaji a příjmy nutně existuje vztah přímé úměry. Smysl tohoto ustanovení však zjevně spočívá v tom, že se musí jednat o výdaje za tímto účelem vynaložené. … Mezi těmito výdaji a očekávanými příjmy tak musí existovat přímý a bezprostřední vztah, v opačném případě se pojmově nemůže jednat o výdaje vynaložené na dosažení, udržení či zajištění příjmů"
+- *NSS* [48 Af 31/2017 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424605) — 25. 3. 2020
+  > „…předložené účetní doklady samy o sobě neprokazují, že žalobkyní uplatněné náklady … jsou daňově účinnými ve smyslu § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů …, neboť musí být nejen prokázáno, že k transakci došlo, ale též že se tak stalo za účelem dosažení, zajištění či udržení zdanitelných příjmů, v tvrzeném rozsahu a za úhradu odpovídající ceně uvedené v daňových dokladech"
 
 #### F. Kazuistika
 
@@ -491,8 +497,10 @@ Daňové a účetní odpisy drž odděleně; zůstatkovou cenu při likvidaci po
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
-  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+- *NSS* [2 Afs 223/2004 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241961) — 8. 9. 2005
+  > „Z ustanovení § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů nelze dovodit, že vynaložené výdaje se vždy musí reálně projevit v příjmech daňového poplatníka, tzn. že mezi výdaji a příjmy nutně existuje vztah přímé úměry. Smysl tohoto ustanovení však zjevně spočívá v tom, že se musí jednat o výdaje za tímto účelem vynaložené. … Mezi těmito výdaji a očekávanými příjmy tak musí existovat přímý a bezprostřední vztah, v opačném případě se pojmově nemůže jednat o výdaje vynaložené na dosažení, udržení či zajištění příjmů"
+- *NSS* [48 Af 31/2017 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424605) — 25. 3. 2020
+  > „…předložené účetní doklady samy o sobě neprokazují, že žalobkyní uplatněné náklady … jsou daňově účinnými ve smyslu § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů …, neboť musí být nejen prokázáno, že k transakci došlo, ale též že se tak stalo za účelem dosažení, zajištění či udržení zdanitelných příjmů, v tvrzeném rozsahu a za úhradu odpovídající ceně uvedené v daňových dokladech"
 
 #### F. Kazuistika
 
@@ -563,8 +571,10 @@ Rezervy a opravné položky tvoř výhradně podle zákona č. 593/1992 Sb.; ben
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
-  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+- *NSS* [2 Afs 223/2004 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241961) — 8. 9. 2005
+  > „Z ustanovení § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů nelze dovodit, že vynaložené výdaje se vždy musí reálně projevit v příjmech daňového poplatníka, tzn. že mezi výdaji a příjmy nutně existuje vztah přímé úměry. Smysl tohoto ustanovení však zjevně spočívá v tom, že se musí jednat o výdaje za tímto účelem vynaložené. … Mezi těmito výdaji a očekávanými příjmy tak musí existovat přímý a bezprostřední vztah, v opačném případě se pojmově nemůže jednat o výdaje vynaložené na dosažení, udržení či zajištění příjmů"
+- *NSS* [48 Af 31/2017 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424605) — 25. 3. 2020
+  > „…předložené účetní doklady samy o sobě neprokazují, že žalobkyní uplatněné náklady … jsou daňově účinnými ve smyslu § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů …, neboť musí být nejen prokázáno, že k transakci došlo, ale též že se tak stalo za účelem dosažení, zajištění či udržení zdanitelných příjmů, v tvrzeném rozsahu a za úhradu odpovídající ceně uvedené v daňových dokladech"
 
 #### F. Kazuistika
 
@@ -621,8 +631,10 @@ U prodeje podílů a postoupení pohledávek počítej s limitem „jen do výš
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1525/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D992D7C7E3AE73F1C1257E6000256F3C?openDocument) — 9. 4. 2015, kat. A
-  > „Při zjišťování průměrného výdělku zaměstnance, který vykonává podnikatelskou činnost, po zjištění nemoci z povolání je třeba přihlížet též k odpisům hmotného majetku uplatněným zaměstnancem v jeho přiznání k dani z příjmů, jestliže jsou tyto odpisy spojeny s úplatným pořízením hmotného majetku, který je potřebný k jeho podnikatelské činnosti a k dosahování příjmů z ní"
+- *NSS* [2 Afs 223/2004 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/241961) — 8. 9. 2005
+  > „Z ustanovení § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů nelze dovodit, že vynaložené výdaje se vždy musí reálně projevit v příjmech daňového poplatníka, tzn. že mezi výdaji a příjmy nutně existuje vztah přímé úměry. Smysl tohoto ustanovení však zjevně spočívá v tom, že se musí jednat o výdaje za tímto účelem vynaložené. … Mezi těmito výdaji a očekávanými příjmy tak musí existovat přímý a bezprostřední vztah, v opačném případě se pojmově nemůže jednat o výdaje vynaložené na dosažení, udržení či zajištění příjmů"
+- *NSS* [48 Af 31/2017 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424605) — 25. 3. 2020
+  > „…předložené účetní doklady samy o sobě neprokazují, že žalobkyní uplatněné náklady … jsou daňově účinnými ve smyslu § 24 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů …, neboť musí být nejen prokázáno, že k transakci došlo, ale též že se tak stalo za účelem dosažení, zajištění či udržení zdanitelných příjmů, v tvrzeném rozsahu a za úhradu odpovídající ceně uvedené v daňových dokladech"
 
 #### F. Kazuistika
 
@@ -930,6 +942,13 @@ Náklad neuznatelný již podle nízké kapitalizace [písm. w)] se do testu § 
 **Reklasifikace paušálu na dopravu [písm. x)].** Při uplatnění paušálního výdaje na dopravu [§ 24 odst. 2 písm. zt)] jsou neuznatelné skutečné PHM a parkovné; u kráceného paušálu navíc 20 % ostatních výdajů (kromě odpisů).
 
 → § 24 odst. 2 (zrcadlové výjimky), → § 23 odst. 7 (spojené osoby), → § 23e (omezení nadměrných výpůjčních výdajů — ATAD), → § 19 odst. 1 (osvobození podílů na zisku), → zákon č. 593/1992 Sb. (opravné položky a rezervy).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 7/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-7-08_1) — nález, 23. 3. 2010
+  > „…je-li základní jmění společnosti ve srovnání s půjčkou příliš nízké (tzv. "nízká kapitalizace společnosti"), pak využití půjčky jako zdroje financování je způsobilé založit podstatné snížení daňové povinnosti společnosti a výhodu pro ni, na rozdíl od té, která dostatečně vysokým základním jměním vybavena je … Pravidla nízké kapitalizace zakotvená v § 25 odst. 1 písm. w) zákona o dani z příjmů pak určují nejvyšší možný poměr úhrnné výše úvěrů a půjček vůči vlastnímu kapitálu společnosti, a tím hranici, kdy je ještě možné mít odpovídající finanční náklady (úroky, výdaje na zajištění, zpracování úvěrů a poplatky za záruky) za daňové uznatelné"
+- *NSS* [10 Af 18/2011 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/545881) — 23. 1. 2015
+  > „Tímto darovacím aktem byla naplněna podstata reprezentace příkladmo uvedená v ustanovení § 25 odst. 1 písm. t) zákona č. 586/1992 Sb., nebyly však splněny podmínky stanovené pro speciální podskupinu reklamních a propagačních předmětů, které zákon z kategorie jinak neúčinných výdajů na reprezentaci vyjímá (označení obchodní firmou nebo ochrannou známkou poskytovatele nebo názvem propagovaného zboží nebo služby)"
 
 #### F. Kazuistika
 

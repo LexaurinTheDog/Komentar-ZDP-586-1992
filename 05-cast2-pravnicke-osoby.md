@@ -360,6 +360,11 @@ Odstavec 5 zavádí **„široký základ daně"** pro některé VPP (veřejná 
 
 **Osobní obchodní společnosti (§ 18b).** Toto ustanovení provádí **daňovou transparentnost** veřejné obchodní společnosti a komplementáře komanditní společnosti, navazující na úpravu ZOK (v.o.s. dle § 95 a násl. ZOK, k.s. dle § 118 a násl. ZOK). U **v.o.s.** jsou jejím vlastním předmětem daně pouze příjmy se srážkovou daní; její *„běžný"* zisk se nezdaňuje na úrovni společnosti, nýbrž **se rozdělí na společníky** a u nich se zahrne do jejich základu daně (→ § 20 odst. 5 pro PO-společníky, obdobně u FO). U **k.s.** se transparentnost týká části připadající na **komplementáře** (→ § 20 odst. 4 a 6), kdežto část připadající komanditní společnosti samé se zdaňuje na její úrovni standardně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 59/2011 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/547398) — 18. 9. 2014
+  > „Příjem z nájemného je ve smyslu § 18 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, výnosem z nakládání s majetkem, který musí daňový subjekt zahrnout do základu daně (§ 23 odst. 6 citovaného zákona). Pokud však nemovitosti daňového subjektu užívala bez právního důvodu osoba, plynul nepeněžní příjem odpovídající běžné výši nájemného této osobě, nikoli daňovému subjektu …; tento příjem tedy nezvýšil základ daně daňového subjektu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zapsaný spolek SOKOL provozuje sportovní oddíl (kurzy a soutěže, jejichž příjmy z účastnických poplatků nepokrývají náklady — činnost je trvale ztrátová). Vedle toho spolek (i) pronajímá část své tělocvičny komerčnímu provozovateli fitness, (ii) umisťuje na dresy reklamu sponzora, (iii) inkasuje členské příspěvky a (iv) má úroky z běžného účtu. Účastníci: spolek (VPP dle § 17a), správce daně. Důkazy: stanovy a doklad o hlavní (nepodnikatelské) činnosti, oddělená evidence příjmů a nákladů dle druhů činnosti, nájemní smlouva, smlouva o reklamě, výpis členských příspěvků a úroků.

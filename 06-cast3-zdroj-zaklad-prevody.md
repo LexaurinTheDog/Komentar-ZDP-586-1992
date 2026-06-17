@@ -280,6 +280,13 @@ Odst. 3 (**manžel = i registrovaný partner**) zajišťuje rovné daňové zach
 
 Odst. 4 (**společně hospodařící domácnost**) přebírá obsah dřívější legislativní zkratky „domácnost" — společenství osob, které spolu *trvale žijí* a *společně uhrazují náklady na své potřeby*. Jde o klíčové kritérium pro slevy, daňové zvýhodnění na dítě (→ § 35c) i pro osvobození bezúplatných příjmů (→ § 10 odst. 3 písm. c).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Afs 83/2025 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780167) — 6. 3. 2026
+  > „Účelem kvantitativního kritéria je především zamezit tomu, aby byl nárok na daňové zvýhodnění za totéž dítě poskytován v případech odděleně žijících rodičů dvakrát za stejné období"
+- *NSS* [57 Af 5/2024 - 83](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744156) — 5. 6. 2025
+  > „I. Dítě může být členem pouze jedné společně hospodařící domácnosti (§ 21e odst. 4 zákona č. 586/1992 Sb., o daních z příjmů) pro účely uplatnění slevy za umístění dítěte podle § 35bb a daňového zvýhodnění na vyživované dítě podle § 35c téhož zákona. II. Nežijí-li rodiče dítěte v jedné společně hospodařící domácnosti a dítě fakticky naplňuje znaky člena společně hospodařící domácnosti (§ 21e odst. 4 zákona č. 586/1992 Sb., o daních z příjmů) ve vztahu k oběma rodičům, je třeba zkoumat, ve které domácnosti jsou naplněny její znaky ve větší míře"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Český poplatník (FO) uplatňuje slevu na manžela. Jeho protějškem je registrovaný partner s vlastním ročním příjmem 60 000 Kč; oba spolu trvale žijí v jednom bytě a společně hradí náklady domácnosti. Současně podnikatel přijal úvěr od zahraniční banky a řeší výjimku z omezení uznatelnosti úroků. Účastníci: poplatník, jeho registrovaný partner, zahraniční banka, správce daně. Důkazy: doklad o registrovaném partnerství, potvrzení o příjmu partnera, doklad o společném bydlení a hrazení nákladů, smlouva o úvěru a status věřitele.
@@ -590,6 +597,11 @@ Příklad: licenční poplatek (royalty) hrazený českou společností nerezide
 **Přeřazení k podílu na zisku (odst. 1 písm. g bod 3).** Za podíl na zisku (a tedy zdroj v ČR podléhající srážkové dani) se považuje i **rozdíl z transferových cen** dle → § 23 odst. 7 a **neuznané úroky** dle → § 25 odst. 1 písm. w) a zl) — tj. tzv. „skrytá výplata zisku" (reklasifikace). Výjimka platí pro úroky/rozdíly hrazené rezidentům EU/EHP a Švýcarska.
 
 **Společníci osobních společností (odst. 3).** Příjem nerezidenta — společníka v. o. s., komplementáře k. s. nebo společníka „společnosti" (sdružení) — se *fikcí* považuje za příjem dosahovaný prostřednictvím stálé provozovny. Zajištění daně řeší → § 38e.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 Afs 143/2025 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745291) — 18. 9. 2025
+  > „Ustanovení § 22 odst. 1 zákona o daních z příjmů stanovuje případy, v nichž se v Česku zdaňuje příjem daňových nerezidentů. Smlouvy o zamezení dvojímu zdanění (tedy včetně bilaterální smlouvy s Kyprem) mohou aplikaci § 22 odst. 1 zákona o daních z příjmů omezit. Pokud ji v daném případě neomezí, užije se vnitrostátní právní úprava zakotvená v zákoně o daních z příjmů v plném rozsahu"
 
 #### F. Kazuistika
 

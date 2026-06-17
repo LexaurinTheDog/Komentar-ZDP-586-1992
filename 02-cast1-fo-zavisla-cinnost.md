@@ -247,6 +247,13 @@ Druhou výraznou novelou bylo **přepracování úpravy zaměstnaneckých benefi
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 352/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-352-04) — usnesení, 12. 1. 2005
+  > „Podstatným rysem závislé činnosti je skutečnost, že není vykonávána zcela nezávisle (tzn. pod vlastním jménem, na vlastní účet a s vlastní odpovědností poplatníka), ale naopak podle pokynů toho, kdo odměnu za vykonanou práci vyplácí (plátce). Daní z příjmů ze závislé činnosti jsou tak podrobeny nikoli pouze příjmy plynoucí z pracovněprávního vztahu uzavřeného podle zákoníku práce, resp. založené z titulu členství nebo služebního poměru. Pod takový způsob zdanění zákonodárce zahrnul i příjmy z obdobného poměru … v daném případě je právně relevantní povaha (obsah) vztahu plátce a poplatníka, nikoli právní důvod tohoto vztahu"
+- *ÚS* [II.ÚS 2429/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2429-12_1) — nález, 6. 6. 2013
+  > „… správní orgány či soudy při šetření toho, zda finanční prostředky vynaložené na základě takového vnitřního předpisu tvoří či netvoří předmět daně ve smyslu citovaného ustanovení zákona o daních z příjmů, formalisticky omezí pouze na zkoumání toho, zda vnitřní předpis dle jejich názoru pojmově koresponduje s termíny použitými zákonodárcem, nýbrž jsou povinny porovnat smysl a účel vnitřního předpisu a na jeho základě poskytovaných plnění s tím, jaký smysl a účel sleduje dané zákonné ustanovení"
+
 #### 1. Pojem závislé činnosti (odst. 1)
 
 **Závislá činnost** je v ZDP definována extenzivně. Základním (typovým) případem je *příjem ze současného nebo dřívějšího pracovněprávního, služebního nebo členského poměru a obdobného poměru, v nichž poplatník při výkonu práce pro plátce příjmu je povinen dbát příkazů plátce* (odst. 1 písm. a) bod 1). Pojmovým jádrem je tedy **subordinace** — poplatník vykonává práci pod vedením a podle pokynů plátce. Daňové pojetí závislé činnosti je přitom **autonomní** vůči pracovnímu právu: rozhodující je faktická povaha vztahu, nikoli jeho formální označení.

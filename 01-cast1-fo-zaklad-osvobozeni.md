@@ -463,6 +463,11 @@ Paušální režim je výhodný jen do limitů: překročení rozhodných příj
 - Opomenutí zdanit nepeněžní benefit (naturální příjem) — § 3 odst. 2 jej výslovně podřazuje pod příjem.
 - Nesprávné podřazení příjmu pod druh § 6–10 (např. autorský honorář vs. nájem licence) — určuje dílčí základ a způsob zdanění.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 686/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-686-05) — nález, 25. 10. 2006
+  > „Z hlediska jednoduchého práva je nutné na věc aplikovat zejména ustanovení § 2, § 3, § 4 … zákona č. 586/1992 Sb., o dani z příjmů, který však pojem "příjem" nevymezuje, a proto je nutné vycházet ze smyslu a účelu zákona … Zákon o daních z příjmů přitom dovoluje zdanit pouze tu část finančního zisku, která výdaj na zajištění příjmu bere na zřetel. Při realizaci práva státu na vybírání daní je nutno respektovat i práva a právem chráněné zájmy daňového subjektu. … Pokud tedy dochází ke kompenzaci vzniklých nákladů, nejedná se na straně subjektu, jemuž je úhrada nákladů přímo poskytována, o získávání příjmů realizací živnostenské činnosti"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan Horák, IT konzultant (OSVČ), poskytl klientovi roční konzultační servis a místo peněžní odměny 600 000 Kč přijal ojetý automobil v hodnotě 600 000 Kč (barter). Současně mu jiný klient poskytl bezúplatně k užívání kancelář na dobu neurčitou (obvyklé roční nájemné by činilo 120 000 Kč). Pan Horák žádný z těchto „příjmů" do přiznání neuvedl s tím, že nedostal peníze. Důkazy: smlouva o dílo/servisu, předávací protokol k vozidlu, znalecký či srovnávací odhad hodnoty vozidla, dohoda o bezplatném užívání kanceláře, podklady pro ocenění.
@@ -804,6 +809,13 @@ Skupina § 4, § 4a a § 4b tvoří **systém osvobození** od daně z příjmů
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1611/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1611-07_1) — nález, 2. 12. 2008
+  > „Zákonodárce zdanil spekulativní prodeje, ale nikoli prodej dlouhodobě "vlastněných" bytů, neboť od daně osvobodil převody bytů v osobním vlastnictví [§ 4 odst. 1 písm. a) zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů] a převody členských podílů v bytových družstvech [§ 4 odst. 1 písm. r) citovaného zákona], čímž obě formy "vlastnictví" postavil z hlediska zdanění na stejnou úroveň a zaručil jim stejnou ochranu (čl. 11 Listiny)"
+- *NSS* [2 Afs 20/2011 - 77](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/621157) — 15. 4. 2011
+  > „Souhrnně řečeno, časový test způsobující osvobození od daně a obsažený v ustanovení § 4 odst. 1 písm. b) zákona č. 586/1992 Sb. je třeba vztáhnout i na případy, kdy doba mezi nabytím a prodejem bytu přesahující 5 let v sobě zahrnuje i dobu, po kterou prodejce nebyl vlastníkem tohoto bytu, nýbrž byl jeho nájemcem na základě smlouvy o užívání družstevního bytu"
+
 #### Obecná povaha osvobození
 
 Osvobození podle § 4 a násl. je **systémovou výjimkou** z principu, že předmět daně se zdaňuje. Z toho plynou dvě interpretační zásady: (1) osvobození se vykládá spíše **restriktivně** (nelze je rozšiřovat analogií), (2) **důkazní břemeno** ohledně splnění podmínek osvobození nese **poplatník** (→ § 92 daňového řádu č. 280/2009 Sb.). Mnohá osvobození jsou navíc spojena s **oznamovací povinností** vůči správci daně (zejména osvobozený příjem fyzické osoby přesahující 5 000 000 Kč podle → § 38v).
@@ -840,6 +852,13 @@ V obou případech se osvobození nevztahuje na příjmy z kapitálového majetk
 **Bonus, dotace, daňový bonus** [odst. 1 písm. r), zf)]. Osvobozeny jsou veřejné dotace na pořízení/technické zhodnocení hmotného majetku nebo na odstranění následků živelní pohromy (mimo dotace účtované do výnosů) a **daňový bonus** (→ § 35c, daňové zvýhodnění na dítě).
 
 **Legální definice obchodního majetku** [odst. 4]. Pro účely daní z příjmů je obchodním majetkem ta část majetku poplatníka, **o které bylo nebo je účtováno** anebo **je nebo byla uvedena v daňové evidenci**. Dnem vyřazení je den posledního zaúčtování/uvedení v evidenci. Tato definice je klíčová, protože desítky osvobození v § 4 zahrnutí věci do obchodního majetku (resp. lhůtu po jejím vyřazení) považují za **rozhodující překážku osvobození** (→ § 7 — příjmy ze samostatné činnosti; → § 25 zákona o účetnictví č. 563/1991 Sb.).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1611/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1611-07_1) — nález, 2. 12. 2008
+  > „Zákonodárce zdanil spekulativní prodeje, ale nikoli prodej dlouhodobě "vlastněných" bytů, neboť od daně osvobodil převody bytů v osobním vlastnictví [§ 4 odst. 1 písm. a) zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů] a převody členských podílů v bytových družstvech [§ 4 odst. 1 písm. r) citovaného zákona], čímž obě formy "vlastnictví" postavil z hlediska zdanění na stejnou úroveň a zaručil jim stejnou ochranu (čl. 11 Listiny)"
+- *NSS* [2 Afs 20/2011 - 77](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/621157) — 15. 4. 2011
+  > „Souhrnně řečeno, časový test způsobující osvobození od daně a obsažený v ustanovení § 4 odst. 1 písm. b) zákona č. 586/1992 Sb. je třeba vztáhnout i na případy, kdy doba mezi nabytím a prodejem bytu přesahující 5 let v sobě zahrnuje i dobu, po kterou prodejce nebyl vlastníkem tohoto bytu, nýbrž byl jeho nájemcem na základě smlouvy o užívání družstevního bytu"
 
 #### F. Kazuistika
 
@@ -1085,6 +1104,11 @@ Toto pravidlo zabraňuje dvojímu zdanění téhož příjmu — co je zdaněno 
 - Zahrnutí osvobozeného nebo srážkou zdaněného příjmu do obecného základu (odst. 5) — vede k duplicitnímu zdanění.
 - Opomenutí dodanit zánik dluhu jinak než splněním (odst. 10) — častý nález při daňové kontrole.
 - Nesprávné časové přiřazení prosincové mzdy vyplacené v lednu (odst. 4 — pravidlo 31 dnů).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 412/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-412-01) — nález, 27. 5. 2003
+  > „Pokud podle účetnictví výdaje poplatníka přesáhnou příjmy, je rozdíl ztrátou, kterou lze odečíst od základu daně v následujících letech po zdaňovacím období, v němž ztráta vznikla (k tomu blíže § 5 zákona č. 586/1992 Sb., ve znění platném a účinném pro rok 1998). Podmínkou však je, že tato daňová ztráta musí být … správcem daně vyměřena. Od základu daně tedy nelze v následujících zdaňovacích obdobích odečítat daňovou ztrátu, kterou by si daňový subjekt sám vypočítal ve svém daňovém přiznání, ale pouze takovou výši daňové ztráty, která byla vyměřena"
 
 #### F. Kazuistika
 

@@ -163,6 +163,11 @@ Odpisy upravené v § 26 až § 33a jsou **daňové** odpisy. Ty je nutné důsl
 
 → § 27 (co se neodpisuje), → § 29 (vstupní cena), → § 33 (technické zhodnocení), → § 24 odst. 2 písm. a) (odpis jako daňový výdaj), → § 25 odst. 1 písm. a) (zákaz jednorázového uplatnění).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 214/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-214-02) — usnesení, 28. 5. 2002
+  > „Dle ustanovení § 26 odst. 5 zákona č. 586/1992 Sb. se odpisováním pro účely tohoto zákona rozumí zahrnování odpisů z hmotného majetku a nehmotného majetku evidovaného v majetku poplatníka, který se vztahuje k zajištění zdanitelného příjmu, do výdajů (nákladů) k zajištění tohoto příjmu. Z citovaného ustanovení je zřejmé, že odpis lze uplatnit teprve poté, co byl majetek zaevidován v majetku poplatníka (viz také § 26 odst. 6 zákona č. 586/1992 Sb.)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Podnikatel (OSVČ vedoucí daňovou evidenci) pořídí dne 18. 12. 2025 obráběcí stroj za 600 000 Kč, který téhož dne uvede do provozu (instalace, zkušební provoz, splnění technických podmínek). Ve stejném roce dále koupí notebook za 45 000 Kč. K 31. 12. 2025 má oba předměty evidovány. Důkazy: faktura a předávací/instalační protokol ke stroji, doklad o uvedení do stavu způsobilého obvyklému užívání, faktura k notebooku, inventární karty.
@@ -450,6 +455,13 @@ Důležité: do zůstatkové ceny se započítává **celý** odpis, i když do 
 **Změněná vstupní cena (odst. 7).** Změní-li se vstupní cena z **jiného důvodu než TZ** (např. dodatečná dotace, oprava ocenění), odpisuje se ze změněné ceny při **zachování** dosavadní sazby/koeficientu.
 
 → § 26 odst. 2 (limit 80 000 Kč počítaný ze vstupní ceny), → § 31 (rovnoměrné odpisy ze vstupní ceny), → § 32 (zrychlené odpisy ze zůstatkové ceny), → § 33 (technické zhodnocení), → § 24 odst. 2 písm. b), t (zůstatková cena jako výdaj při vyřazení), → § 23 odst. 6 (nepeněžní příjem z TZ).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Af 55/2011 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/546446) — 27. 11. 2014
+  > „[U]stanovení zákona o daních z příjmů [§ 29 odst. 1 písm. c) zákona č. 586/1992 Sb.] … o reprodukční pořizovací ceně je třeba vykládat tak, aby pomocí nich byla určena co možná nejpřesněji taková cena (částka vyjádřená v penězích), za niž by poplatník v daném místě a v dané době pořídil hmotný majetek o stejných rozhodných vlastnostech, jaký měl v oné době on sám. Reprodukční pořizovací cena tedy odpovídá ceně, za kterou by si poplatník svůj vlastní hmotný majetek mohl ve stavu, v němž se tento majetek tehdy nacházel, pořídit za stavu trhu s daným hmotným majetkem (nemovitostmi) v rozhodné době, tedy obecné ceně tohoto majetku v rozhodné době"
+- *NSS* [59 Af 3/2022 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715390) — 25. 9. 2023
+  > „[U]stanovení zákona o daních z příjmů [§ 29 odst. 1 písm. c) zákona č. 586/1992 Sb.] … o reprodukční pořizovací ceně je třeba vykládat tak, že pomocí nich byla určena co možná nejpřesněji taková cena (částka vyjádřená v penězích), za niž by poplatník v daném místě a v dané době pořídil hmotný majetek o stejných rozhodných vlastnostech, jaký měl v oné době on sám. Reprodukční pořizovací cena tedy odpovídá ceně, za kterou by si poplatník svůj vlastní hmotný majetek mohl ve stavu, v němž se tento majetek tehdy nacházel, pořídit za stavu trhu s daným hmotným majetkem (nemovitostmi) v rozhodné době, tedy obecné ceně tohoto majetku v rozhodné době"
 
 #### F. Kazuistika
 
@@ -1607,6 +1619,13 @@ Oprava odstraňuje opotřebení a uvádí majetek do **provozuschopného (původ
 - za určitých podmínek je samostatně odpisovaným „jiným majetkem" — → § 26 odst. 3 písm. a).
 
 → § 26 odst. 3 písm. a) (TZ jako jiný majetek), → § 29 odst. 3 (zvýšení vstupní/zůstatkové ceny), → § 31 odst. 8 (odpis ze zvýšené vstupní ceny), → § 32 odst. 3 (odpis ze zvýšené zůstatkové ceny), → § 24 odst. 2 (opravy jako jednorázový výdaj), → § 25 odst. 1 (TZ nelze jednorázově), → § 33a (závazné posouzení).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Af 48/2018 - 92](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/675308) — 16. 11. 2021
+  > „Pojem technického zhodnocení je vymezen v § 33 zákona č. 586/1992 Sb., o daních z příjmů … tak, že pro účely zákona o daních z příjmů se jedná o výdaje na dokončené nástavby, přístavby a stavební úpravy, rekonstrukce a modernizace majetku, pokud převýšily u jednotlivého majetku v úhrnu ve zdaňovacím období zákonem stanovenou částku. … „[z] podstaty technického zhodnocení, jak je vymezuje zákon č. 586/1992 Sb., o daních z příjmů, vyplývá, že se nejedná ani o věc, ani o právo, ani o jinou majetkovou hodnotu, nýbrž o souhrn výdajů na dokončené nástavby, přístavby a stavební úpravy, rekonstrukce a modernizace majetku“. Technické zhodnocení tudíž nemůže být předmětem občanskoprávních vztahů, jde o pojem ryze daňových předpisů, pro soukromé právo neznámý"
+- *NSS* [2 Afs 37/2009 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617605) — 29. 1. 2010
+  > „[P]okud daňový subjekt zahrne v plné výši do základu daně z příjmů náklady vynaložené na stavební práce na určitém objektu, a to ve zdaňovacím období, kdy je vynaložil, je povinen prokázat, že se skutečně jednalo o náklady na opravu objektu, a nikoli o technické zhodnocení ve smyslu § 33 zákona č. 586/1992 Sb., o daních z příjmů, které je možné zahrnovat do daňově uznatelných nákladů pouze postupně formou daňových odpisů. Daňový subjekt je tedy povinen prokázat, jaký byl stav objektu před a po provedení stavebních prací, aby bylo možné posoudit, zda se jednalo o opravu, nebo naopak o rekonstrukci či modernizaci objektu"
 
 #### F. Kazuistika
 

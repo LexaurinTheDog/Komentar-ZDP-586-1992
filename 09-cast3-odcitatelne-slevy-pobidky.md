@@ -521,6 +521,11 @@ U hospodářského roku nebo období přesahujícího hranici dvou kalendářní
 
 → § 16 / § 16a (výpočet daně FO), → § 21 (daň PO).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 Af 3/2019 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/419050) — 3. 6. 2020
+  > „Primárním účelem slevy na dani dle § 35 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, je motivovat zaměstnavatele k zaměstnání osob se zdravotním postižením, nikoliv kompenzovat daňovému subjektu snížené výnosy a zvýšené náklady vzniklé zaměstnáváním zdravotně postižených osob. … Vzhledem k tomu, že sleva na dani dle § 35 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, není snížením daňového základu, ale je slevou na vlastní daňové povinnosti poplatníka, není vázána pouze na příjmy plynoucí ze samostatné výdělečné činnosti, při které poplatník zaměstnává osoby se zdravotním postižením"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Výrobní společnost DELTA s.r.o. zaměstnává po celý rok 2024 jednoho pracovníka se zdravotním postižením na plný úvazek a druhého zaměstnance s těžším zdravotním postižením (přiznán III. stupeň invalidity, resp. ZTP/P) na poloviční úvazek (přepočet 0,50). Vypočtená daň DELTA za rok 2024 činí 90 000 Kč. Vedle toho má DELTA jako věřitel v roce 2024 zastavenou bezvýslednou exekuci na pohledávku 1 200 Kč bez příslušenství (trvala přes 3 roky), exekutor jí při zastavení přiznal náhradu 1 815 Kč. Důkazy: rozhodnutí o přiznání invalidity/ZTP-P u zaměstnanců, mzdové listy a evidence odpracovaných hodin, výpočet průměrného přepočteného počtu, usnesení exekutora o zastavení exekuce a přiznání náhrady.
@@ -657,6 +662,13 @@ U hospodářského roku nebo období přesahujícího hranici dvou kalendářní
 
 → zákon č. 72/2000 Sb. (investiční pobídky), → § 20 / § 21 (daň PO), → § 23 odst. 7 (spojené osoby, převodní ceny), → § 34 (odčitatelné položky), → § 26–33 (odpisy).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [52 Af 33/2020 - 114](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/671595) — 23. 6. 2021
+  > „Podle § 35a odst. 2 písm. d) zákona č. 586/1992 Sb., o daních z příjmů, se zásadně má za to, že poplatník nezvýšil základ pro výpočet slevy na dani obchodními operacemi ve vztazích s osobami uvedenými v § 23 odst. 7 stejného zákona způsobem, který neodpovídá ekonomickým principům běžných obchodních vztahů. Pokud však správce daně prokáže, že v hospodaření poplatníka se vyskytují obchodní operace s osobami uvedenými v citovaném ustanovení, které se navenek jeví tak, že neodpovídají ekonomickým principům běžných obchodních vztahů, je na poplatníkovi, aby unesl své důkazní břemeno ohledně toho, že uvedené obchodní operace ve skutečnosti takový charakter neměly…"
+- *NSS* [2 Afs 118/2022 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716209) — 21. 11. 2023
+  > „Z jazykového (a systematického) výkladu sporného ustanovení tudíž plyne, že omezení zabraňující zvyšování hodnoty S1 se uplatní pouze poté, co byla správcem daně doměřena vyšší výsledná částka daně. … Předmětem vyměření nebo dodatečného vyměření, resp. doměření je výsledná daň, nikoli její jednotlivé konstrukční prvky. … Podstatné je pouze doměření vyšší částky daně. K uplatnění omezení podle § 35b odst. 1 písm. a) zákona o daních z příjmů může docházet nejen při podání dodatečného daňového přiznání poté, co byla doměřena vyšší daň z moci úřední, ale také při podávání více dodatečných daňových přiznání po sobě"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Nově založená společnost EPSILON s.r.o. získá rozhodnutí o příslibu investiční pobídky podle zákona č. 72/2000 Sb. na vybudování nového výrobního závodu. Pro poskytnutí příslibu zahájila podnikání a je registrována k dani z příjmů. V roce 2024 splní všeobecné i zvláštní podmínky a poprvé uplatní slevu podle § 35a. V roce 2026 však EPSILON prodá část strojního vybavení mateřské společnosti (spojená osoba dle § 23 odst. 7) za cenu výrazně nad tržní úrovní, čímž si uměle zvýší slevovou bázi. Důkazy: rozhodnutí o příslibu, doklady o splnění všeobecných podmínek a o objemu investice, daňová přiznání s uplatněnou slevou, dokumentace převodních cen, smlouvy se spojenými osobami.
@@ -742,6 +754,11 @@ Investiční pobídka v § 35a/35b je daňovou složkou veřejné podpory s dese
 
 → § 16 (výpočet daně FO), → § 35bb (sleva na manžela), → § 35c (daňové zvýhodnění na dítě navazuje až po § 35ba).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 118/2022 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716209) — 21. 11. 2023
+  > „Z jazykového (a systematického) výkladu sporného ustanovení tudíž plyne, že omezení zabraňující zvyšování hodnoty S1 se uplatní pouze poté, co byla správcem daně doměřena vyšší výsledná částka daně. … Předmětem vyměření nebo dodatečného vyměření, resp. doměření je výsledná daň, nikoli její jednotlivé konstrukční prvky. … Podstatné je pouze doměření vyšší částky daně. K uplatnění omezení podle § 35b odst. 1 písm. a) zákona o daních z příjmů může docházet nejen při podání dodatečného daňového přiznání poté, co byla doměřena vyšší daň z moci úřední, ale také při podávání více dodatečných daňových přiznání po sobě"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Pan Novák, daňový rezident ČR, podnikal jako OSVČ jen od ledna do června 2024 (poté živnost ukončil a zbytek roku byl bez příjmů). Je poživatelem invalidního důchodu pro invaliditu II. stupně a současně je mu od května 2024 přiznán nárok na průkaz ZTP/P. Jeho daň vypočtená podle § 16 za rok 2024 činí 48 000 Kč. Souběžně řešíme i kolegu, slovenského daňového rezidenta (nerezident ČR), jemuž příjmy ze zdrojů v ČR tvoří 95 % všech příjmů. Důkazy: rozhodnutí o přiznání invalidního důchodu II. stupně, rozhodnutí o nároku na průkaz ZTP/P (s datem účinnosti), daňové přiznání, u nerezidenta potvrzení zahraničního správce daně o výši příjmů.
@@ -819,6 +836,11 @@ Sleva na manžela (dříve „na manželku/manžela") prošla zásadním zúžen
 *Příklad:* manželka byla po celý rok na rodičovské dovolené s dítětem ve věku 2 let, její jediný příjem byl rodičovský příspěvek (nezahrnuje se) a 40 000 Kč z dohody o provedení práce (zahrnuje se). Příjem 40 000 < 68 000 → poplatník uplatní slevu **24 840 Kč**. Jakmile dítě dovrší 3 let, nárok pro budoucí měsíce zanikne.
 
 → § 35ba odst. 1 písm. b) (zařazení slevy), → § 35ba odst. 3 (pravidlo dvanáctin), → § 21e (vymezení manžela).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 118/2022 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716209) — 21. 11. 2023
+  > „Z jazykového (a systematického) výkladu sporného ustanovení tudíž plyne, že omezení zabraňující zvyšování hodnoty S1 se uplatní pouze poté, co byla správcem daně doměřena vyšší výsledná částka daně. … Předmětem vyměření nebo dodatečného vyměření, resp. doměření je výsledná daň, nikoli její jednotlivé konstrukční prvky. … Podstatné je pouze doměření vyšší částky daně. K uplatnění omezení podle § 35b odst. 1 písm. a) zákona o daních z příjmů může docházet nejen při podání dodatečného daňového přiznání poté, co byla doměřena vyšší daň z moci úřední, ale také při podávání více dodatečných daňových přiznání po sobě"
 
 #### F. Kazuistika
 
@@ -973,6 +995,11 @@ U dítěte, jemuž je přiznán **průkaz ZTP/P**, se částka **zdvojnásobuje*
 **Vazba na daňový řád.** Výplata bonusu probíhá v režimu vrácení přeplatku podle daňového řádu (§ 35c odst. 11). Pokud poplatník v přiznání nárok neuplatní nebo měsíční bonusy převýší roční nárok, vzniká **daňový nedoplatek** (§ 35c odst. 12). Žádosti plátce o poukázání chybějících částek jsou **formulářovým podáním** (§ 35d odst. 10).
 
 → § 16 (výpočet daně), → § 35 a § 35ba (slevy odečtené před zvýhodněním), → § 38h (zálohy na daň ze závislé činnosti), → § 38k (prohlášení k dani), → § 38g (povinnost podat přiznání), → daňový řád (výplata přeplatku/bonusu).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3339/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3339-14_1) — usnesení, 22. 1. 2015
+  > „Ústavní soud neshledává, že by se provedený výklad příčil smyslu a účelu právní normy. Tím je podpora dětí a osob o ně pečujících v rámci vztahů vymezených zákonodárcem. Skutečnost, že tento typ daňového zvýhodnění zákonodárce neumožňuje uplatnit osobě, která v soužití druh - družka dobrovolně pečuje o nevlastní dítě, nepředstavuje … porušení ústavně zaručených práv stěžovatele. Nelze např. odhlédnout ani od skutečnosti, že daňové zvýhodnění, byť je přiznáváno konkrétnímu daňovému poplatníkovi, se přímo odráží do majetkového společenství manželů…"
 
 #### F. Kazuistika
 

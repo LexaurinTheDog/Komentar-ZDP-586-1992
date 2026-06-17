@@ -96,6 +96,13 @@ U penzijního připojištění a doplňkového penzijního spoření platí *zvl
 
 Procesní rovina: uplatnění nezdanitelných částí podléhá obecnému **dokazování** podle daňového řádu (§ 92 zákona č. 280/2009 Sb.) — poplatník nese důkazní břemeno, prokazuje nárok smlouvami, potvrzeními banky/penzijní společnosti/pojišťovny, potvrzeními o darech apod. Nesplnění hmotněprávních podmínek vede k doměření daně, případné dodanění dříve uplatněných odpočtů (sankční mechanismy odst. 4 a 5) probíhá formou dodatečného přiznání nebo doměřovacího řízení (→ § 10).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 374/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-374-06_1) — usnesení, 31. 10. 2007
+  > „vycházeje … ze smyslu tohoto ustanovení (a to právě s ohledem na zde prezentované účely, pro něž lze poskytnutý dar uznat jako nezdanitelnou část základu daně), je zřejmé, že "daňově uznatelný" dar musí splňovat dva základní znaky: dobrovolnost v jeho poskytnutí a zaměřenost (zacílení) na podporu a rozvoj v oblasti celospolečenského zájmu, ku prospěchu množiny blíže nekonkretizovaných adresátů, v jejichž prospěch bude dar využit; jinými slovy, musí platit, že dobrovolné poskytnutí "daňově uznatelného" daru zde sleduje zásadně "cizí" a nikoliv vlastní prospěch"
+- *NSS* [1 Afs 10/2012 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/623834) — 7. 3. 2012
+  > „ze smyslu na věc aplikovatelného § 15 odst. 8 zákona č. 586/1992 Sb., o daních z příjmu, v platném znění, je zřejmé, že daňově uznatelný dar musí splňovat dva základní znaky: dobrovolnost a zacílení na podporu a rozvoj v oblasti celospolečenského zájmu, tj. dobrovolné poskytnutí daru v cizí prospěch"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Manželé Novákovi hospodaří ve společné domácnosti. V roce 2025 zaplatili na hypotečním úvěru na rodinný dům, v němž oba trvale bydlí, úroky 180 000 Kč. Pan Novák dále poukázal 6 000 Kč registrované charitě a 4× bezúplatně daroval krev. Paní Nováková zaplatila 40 000 Kč na doplňkové penzijní spoření (nad částku krytou nejvyšším státním příspěvkem) a 20 000 Kč pojistné na soukromé životní pojištění. Důkazy: úvěrová smlouva a roční potvrzení banky o zaplacených úrocích, potvrzení o trvalém bydlišti (list vlastnictví, výpis z evidence obyvatel), potvrzení obdarované organizace o daru a jejím účelu, potvrzení transfuzní stanice o odběrech, potvrzení penzijní společnosti a pojišťovny o zaplacených příspěvcích.
