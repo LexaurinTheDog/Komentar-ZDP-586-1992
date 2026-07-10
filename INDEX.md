@@ -140,6 +140,10 @@ Konsolidované znění účinné k **1. 4. 2026** (code SB-1992-00586_2026-04-01
 
 *Komentář sestavil AI asistent (Claude Opus 4.7) výhradně z lokálních materiálů. Není autoritativním právním stanoviskem; před praktickým použitím ověřte aktuální znění a judikaturu.*
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
