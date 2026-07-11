@@ -147,3 +147,8 @@ Konsolidované znění účinné k **1. 4. 2026** (code SB-1992-00586_2026-04-01
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
+
+<!-- LOCAL-VYKLADOVE-OTAZKY-LINK -->
+## Výkladové otázky a odpovědi
+
+- [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
