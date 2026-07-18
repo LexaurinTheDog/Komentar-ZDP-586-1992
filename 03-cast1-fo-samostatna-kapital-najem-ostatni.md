@@ -176,6 +176,102 @@ V praxi § 7 vyžaduje především správné *zařazení každého druhu příj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3562804f3ef3f2799cc4 generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 7 — Příjmy ze samostatné činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Příjmem ze samostatné činnosti, pokud nepatří do příjmů uvedených v [[#§ 6|§ 6]], je
+>
+> - a) příjem ze zemědělské výroby, lesního a vodního hospodářství,
+>
+> - b) příjem ze živnostenského podnikání,
+>
+> - c) příjem z jiného podnikání neuvedeného v písmenech a) a b), ke kterému je potřeba podnikatelské oprávnění,
+>
+> - d) podíl společníka veřejné obchodní společnosti a komplementáře komanditní společnosti na zisku.
+>
+> (2) Příjmem ze samostatné činnosti, pokud nepatří do příjmů uvedených v [[#§ 6|§ 6]], je dále
+>
+> - a) příjem z užití nebo poskytnutí práv z průmyslového vlastnictví, autorských práv včetně práv příbuzných právu autorskému, a to včetně příjmů z vydávání, rozmnožování a rozšiřování literárních a jiných děl vlastním nákladem,
+>
+> - b) příjem z nájmu majetku zařazeného v obchodním majetku,
+>
+> - c) příjem z výkonu nezávislého povolání.
+>
+> (3) Základem daně (dílčím základem daně) jsou příjmy uvedené v odstavcích 1 a [[#§ 2|2]] s výjimkou uvedenou v odstavci 6. Tyto příjmy se snižují o výdaje vynaložené na jejich dosažení, zajištění a udržení s výjimkou příjmů uvedených v odstavci 1 písm. d). Pro zjištění základu daně (dílčího základu daně) se použijí ustanovení § 23 až 33.
+>
+> (4) U poplatníka, který je společníkem veřejné obchodní společnosti, je součástí základu daně (dílčího základu daně) poměrná část základu daně nebo daňové ztráty veřejné obchodní společnosti. Tento poměr odpovídá poměru, kterým se společník podílí na zisku veřejné obchodní společnosti.
+>
+> (5) U poplatníka, který je komplementářem komanditní společnosti, je součástí základu daně (dílčího základu daně) poměrná část základu daně nebo daňové ztráty komanditní společnosti. Tento poměr odpovídá poměru, kterým se komplementář podílí na zisku komanditní společnosti.
+>
+> (6) Příjem autora za příspěvek do novin, časopisu, rozhlasu nebo televize plynoucí ze zdrojů na území České republiky je samostatným základem daně pro daň vybíranou srážkou podle zvláštní sazby daně za předpokladu, že úhrn těchto příjmů od téhož plátce daně nepřesáhne v kalendářním měsíci 10 000 Kč a jde o příjem uvedený v odstavci 2 písm. a).
+>
+> (7) Neuplatní-li poplatník výdaje prokazatelně vynaložené na dosažení, zajištění a udržení příjmu, může uplatnit výdaje, s výjimkou uvedenou v [[#§ 12|§ 12]], ve výši
+>
+> - a) 80 % z příjmů ze zemědělské výroby, lesního a vodního hospodářství a z příjmů z živnostenského podnikání řemeslného; nejvýše lze však uplatnit výdaje do částky 1 600 000 Kč,
+>
+> - b) 60 % z příjmů ze živnostenského podnikání; nejvýše lze však uplatnit výdaje do částky 1 200 000 Kč,
+>
+> - c) 30 % z příjmů z nájmu majetku zařazeného v obchodním majetku; nejvýše lze však uplatnit výdaje do částky 600 000 Kč,
+>
+> - d) 40 % z jiných příjmů ze samostatné činnosti, s výjimkou příjmů podle odstavce 1 písm. d) a odstavce 6; nejvýše lze však uplatnit výdaje do částky 800 000 Kč.
+>
+> Způsob uplatnění výdajů podle tohoto odstavce nelze zpětně měnit.
+>
+> (8) Uplatní-li poplatník výdaje podle odstavce 7, má se za to, že v částce výdajů jsou zahrnuty veškeré výdaje poplatníka vynaložené v souvislosti s dosahováním příjmů ze samostatné činnosti. Pro účely odstavce 7 se příjmy rozumí příjmy podle tohoto zákona, které by poplatník měl, pokud by nebyl účetní jednotkou. Poplatník, který uplatňuje výdaje způsobem podle odstavce 7, je povinen vždy vést záznamy o příjmech podle odstavce 7 a evidenci pohledávek vzniklých v souvislosti s činností, ze které plyne příjem ze samostatné činnosti.
+>
+> (9) Jde-li o věc ve společném jmění manželů, která je využívána pro činnost, ze které plyne příjem ze samostatné činnosti, jedním z manželů nebo oběma manžely, vkládá tuto věc do obchodního majetku jeden z manželů. V případě, že tuto věc má v obchodním majetku jeden z manželů, avšak je pro činnost, ze které plyne příjem ze samostatné činnosti, využívána také druhým z manželů, lze výdaje (náklady) související s touto věcí, které připadají na část věci využívané pro činnost, ze které plyne příjem ze samostatné činnosti, oběma manžely, rozdělit mezi oba manžele v poměru, v jakém ji využívají při své činnosti podle odstavců 1 a [[#§ 2|2.]] Příjmy z prodeje věci ve společném jmění manželů jsou zdaňovány u toho z manželů, který měl takovou věc zahrnutou v obchodním majetku. Po ukončení činnosti, ze které plyne příjem ze samostatné činnosti, se postupuje podle § 10 odst. 5 zákona.
+>
+> (10) Za příjmy podle § 7 odst. 1 písm. d) se nepovažují a předmětem daně nejsou náhrady cestovních výdajů poskytované společníkům veřejných obchodních společností a komplementářům komanditních společností do výše stanovené zvláštním předpisem.5)
+>
+> (11) Dojde-li k ukončení (přerušení) činnosti, ze které plyne příjem ze samostatné činnosti, a poplatník zaplatí částky pojistného podle § 23 odst. 3 písm. a) bodu 5 a § 24 odst. 2 písm. f) po stanoveném termínu, a uhradí dluhy uvedené v § 23 odst. 3 písm. a) bod 11 může podat dodatečné daňové přiznání na daňovou povinnost nižší. Obdobně postupuje právní nástupce poplatníka s příjmy podle [[#§ 7|§ 7]] v případě úmrtí poplatníka.
+>
+> (12) Pokud poplatník s příjmy podle § 7 odst. 1 písm. a) nebo b) uplatní jako účetní období hospodářský rok,20) je dílčím základem daně nebo daňovou ztrátou rozdíl mezi příjmy a výdaji za ukončený hospodářský rok. Při změně účtování v kalendářním roce na účtování v hospodářském roce je dílčím základem daně nebo daňovou ztrátou podle [[#§ 7|§ 7]] rozdíl mezi příjmy a výdaji do posledního dne měsíce, kterým poplatník ukončil účtování v kalendářním roce. Při změně účtování v hospodářském roce na účtování v kalendářním roce je dílčím základem daně nebo daňovou ztrátou podle § 7 odst. 1 písm. a) nebo b) součet rozdílu mezi příjmy a výdaji v hospodářském roce a rozdílu mezi příjmy a výdaji od doby ukončení účtování v hospodářském roce do konce kalendářního roku. Dílčí základ daně se zahrne do daňového přiznání za kalendářní rok, ve kterém končí hospodářský rok nebo účtování přechodu z kalendářního roku na hospodářský rok a naopak. Obdobně postupuje poplatník s příjmy podle § 7 odst. 1 písm. d), pokud veřejná obchodní společnost nebo komanditní společnost uplatní jako účetní období hospodářský rok.
+>
+> (13) Poplatníci s příjmy podle odstavců 1 a [[#§ 2|2]], kteří nevedou účetnictví, neuplatňují výdaje podle odstavce 7 a jejichž daň za dané zdaňovací období není rovna paušální dani, postupují podle [[#§ 7b|§ 7b]]. Vede-li každý ze společníků společnosti ([[#§ 12|§ 12]]), daňovou evidenci, mohou vést i daňovou evidenci, ve které evidují společné příjmy a společné výdaje na dosažení, zajištění a udržení příjmů; přitom na konci zdaňovacího období nebo při ukončení činnosti v průběhu zdaňovacího období, uvedou do své daňové evidence podíl na společných příjmech a podíl na společných výdajích na dosažení, zajištění a udržení příjmů.
+>
+> (14) U poplatníka, který je společníkem veřejné obchodní společnosti nebo komplementářem komanditní společnosti, nejsou příjmy podle § 20b odst. 1 plynoucí těmto společnostem součástí základu daně (dílčího základu daně) podle odstavce 4 nebo [[#§ 5|5]] a zahrnují se do samostatného základu daně. Ustanovení § 20b odst. 2 platí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 2, § 23, § 12, § 10, § 24, § 7b, § 20b, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3562804f3ef3f2799cc4 -->
+
 ### § 7a — Paušální daň
 
 <details><summary>📜 <b>Text § 7a</b></summary>
@@ -281,6 +377,100 @@ Paušální daň je výhodná, ale křehká: jakékoli překročení limitu vedl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7e46fb10f280b44a6921 generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 7a — Paušální daň
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Daň poplatníka, který je na konci zdaňovacího období poplatníkem v paušálním režimu, je rovna paušální dani, pokud tento poplatník v tomto zdaňovacím období
+>
+> - a) rozhodné příjmy pro zvolené pásmo paušálního režimu
+>
+> - 1. nepřesáhl, nebo
+>
+> - 2. přesáhl, ale nepřesáhl rozhodné příjmy pro vyšší pásmo paušálního režimu a podá správci daně oznámení o jiné výši paušální daně na její výši odpovídající tomuto pásmu paušálního režimu,
+>
+> - b) vedle rozhodných příjmů má pouze
+>
+> - 1. příjmy od daně osvobozené,
+>
+> - 2. příjmy, které nejsou předmětem daně,
+>
+> - 3. příjmy, ze kterých je daň vybírána srážkou podle zvláštní sazby daně, a
+>
+> - 4. příjmy z kapitálového majetku, příjmy z nájmu a ostatní příjmy, pokud se nejedná o příjmy podle bodů 1 až 3 a pokud celková výše těchto příjmů nepřesahuje 50 000 Kč,
+>
+> - c) není plátcem daně z přidané hodnoty a nemá registrační povinnost k dani z přidané hodnoty, s výjimkou registrační povinnosti identifikované osoby, a
+>
+> - d) není společníkem veřejné obchodní společnosti ani komplementářem komanditní společnosti.
+>
+> (2) Pokud poplatník přestal být poplatníkem v paušálním režimu před koncem zdaňovacího období z důvodu, že ukončil nebo přerušil činnost, ze které plynou příjmy ze samostatné činnosti, je jeho daň za toto zdaňovací období rovna paušální dani, pokud poplatník
+>
+> - a) splňuje podmínky podle odstavce 1,
+>
+> - b) v části tohoto zdaňovacího období po dni, ve kterém přestal být poplatníkem v paušálním režimu, nevykonával činnost, ze které plynou příjmy ze samostatné činnosti, a
+>
+> - c) do konce lhůty pro podání daňového přiznání za toto zdaňovací období
+>
+> - 1. zahájí činnost, ze které plynou příjmy ze samostatné činnosti, nebo
+>
+> - 2. nezahájí činnost, ze které plynou příjmy ze samostatné činnosti, nevede účetnictví a úhrn položek, o které by zvyšoval rozdíl mezi příjmy a výdaji, kdyby v tomto zdaňovacím období vedl daňovou evidenci, a příjmů ze samostatné činnosti nepřesáhl rozhodné příjmy pro zvolené pásmo paušálního režimu nebo pro vyšší pásmo paušálního režimu, pokud podá správci daně oznámení o jiné výši paušální daně na její výši odpovídající tomuto pásmu paušálního režimu.
+>
+> (3) Pro účely odstavců 1 a [[#§ 2|2]] se na poplatníka, který v posledním kalendářním měsíci zdaňovacího období zemřel nebo ukončil nebo přerušil činnost, ze které plynou příjmy ze samostatné činnosti, hledí jako na poplatníka, který přestal být poplatníkem v paušálním režimu před koncem tohoto zdaňovacího období.
+>
+> (4) Pro účely odstavců 1 a 2 se za příjem ze samostatné činnosti považuje také příjem z úplatného převodu nebo nájmu majetku, který byl v posledním předcházejícím zdaňovacím období, za které nebyla daň poplatníka rovna paušální dani a za které poplatník neuplatňoval výdaje procentem z příjmů, zařazen v obchodním majetku.
+>
+> (5) Daň se nerovná paušální dani, pokud poplatník podle odstavce 1 nebo [[#§ 2|2]], který je daňovým rezidentem České republiky, vyloučí dvojí zdanění příjmů plynoucích ze zdrojů v zahraničí v daňovém přiznání.
+>
+> (6) Paušální daň činí součin počtu kalendářních měsíců zdaňovacího období, ve kterých byl poplatník v paušálním režimu, a zálohy na daň pro
+>
+> - a) zvolené pásmo paušálního režimu, nebo
+>
+> - b) pásmo paušálního režimu určující výši paušální daně v případě, že poplatník podá oznámení o jiné výši paušální daně správci daně a jeho příjmy v tomto zdaňovacím období nepřesáhly rozhodné příjmy pro toto pásmo paušálního režimu.
+>
+> (7) Na poplatníka v paušálním režimu se pro účely daní z příjmů hledí jako na poplatníka s příjmy ze samostatné činnosti, které jsou předmětem daně, a to i v případě, že mu v rozhodném období tyto příjmy neplynou.
+>
+> (8) Poplatník v paušálním režimu, který má příjmy ze samostatné činnosti, ke kterým lze uplatnit výdaje procentem z příjmů v různé výši, vede záznamy o příjmech ze samostatné činnosti pro účely prokázání výše rozhodných příjmů pro zvolené pásmo paušálního režimu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e46fb10f280b44a6921 -->
+
 ### § 7b — Daňová evidence
 
 <details><summary>📜 <b>Text § 7b</b></summary>
@@ -366,6 +556,64 @@ Daňová evidence stojí na *peněžním principu*, správném *ocenění slože
 **Typicky rozhodné důkazy / podklady:** peněžní deník, karty hmotného majetku a odpisové plány, znalecké posudky u bezúplatného nabytí, inventurní zápisy k 31. 12., doklady o pořizovacích cenách.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d167ba6429d0abccb584 generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 7b — Daňová evidence
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Daňovou evidencí se pro účely daní z příjmů rozumí evidence pro účely stanovení základu daně a daně z příjmů. Tato evidence obsahuje údaje o
+>
+> - a) příjmech a výdajích, v členění potřebném pro zjištění základu daně,
+>
+> - b) majetku a dluzích.
+>
+> (2) Pro obsahové vymezení složek majetku v daňové evidenci se použijí zvláštní právní předpisy o účetnictví, není-li dále stanoveno jinak.
+>
+> (3) Pro ocenění majetku a dluhů v daňové evidenci se hmotný majetek oceňuje podle [[#§ 29|§ 29]], pohledávky se oceňují podle [[#§ 5|§ 5]]. Ostatní majetek se oceňuje pořizovací cenou,31) je-li pořízen úplatně, vlastními náklady,31) je-li pořízen ve vlastní režii, nebo cenou určenou podle zvláštního právního předpisu [[o oceňování majetku|o oceňování majetku]]1a) ke dni nabytí u majetku nabytého bezúplatně. Dluhy se oceňují při vzniku jmenovitou hodnotou, při převzetí pořizovací cenou. Peněžní prostředky a ceniny se oceňují jejich jmenovitými hodnotami. Pořizovací cenou pozemku je cena včetně porostu, pokud se nejedná o pěstitelský celek trvalých porostů ([[#§ 26|§ 26]]), bez stavby na něm zřízené. Do pořizovací ceny majetku pořízeného formou finančního leasingu se zahrnou výdaje s jeho pořízením související, hrazené uživatelem. V případě úplatného pořízení majetku a dluhů, za jednu pořizovací cenu, se cena jednotlivých složek majetku stanoví v poměrné výši k ceně jednotlivých složek majetku oceněných podle zvláštního právního předpisu,1a) s výjimkou peněz, cenin, pohledávek a dluhů. Je-li v případě úplatného pořízení majetku a dluhů rozdíl mezi pořizovací cenou a oceněním tohoto majetku podle zvláštního právního předpisu,1a) zvýšeným o hodnotu peněz, cenin, pohledávek včetně daně z přidané hodnoty, a snížený o hodnotu dluhů, záporný, postupuje se obdobně jako v případě záporného oceňovacího rozdílu při koupi obchodního závodu ([[#§ 23|§ 23]]).
+>
+> (4) Zjištění skutečného stavu zásob, hmotného majetku, pohledávek a dluhů provede poplatník k poslednímu dni zdaňovacího období. O tomto zjištění provede zápis. O případné rozdíly upraví základ daně podle [[#§ 24|§ 24]] a [[#§ 25|25]].
+>
+> (5) Poplatník je povinen uschovávat daňovou evidenci za všechna zdaňovací období, pro která neuplynula lhůta pro stanovení daně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 5, § 26, § 23, § 24, § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d167ba6429d0abccb584 -->
 
 ### § 8 — Příjmy z kapitálového majetku
 
@@ -479,6 +727,88 @@ Klíčem k § 8 je rozlišit příjmy *vypořádané srážkou* (dividendy, úro
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4ac5fda47272a1d115b9 generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 8 — Příjmy z kapitálového majetku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Příjmy z kapitálového majetku, pokud nejde o příjmy podle § 6 odst. 1 nebo § 7 odst. 1 písm. d), jsou
+>
+> - a) podíly na zisku obchodní korporace nebo podílového fondu, je-li v něm podíl představován cenným papírem, úroky z držby cenných papírů a výnosy dluhopisů podle zákona upravujícího dluhopisy s výjimkou výnosu určeného rozdílem mezi jmenovitou hodnotou dluhopisu a jeho emisním kurzem,
+>
+> - b) podíly na zisku tichého společníka z účasti na podnikání,
+>
+> - c) úroky, výhry a jiné výnosy z vkladů na vkladních knížkách, úroky z peněžních prostředků na účtu, který není podle podmínek toho, kdo účet vede, určen k podnikání,
+>
+> - d) výnos z jednorázového vkladu a z vkladu jemu na roveň postaveného,
+>
+> - e) plnění z penzijního připojištění se státním příspěvkem podle zákona upravujícího penzijní připojištění se státním příspěvkem, z doplňkového penzijního spoření podle zákona upravujícího doplňkové penzijní spoření a z penzijního pojištění,
+>
+> - f) plnění z pojištění pro případ dožití, z pojištění pro případ dožití se stanoveného věku nebo dřívější smrti a z pojištění důchodu a plnění z jiného pojištění osob, které není pojistným plněním,
+>
+> - g) úroky a jiné výnosy z poskytnutých úvěrů nebo zápůjček, úroky z prodlení, poplatek z prodlení, úroky z práva na dorovnání, úroky z vkladů na účtech neuvedených v písmeni c) s výjimkou příjmů poplatníka, jehož daň je rovna paušální dani, a úroky z hodnoty splaceného vkladu ve smluvené výši členů obchodních korporací,
+>
+> - h) úrokové a jiné výnosy z držby směnek (např. diskont z částky směnky, úrok ze směnečné sumy),
+>
+> - i) plnění ze zisku svěřenského fondu nebo rodinné fundace.
+>
+> (2) Za příjem z kapitálového majetku se považuje také příjem plynoucí z práva na splacení
+>
+> - a) dluhopisu, kterým se pro účely daně z příjmů fyzických osob rozumí kladný rozdíl mezi jmenovitou hodnotou dluhopisu vyplacenou při jeho splacení nebo částkou vyplacenou při jeho předčasném splacení a cenou, za kterou poplatník dluhopis nabyl, nebo cenou určenou podle zákona upravujícího oceňování majetku ke dni jeho bezúplatného nabytí, a
+>
+> - b) vkladního listu vydaného jako cenný papír nebo cenného papíru vkladnímu listu na roveň postaveného, kterým se pro účely daně z příjmů fyzických osob rozumí kladný rozdíl mezi jmenovitou hodnotou vkladního listu vydaného jako cenný papír nebo cenného papíru jemu na roveň postaveného vyplacenou při jejich splacení nebo částkou vyplacenou při jejich předčasném splacení a cenou, za kterou poplatník cenný papír nabyl, nebo cenou určenou podle zákona upravujícího oceňování majetku ke dni jeho bezúplatného nabytí.
+>
+> (3) Příjmy uvedené v odstavci 1 písm. a) až f) a i) a úrokové příjmy a jiné výnosy z držby směnky vystavené bankou k zajištění pohledávky vzniklé z vkladu věřitele [odstavec 1 písm. h)], plynoucí ze zdrojů na území České republiky, jsou samostatným základem daně pro zdanění zvláštní sazbou daně ([[#§ 36|§ 36]]).
+>
+> (4) Plynou-li příjmy uvedené v odstavci 1 písm. a) až d) a i) ze zdrojů v zahraničí, jsou nesnížené o výdaje základem daně (dílčím základem daně). Plynou-li příjmy uvedené v odstavci 1 písm. e) a f) ze zdrojů v zahraničí, jsou základem daně (dílčím základem daně).
+>
+> (5) Příjmy uvedené v odstavci 1 písm. g) a h) a v odstavci 2 nesnížené o výdaje jsou základem daně (dílčím základem daně), s výjimkou úroků a jiných výnosů ze směnky vystavené bankou k zajištění pohledávky vzniklé z vkladu věřitele, které jsou samostatným základem daně pro zdanění zvláštní sazbou daně ([[#§ 36|§ 36]]). U příjmu z úroků ze zápůjčky nebo úvěru je výdajem zaplacený úrok z částek použitých na poskytnutí zápůjčky nebo úvěru, a to až do výše příjmu.
+>
+> (6) Plnění z penzijního připojištění se státním příspěvkem podle zákona upravujícího penzijní připojištění se státním příspěvkem, z doplňkového penzijního spoření podle zákona upravujícího doplňkové penzijní spoření a z penzijního pojištění jsou základem daně po snížení o zaplacené příspěvky a státní příspěvky hrazené Českou republikou, pokud tyto státní příspěvky nebyly vráceny; v případě těchto plnění ve formě penze se zaplacené příspěvky a státní příspěvky rozloží na vymezené období pobírání penze. Plnění z pojištění pro případ dožití, z pojištění pro případ dožití se stanoveného věku nebo dřívější smrti a z pojištění důchodu a plnění z jiného pojištění osob, které není pojistným plněním, jsou základem daně po snížení o zaplacené pojistné; v případě těchto plnění ve formě důchodu se zaplacené pojistné rozloží na vymezené období pobírání důchodu.
+>
+> (7) Jedná-li se o příjem podle odstavce 1 nebo odstavce 2 plynoucí do společného jmění manželů ze zdroje, který je vložen do obchodního majetku jednoho z manželů, zdaňuje se jen u tohoto manžela. Jedná-li se o příjem podle odstavce 1 nebo [[#§ 2|2]] plynoucí do společného jmění manželů ze zdroje, který není vložen do obchodního majetku žádného z manželů, zdaňuje se jen u jednoho z nich.
+>
+> (8) Příjem podle odstavce 4 nebo úrok nebo jiný výnos ze směnky vystavené bankou k zajištění pohledávky vzniklé z vkladu věřitele plynoucí ze zdrojů v zahraničí lze zahrnout do samostatného základu daně zdaňovaného sazbou daně podle [[#§ 16a|§ 16a]]. Zahrne-li se takový příjem do tohoto základu daně, zahrnou se do tohoto základu daně veškeré příjmy podle věty první. Tyto příjmy se nesnižují o výdaje s výjimkou příjmů uvedených v odstavci 1 písm. e) a f), u kterých se postupuje obdobně podle odstavce 6.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 7, § 36, § 2, § 16a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ac5fda47272a1d115b9 -->
+
 ### § 9 — Příjmy z nájmu
 
 <details><summary>📜 <b>Text § 9</b></summary>
@@ -581,6 +911,74 @@ Rozhodující je, že nájem majetku *mimo obchodní majetek* je pasivní příj
 **Typicky rozhodné důkazy / podklady:** nájemní smlouvy, doklady o přijatém nájemném, faktury za opravy a údržbu, odpisové karty, úvěrové smlouvy a potvrzení o zaplacených úrocích, evidence podle odst. 6.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1ddf7a4aabe432b8ba9c generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 9 — Příjmy z nájmu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Příjmy z nájmu, pokud nejde o příjmy uvedené v § 6 až 8, jsou
+>
+> - a) příjmy z nájmu nemovitých věcí nebo bytů,
+>
+> - b) příjmy z nájmu movitých věcí, kromě příležitostného nájmu podle § 10 odst. 1 písm. a).
+>
+> (2) Příjmy podle odstavce 1, plynoucí manželům ze společného jmění manželů, se zdaňují jen u jednoho z nich.
+>
+> (3) Základem daně (dílčím základem daně) jsou příjmy uvedené v odstavci 1 snížené o výdaje vynaložené na jejich dosažení, zajištění a udržení (§ 5 odst. 2). Pro zjištění základu daně (dílčího základu daně) se použijí ustanovení § 23 až 33. Příjem z nájmu plynoucí poplatníkům uvedeným v § 2 odst. 3 je, s výjimkou příjmů z nájmu nemovitých věcí nebo bytů, samostatným základem daně pro zdanění zvláštní sazbou daně ([[#§ 36|§ 36]]).
+>
+> (4) Neuplatní-li poplatník výdaje prokazatelně vynaložené na dosažení, zajištění a udržení příjmů, může je uplatnit ve výši 30 % z příjmů podle odstavce 1, nejvýše však do částky 600 000 Kč. Způsob uplatnění výdajů podle tohoto odstavce nelze zpětně měnit.
+>
+> (5) Uplatní-li poplatník výdaje podle odstavce 4, jsou v částkách výdajů zahrnuty veškeré výdaje poplatníka vynaložené v souvislosti s dosahováním příjmů z nájmu podle [[#§ 9|§ 9]]. Poplatník, který uplatňuje výdaje podle odstavce 4, je povinen vždy vést záznamy o příjmech a evidenci pohledávek vzniklých v souvislosti s nájmem.
+>
+> (6) Poplatníci mající příjmy z nájmu a uplatňující u těchto příjmů skutečné výdaje vynaložené na jejich dosažení, zajištění a udržení vedou záznamy o příjmech a výdajích vynaložených na dosažení, zajištění a udržení příjmů v časovém sledu, evidenci hmotného majetku, který lze odpisovat, evidenci o tvorbě a použití rezervy na opravy hmotného majetku, pokud ji vytvářejí, evidenci o pohledávkách a dluzích ve zdaňovacím období, ve kterém dochází k ukončení nájmu, a mzdové listy, pokud vyplácejí mzdy. Pokud se však poplatníci rozhodnou vést účetnictví, přestože k tomu nejsou podle účetních předpisů20) povinni, pak postupují podle těchto předpisů, budou-li takto postupovat po celé zdaňovací období, přitom se movitý i nemovitý majetek, o kterém je účtováno, nepovažuje za obchodní majetek ve smyslu daně z příjmů fyzických osob.
+>
+> (7) Při pachtu obchodního závodu je příjmem propachtovatele, který nevede účetnictví, také
+>
+> - a) hodnota pohledávek a dluhů, s výjimkou dluhů, jejichž úhrada by byla výdajem snižujícím základ daně, které přecházejí na pachtýře, není-li dohodnuta jejich úhrada. Je-li dohodnuta částečná úhrada pohledávek a dluhů, s výjimkou dluhů, jejichž úhrada by byla výdajem snižujícím základ daně, je příjmem jejich hodnota. Je-li dohodnuta úhrada pohledávek a dluhů, s výjimkou dluhů, jejichž úhrada by byla výdajem snižujícím základ daně, vyšší, než je jejich hodnota, je příjmem tato vyšší cena,
+>
+> - b) neuhrazený rozdíl mezi hodnotou věcí v obchodním závodu na začátku pachtu a jejich vyšší hodnotou při ukončení pachtu stanovenou podle zvláštního právního předpisu1a) nebo podle údajů uvedených v účetnictví pachtýře, vedeném podle zvláštních právních předpisů.20)
+>
+> Základ daně se nebude zvyšovat dle tohoto ustanovení v případech, kdy bude z titulu operací popsaných v tomto ustanovení zvyšován na základě jiných ustanovení tohoto zákona. Pro účely tohoto ustanovení se nepoužije ustanovení § 23 odst. 13.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 10, § 5, § 23, § 2, § 36
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ddf7a4aabe432b8ba9c -->
 
 ### § 10 — Ostatní příjmy
 
@@ -742,6 +1140,148 @@ Rozhodující je, že nájem majetku *mimo obchodní majetek* je pasivní příj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=414ee4b86e39a33e2f7c generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 10 — Ostatní příjmy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Ostatními příjmy, při kterých dochází ke zvýšení majetku, pokud nejde o příjmy podle § 6 až 8 nebo [[#§ 9|§ 9]], a jednotlivými druhy příjmu jsou
+>
+> - a) příjmy z příležitostných činností nebo z příležitostného nájmu movitých věcí, včetně příjmů ze zemědělské výroby a lesního a vodního hospodářství, které nejsou provozovány podnikatelem, a příjmů z provozu výroben elektřiny, ke kterému není vyžadována licence udělovaná Energetickým regulačním úřadem,
+>
+> - b) příjmy z úplatného převodu
+>
+> - 1. nemovité věci,
+>
+> - 2. cenného papíru a
+>
+> - 3. jiné věci,
+>
+> - c) příjmy z převodu podílu ve společnosti s ručením omezeným nebo podílu komanditisty na komanditní společnosti, které nejsou představovány cenným papírem, nebo z převodu družstevního podílu,
+>
+> - d) příjmy ze zděděných práv z průmyslového a jiného duševního vlastnictví včetně práv autorských a práv příbuzných právu autorskému,
+>
+> - e) přijaté výživné, důchody a obdobné opakující se požitky,
+>
+> - f) podíl
+>
+> - 1. člena obchodní korporace s výjimkou společníka veřejné obchodní společnosti a komplementáře komanditní společnosti na likvidačním zůstatku, nebo
+>
+> - 2. majitele podílového listu z podílu připadajícího na podílový list při zrušení podílového fondu s výjimkou splynutí nebo sloučení podílového fondu,
+>
+> - g) vypořádací podíl při zániku účasti člena v obchodní korporaci, s výjimkou společníka veřejné obchodní společnosti a komplementáře komanditní společnosti, podíl na majetku transformovaného družstva, vrácení emisního ážia, příplatku mimo základní kapitál nebo těmto plněním obdobná plnění,
+>
+> - h) výhry z
+>
+> - 1. loterie a tomboly,
+>
+> - 2. kursové sázky a totalizátorové hry,
+>
+> - 3. technické hry,
+>
+> - 4. živé hry s výjimkou turnaje živé hry,
+>
+> - 5. turnaje živé hry a turnaje malého rozsahu a
+>
+> - 6. jiných hazardních her než hazardních her podle bodů 1 až 5,
+>
+> - ch) výhry z reklamních soutěží a reklamních slosování, ceny z veřejných soutěží, ze sportovních soutěží a ceny ze soutěží, v nichž je okruh soutěžících omezen podmínkami soutěže, anebo jde o soutěžící vybrané pořadatelem soutěže,
+>
+> - i) příjmy, které společník veřejné obchodní společnosti nebo komplementář komanditní společnosti obdrží v souvislosti s ukončením účasti na veřejné obchodní společnosti nebo komanditní společnosti od jiné osoby než od veřejné obchodní společnosti nebo komanditní společnosti, v níž ukončil účast,
+>
+> - j) příjmy z převodu jmění na společníka a příjmy z vypořádání podle zvláštního právního předpisu131),
+>
+> - k) příjem z jednorázové náhrady práv s povahou opakovaného plnění na základě ujednání mezi poškozeným a pojistitelem,
+>
+> - l) příjem z výměnku,
+>
+> - m) příjem obmyšleného ze svěřenského fondu,
+>
+> - n) bezúplatný příjem,
+>
+> - o) příjem z rozpuštění rezervního fondu vytvořeného ze zisku nebo z rozpuštění obdobného fondu,
+>
+> - p) příjem, který vznikl jako důsledek porušení podmínek uplatnění nezdanitelné části základu daně,
+>
+> - q) příjem uvedený v § 6a odst. 7 z uplatnění kvalifikované zaměstnanecké opce anebo z finančního vypořádání kvalifikované zaměstnanecké opce; příjem z uplatnění kvalifikované zaměstnanecké opce se považuje za příjem ve zdaňovacím období, ve kterém byl takto získaný kvalifikovaný obchodní podíl prodán, nejpozději však ve zdaňovacím období, ve kterém uplyne 15 let od jejího uplatnění,
+>
+> - r) ostatní příjem, který není příjmem uvedeným v písmenech a) až q).
+>
+> (2) Příjmy podle odstavce 1, plynoucí manželům ze společného jmění manželů, se zdaňují u jednoho z nich; obdobně se postupuje u příjmů plynoucích do společného jmění manželů. Příjmy plynoucí manželům z prodeje nebo převodu majetku nebo práva ve společném jmění manželů, které byly zahrnuty v obchodním majetku, se zdaňují u toho z manželů, který měl takový majetek nebo právo zahrnuty v obchodním majetku. U příjmů plynoucích z prodeje nebo převodu majetku nebo práva ve společném jmění manželů, které byly zahrnuty v obchodním majetku zemřelého manžela (manželky), které plynou pozůstalému manželovi (manželce), se k době uvedené v [[#§ 4|§ 4]] vztahující se k majetku nebo právu zahrnutým v obchodním majetku, nepřihlíží.
+>
+> (3) Od daně jsou, kromě příjmů uvedených v [[#§ 4|§ 4]], osvobozeny
+>
+> - a) ostatní příjmy spadající do jednotlivého druhu příjmu jiného než podle odstavce 1 písm. b) nebo c), odstavce 1 písm. f) bodu 2, odstavce 1 písm. h) bodů 2 až 6 nebo odstavce 1 písm. m), n) nebo p), pokud úhrn příjmů spadajících do tohoto druhu příjmu nepřesáhne ve zdaňovacím období 50 000 Kč; je-li tento ostatní příjem samostatným základem daně pro daň vybíranou srážkou podle zvláštní sazby daně nebo příjmem zahrnovaným do samostatného základu daně zdaňovaného sazbou daně podle [[#§ 16a|§ 16a]], je od daně osvobozen, pokud výše tohoto příjmu nepřesahuje 50 000 Kč,
+>
+> - b) výhry z hazardních her, které jsou jednotlivým druhem příjmu podle odstavce 1 písm. h) bodů 2 až 6, pokud rozdíl mezi úhrnem výher spadajících do tohoto druhu příjmu a úhrnem vkladů do hazardních her v rámci tohoto druhu příjmu za zdaňovací období nepřesahuje 50 000 Kč,
+>
+> - c) bezúplatné příjmy
+>
+> - 1. od příbuzného v linii přímé a v linii vedlejší, pokud jde o sourozence, strýce, tetu, synovce nebo neteř, manžela, manžela dítěte, dítě manžela, rodiče manžela nebo manžela rodičů,
+>
+> - 2. od osoby, se kterou poplatník žil nejméně po dobu jednoho roku bezprostředně před získáním bezúplatného příjmu ve společně hospodařící domácnosti a z tohoto důvodu pečoval o domácnost nebo byl na tuto osobu odkázán výživou,
+>
+> - 3. obmyšleného z jeho majetku, který do svěřenského fondu vyčlenil nebo kterým zvýšil majetek tohoto fondu, nebo z majetku, který byl do svěřenského fondu vyčleněn nebo který zvýšil majetek tohoto fondu osobou uvedenou v bodě 1 nebo [[#§ 2|2]],
+>
+> - 4. poplatníka z jeho majetku, který vložil do rodinné fundace, nebo z majetku, který byl do rodinné fundace vložen osobou uvedenou v bodě 1 nebo [[#§ 2|2]],
+>
+> - 5. nabyté příležitostně, pokud jejich úhrn od téhož poplatníka ve zdaňovacím období nepřevyšuje částku 50 000 Kč.
+>
+> (4) Základem daně (dílčím základem daně) je příjem snížený o výdaje prokazatelně vynaložené na jeho dosažení. Je-li příjem zahrnut do základu daně jen zčásti z důvodu, že je zčásti od daně osvobozen, výdaje podle věty první snižují příjem jen v části odpovídající poměru, v jakém tento příjem není od daně osvobozen. Jsou-li výdaje spojené s jednotlivým druhem příjmu uvedeným v odstavci 1 vyšší než příjem, k rozdílu se nepřihlíží. Plynou-li příjmy podle odstavce 1 písm. h) bodu 1 a písm. ch) ze zdrojů v zahraničí, je základem daně (dílčím základem daně) příjem nesnížený o výdaje. Jde-li o příjmy ze zemědělské výroby, lesního a vodního hospodářství, lze výdaje uplatnit podle § 7 odst. 7 písm. a). Poplatník, který uplatňuje výdaje podle § 7 odst. 7 písm. a), je povinen vždy vést záznamy o příjmech. Příjmy plynoucí ze splátek na základě uzavřené kupní smlouvy nebo ze zálohy na základě uzavřené smlouvy o budoucím prodeji nemovité věci, se zahrnou do dílčího základu daně za zdaňovací období, ve kterém byly dosaženy. Plynou-li příjmy podle odstavce 1 písm. k), jsou samostatným základem daně pro zdanění zvláštní sazbou daně ([[#§ 36|§ 36]]). Příjmem poplatníka, kterému plyne příjem podle odstavce 1 písm. a) z chovu včel a u kterého nepřekročí ve zdaňovacím období počet včelstev 50, je částka 1 000 Kč na jedno včelstvo. Příjmem podle odstavce 1 písm. q) je také kursový zisk při směně peněz z účtu vedeného v cizí měně, nejedná-li se o účet zahrnutý v obchodním majetku, s výjimkou kursového zisku při směně peněz z účtu vedeného v cizí měně na evropském regulovaném trhu nebo na obdobném zahraničním regulovaném trhu, na kterém se obchody s těmito měnami uskutečňují.
+>
+> (5) U příjmů podle odstavce 1 písm. b) je výdajem cena, za kterou poplatník věc prokazatelně nabyl, a jde-li o věc nabytou bezúplatně, cena určená podle zvláštního právního předpisu [[o oceňování majetku|o oceňování majetku]]1a) ke dni nabytí. Jde-li o hmotný majetek odpisovaný podle § 26 a následujících, který byl zahrnut do obchodního majetku pro výkon činnosti, ze které plyne příjem ze samostatné činnosti, nebo sloužil k nájmu, je výdajem zůstatková cena podle § 29 odst. 2. Jde-li o věc získanou směnou nebo výhrou, vychází se z ceny podle zvláštního předpisu1a) (§ 3 odst. 3). Výdajem jsou též částky prokazatelně vynaložené na technické zhodnocení, opravu a údržbu věci, včetně dalších výdajů souvisejících s uskutečněním prodeje s výjimkou výdajů na osobní potřebu poplatníka. K hodnotě vlastní práce poplatníka na věci, kterou si sám vyrobil nebo vlastní prací zhodnotil, se při stanovení výdajů nepřihlíží. U příjmů z úplatného převodu cenných papírů lze kromě nabývací ceny akcie nebo kmenového listu a pořizovací ceny ostatních cenných papírů uplatnit i výdaje související s uskutečněním úplatného převodu a platby za obchodování na trhu s cennými papíry při pořízení cenných papírů. Výdaje, které převyšují příjmy podle odstavce 1 písm. b), c), f) a g) v tom zdaňovacím období, kdy poprvé plynou splátky nebo zálohy na prodej věcí, na budoucí prodej nemovité věci nebo na prodej účasti na společnosti s ručením omezeným, komanditní společnosti, podílu na základním kapitálu družstva nebo pohledávky podle [[§ 33a|§ 33a]] zákona [[o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku|o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku]], mohou být uplatněny v tomto zdaňovacím období až do výše tohoto příjmu. Jestliže příjem plyne i v dalších zdaňovacích obdobích, postupuje se obdobně, a to až do výše celkové částky, kterou lze podle tohoto ustanovení uplatnit. U příjmů podle odstavce 1 písm. b) je výdajem vrácená záloha, i když je vrácena v jiném zdaňovacím období. U příjmu plynoucího z odvolání daru je výdajem úhrada za zhodnocení daru. U příjmů podle odstavce 1 písm. h) bodů 2 až 6 je výdajem pouze vklad do hazardní hry. U příjmů podle odstavce 1 písm. q) je výdajem také kursová ztráta při směně peněz z účtu vedeného v cizí měně, nejedná-li se o účet zahrnutý v obchodním majetku, s výjimkou kursové ztráty při směně peněz z účtu vedeného v cizí měně na evropském regulovaném trhu nebo na obdobném zahraničním regulovaném trhu, na kterém se obchody s těmito měnami uskutečňují.
+>
+> (6) U příjmů podle odstavce 1 písm. c), f) a g) se za výdaj považuje nabývací cena podílu. Výdajem není podíl na majetku družstva převedený v rámci transformace družstev podle zvláštního předpisu13) s výjimkou podílu nebo jeho části, který je náhradou podle zvláštních předpisů,2) a s výjimkou dalšího podílu na majetku družstva,13) je-li vydán ve věcném nebo nepeněžitém plnění. Při přeměně investičního fondu na otevřený podílový fond, při přeměně uzavřeného podílového fondu na otevřený podílový fond, při změně obhospodařovatele podílového fondu, při sloučení a splynutí podílových fondů a při sloučení, splynutí a rozdělení investičního fondu se za nabývací cenu akcie nebo podílového listu u téhož poplatníka považuje nabývací cena podílu na původním investičním fondu. U příjmů z převodu jmění na společníka se za výdaj považuje nabývací cena podílu nebo pořizovací cena cenných papírů, převzaté dluhy, které byly následně uhrazeny, a uhrazené vypořádání, i když k uhrazení dojde v jiném zdaňovacím období než v tom, v němž plyne příjem z převodu jmění na společníka. U příjmů z vypořádání se za výdaj považuje nabývací cena podílu nebo pořizovací cena cenných papírů.
+>
+> (7) Důchod podle [[občanského zákoníku|občanského zákoníku]] se považuje za základ daně (dílčí základ daně) po snížení o částku pořizovací ceny rovnoměrně rozdělenou na období pobírání důchodu. Toto období se stanoví jako střední délka života účastníka podle úmrtnostních tabulek Českého statistického úřadu v době, kdy důchod začne poprvé pobírat.
+>
+> (8) Příjmem podle odstavce 1 písm. f) a g) je také kladný rozdíl mezi oceněním majetku podle zvláštního právního předpisu1a) a výší jeho hodnoty zachycené v účetnictví obchodní korporace při zániku členství v obchodní korporaci, pokud je podíl na likvidačním zůstatku nebo vypořádací podíl vypořádáván v nepeněžní formě. Pokud členovi obchodní korporace při zániku jeho účasti v ní vznikne vedle práva na vypořádací podíl v nepeněžní formě současně i dluh vůči obchodní korporaci, sníží se tento kladný rozdíl o výši dluhu. Příjmy podle odstavce 1 písm. f), g), h) bodu 1, ch) a o) s výjimkou příjmů z podílu na likvidačním zůstatku a vypořádacího podílu u společníků veřejné obchodní společnosti a komplementářů komanditní společnosti plynoucí ze zdrojů na území České republiky jsou samostatným základem daně pro zdanění zvláštní sazbou daně ([[#§ 36|§ 36]]). Plynou-li tyto příjmy ze zdrojů v zahraničí, jsou základem daně (dílčím základem daně) podle § 5 odst. 2. Je-li v ceně z veřejné soutěže zahrnuta odměna za užití díla nebo výkonu, sníží se o částku připadající na tuto odměnu základ daně zdaňovaný zvláštní sazbou daně a tato částka se zahrne do příjmů uvedených v [[#§ 7|§ 7]]. U poplatníků uvedených v § 2 odst. 2, u nichž je sportovní činnost činností, ze které plyne příjem ze samostatné činnosti, se považují přijaté ceny ze sportovních soutěží za příjmy podle [[#§ 7|§ 7]].
+>
+> (9) Plyne-li příjem podle odstavce 8 ze zdrojů v zahraničí, lze tento příjem zahrnout do samostatného základu daně zdaňovaného sazbou daně podle [[#§ 16a|§ 16a]]. Zahrne-li se takový příjem do tohoto základu daně, zahrnou se do tohoto základu daně veškeré příjmy podle odstavce 8 plynoucí ze zdrojů v zahraničí. Tyto příjmy se nesnižují o výdaje s výjimkou
+>
+> - a) příjmů uvedených v odstavci 1 písm. f) a g), které lze snížit o nabývací cenu podílu, a
+>
+> - b) ceny z veřejné soutěže, která se sníží o odměnu za užití díla nebo výkonu zahrnutou v této ceně; tato odměna je příjmem ze samostatné činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 9, § 6a, § 4, § 16a, § 2, § 7, § 36, § 26, § 29, § 3, § 33a, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=414ee4b86e39a33e2f7c -->
+
 ### § 12 — Společné příjmy a výdaje
 
 <details><summary>📜 <b>Text § 12</b></summary>
@@ -804,6 +1344,56 @@ Rozhodující je, že nájem majetku *mimo obchodní majetek* je pasivní příj
 **Typicky rozhodné důkazy / podklady:** list vlastnictví / společenská smlouva, nájemní smlouvy a doklady o příjmech, doklady o skutečných výdajích, společná evidence příjmů a výdajů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fbded5154a1790a522aa generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 12 — Společné příjmy a výdaje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Pokud nejsou společné výdaje související se společnými příjmy ze společnosti nebo ze společenství jmění rozděleny mezi poplatníky stejně jako společné příjmy, mohou poplatníci uplatnit výdaje pouze v prokázané výši.
+>
+> (2) Pokud nejsou příjmy a výdaje rozděleny mezi spoluvlastníky podle spoluvlastnických podílů, mohou spoluvlastníci uplatnit výdaje pouze v prokázané výši.
+>
+> (3) Příjmy a výdaje plynoucí poplatníkovi ze společenství jmění s výjimkou společenství jmění dědiců za dobu jeho trvání se zahrnují do zdaňovacího období, ve kterém společenství jmění zaniklo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fbded5154a1790a522aa -->
 
 ### § 13 — Příjmy a výdaje spolupracujících osob
 
@@ -915,6 +1505,90 @@ Body b) a c) brání *dvojímu* daňovému zvýhodnění (rozdělení příjmu *
 **Typicky rozhodné důkazy / podklady:** doklady o příjmech a výdajích ze samostatné činnosti, prokázání faktické spolupráce (výkazy práce, korespondence), oddací list / doklad o společně hospodařící domácnosti, evidence k uplatněným slevám a zvýhodněním.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a155224e52232223ce3b generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 13 — Příjmy a výdaje spolupracujících osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Příjmy a výdaje na jejich dosažení, zajištění a udržení při samostatné činnosti s výjimkou podílu společníka veřejné obchodní společnosti a komplementáře komanditní společnosti mohou být rozděleny mezi poplatníka a s ním spolupracující osoby, kterými se rozumí
+>
+> - a) spolupracující manžel,
+>
+> - b) spolupracující osoba žijící s poplatníkem ve společně hospodařící domácnosti,
+>
+> - c) člen rodiny zúčastněný na provozu rodinného závodu.
+>
+> (2) U spolupracujících osob musí být výše podílu na příjmech a výdajích stejná. Příjmy a výdaje se rozdělují tak, aby
+>
+> - a) podíl příjmů a výdajů připadající na spolupracující osoby nečinil v úhrnu více než 30 % a
+>
+> - b) částka, o kterou příjmy převyšují výdaje, činila
+>
+> - 1. za zdaňovací období nejvýše 180 000 Kč a
+>
+> - 2. za každý započatý kalendářní měsíc spolupráce nejvýše 15 000 Kč.
+>
+> (3) V případě, že je spolupracující osobou pouze manžel, se příjmy a výdaje rozdělují tak, aby
+>
+> - a) podíl příjmů a výdajů připadající na manžela nečinil více než 50 % a
+>
+> - b) částka, o kterou příjmy převyšují výdaje, činila
+>
+> - 1. za zdaňovací období nejvýše 540 000 Kč a
+>
+> - 2. za každý započatý kalendářní měsíc spolupráce nejvýše 45 000 Kč.
+>
+> (4) Příjmy a výdaje nelze rozdělovat
+>
+> - a) na dítě, které nemá ukončenou povinnou školní docházku,
+>
+> - b) na dítě v kalendářních měsících, ve kterých je na něj uplatňováno daňové zvýhodnění na vyživované dítě,
+>
+> - c) na manžela, je-li na něj uplatněna sleva na manžela,
+>
+> - d) na a od poplatníka, který zemřel, a
+>
+> - e) na a od poplatníka, jehož daň je rovna paušální dani.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a155224e52232223ce3b -->
 
 ## Provazby na související předpisy
 

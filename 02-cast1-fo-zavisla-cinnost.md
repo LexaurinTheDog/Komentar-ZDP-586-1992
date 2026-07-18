@@ -467,6 +467,238 @@ Příjem ze závislé činnosti podle § 6 je dán faktickou podřízeností pop
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=17cb153c50764b1aab04 generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 6 — Příjmy ze závislé činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Příjmy ze závislé činnosti jsou
+>
+> - a) plnění v podobě
+>
+> - 1. příjmu ze současného nebo dřívějšího pracovněprávního, služebního nebo členského poměru a obdobného poměru, v nichž poplatník při výkonu práce pro plátce příjmu je povinen dbát příkazů plátce,
+>
+> - 2. funkčního požitku,
+>
+> - b) příjmy za práci
+>
+> - 1. člena družstva,
+>
+> - 2. společníka společnosti s ručením omezeným,
+>
+> - 3. komanditisty komanditní společnosti,
+>
+> - c) odměny
+>
+> - 1. člena orgánu právnické osoby,
+>
+> - 2. likvidátora,
+>
+> - d) příjmy plynoucí v souvislosti se současným, budoucím nebo dřívějším výkonem činnosti, ze které plynou příjmy podle písmen a) až c), bez ohledu na to, zda plynou od plátce, u kterého poplatník vykonává činnost, ze které plyne příjem ze závislé činnosti, nebo od plátce, u kterého poplatník tuto činnost nevykonává, nejde-li o úrok z prodlení.
+>
+> (2) Poplatník s příjmy ze závislé činnosti je dále označen jako „zaměstnanec“, plátce příjmu jako „zaměstnavatel“. Zaměstnavatelem je i poplatník uvedený v § 2 odst. 2 nebo v § 17 odst. 3, u kterého zaměstnanci vykonávají práci podle jeho příkazů, i když příjmy za tuto práci jsou na základě smluvního vztahu vypláceny prostřednictvím osoby se sídlem nebo bydlištěm v zahraničí. Z hlediska dalších ustanovení zákona se takto vyplácený příjem považuje za příjem vyplácený poplatníkem uvedeným v § 2 odst. 2 nebo v § 17 odst. 3. V případě, že v úhradách zaměstnavatele osobě se sídlem nebo bydlištěm v zahraničí s výjimkou osoby se sídlem nebo bydlištěm v jiném členském státě Evropské unie nebo státě tvořícím Evropský hospodářský prostor, která má na území České republiky organizační složku, jejímž předmětem činnosti je zprostředkování zaměstnání na základě povolení podle zákona upravujícího zaměstnanost, je obsažena i částka za zprostředkování, považuje se za příjem zaměstnance nejméně 60 % z celkové úhrady.
+>
+> (3) Příjmy podle odstavce 1 se rozumějí příjmy pravidelné nebo jednorázové bez ohledu na to, zda je na ně právní nárok či nikoli, zda je od zaměstnavatele dostává zaměstnanec nebo jiná osoba a zda jsou vypláceny nebo připisovány k dobru anebo spočívají v jiné formě plnění prováděné zaměstnavatelem za zaměstnance nebo v jeho prospěch. Příjmem zaměstnance se rozumí i plnění podle odstavce 9 písm. e) a g), plnění ve formě podle odstavce 9 písm. d) a jiné plnění na sociální podmínky nebo péči o zdraví vyplývající z kolektivní smlouvy, vnitřního předpisu zaměstnavatele nebo pracovní nebo jiné smlouvy poskytnutá zaměstnavatelem pro rodinného příslušníka zaměstnance. Příjmem se rozumí rovněž částka, o kterou je úhrada zaměstnance zaměstnavateli za poskytnuté plnění nižší, než je cena
+>
+> - a) určená podle zákona upravujícího oceňování majetku nebo cena, kterou účtuje jiným osobám,
+>
+> - b) stanovená podle odstavce 6 v případě poskytnutí motorového vozidla k používání pro služební i soukromé účely,
+>
+> - c) stanovená podle odstavce 18 v případě použití zařízení péče o děti předškolního věku včetně mateřské školy podle [[školského zákona|školského zákona]].
+>
+> Za příjmy podle odstavce 1 se nepovažují příjmy z realizace kvalifikovaných zaměstnaneckých opcí kvalifikovaným zaměstnancem ve výši uvedené v § 6a odst. 7 jejich uplatněním nebo finančním vypořádáním v souladu s podmínkami kvalifikované zaměstnanecké opce.
+>
+> (4) Příjmy zúčtované nebo vyplacené plátcem daně jsou samostatným základem daně pro zdanění daní vybíranou srážkou podle zvláštní sazby daně, pokud zaměstnanec u tohoto plátce daně neučinil prohlášení k dani podle § 38k odst. 4, [[#§ 5|5]] nebo [[#§ 7|7]] anebo nevyužije-li postup podle § 36 odst.6 nebo 7 a jedná-li se o příjmy podle odstavce 1
+>
+> - a) plynoucí na základě dohody o provedení práce, jejichž úhrnná výše u téhož plátce daně nedosáhne za kalendářní měsíc částku rozhodnou pro účast zaměstnanců činných na základě dohody o provedení práce na nemocenském pojištění, nebo
+>
+> - b) v úhrnné výši nedosahující u téhož plátce daně za kalendářní měsíc rozhodné částky pro účast zaměstnanců na nemocenském pojištění.
+>
+> (5) Plynou-li příjmy uvedené v odstavci 4 ze zdrojů v zahraničí, jsou základem daně (dílčím základem daně) podle § 5 odst. 2.
+>
+> (6) Poskytuje-li zaměstnavatel zaměstnanci bezplatně silniční motorové vozidlo k používání pro služební i soukromé účely, považuje se za příjem zaměstnance částka ve výši určeného procenta vstupní ceny tohoto vozidla za každý i započatý kalendářní měsíc poskytnutí vozidla. Jde-li o silniční motorové vozidlo najaté nebo pořízené na finanční leasing, vychází se ze vstupní ceny tohoto vozidla u původního vlastníka, a to i v případě, že dojde k následné koupi vozidla. Pokud ve vstupní ceně není zahrnuta daň z přidané hodnoty, pro účely tohoto ustanovení se o tuto daň zvýší. Je-li částka, která se posuzuje jako příjem zaměstnance za každý i započatý kalendářní měsíc poskytnutí silničního motorového vozidla, nižší než 1 000 Kč, považuje se za příjem zaměstnance částka ve výši 1 000 Kč. Poskytne-li zaměstnavatel zaměstnanci bezplatně v průběhu kalendářního měsíce postupně za sebou více silničních motorových vozidel k používání pro služební i soukromé účely, považuje se za příjem zaměstnance částka ve výši určeného procenta z nejvyšší vstupní ceny silničního motorového vozidla. Poskytne-li zaměstnavatel zaměstnanci bezplatně pro služební i soukromé účely v průběhu kalendářního měsíce více silničních motorových vozidel současně, považuje se za příjem zaměstnance úhrn částek odpovídajících výši určeného procenta vstupní ceny každého současně poskytnutého vozidla. Určeným procentem se pro účely tohoto ustanovení rozumí
+>
+> - a) 0,25 %, jedná-li se o bezemisní vozidlo,
+>
+> - b) 0,5 %, jedná-li se o nízkoemisní vozidlo,
+>
+> - c) 1 %, jedná-li se o silniční motorové vozidlo, které není nízkoemisním ani bezemisním vozidlem.
+>
+> (7) Za příjmy ze závislé činnosti se nepovažují a předmětem daně, kromě příjmů, které nejsou předmětem daně podle § 3 odst. 4, dále nejsou
+>
+> - a) náhrady cestovních výdajů poskytované v souvislosti s výkonem činnosti, ze které plyne příjem ze závislé činnosti, do výše stanovené nebo umožněné zvláštním právním předpisem5) pro zaměstnance odměňovaného platem, jakož i hodnota bezplatného stravování poskytovaná zaměstnavatelem na pracovních cestách; jiné a vyšší náhrady, než stanoví tento zvláštní právní předpis, jsou zdanitelným příjmem podle odstavce 1,
+>
+> - b) hodnota osobních ochranných pracovních prostředků, pracovních oděvů a obuvi, mycích, čisticích a dezinfekčních prostředků a ochranných nápojů poskytovaných v rozsahu stanoveném zvláštním předpisem, včetně nákladů na udržování osobních ochranných a pracovních prostředků, pracovních oděvů a obuvi, jakož i hodnota poskytovaných stejnokrojů, včetně příspěvků na jejich udržování, dále hodnota pracovního oblečení, určeného zaměstnavatelem pro výkon zaměstnání, včetně příspěvku na jeho udržování,
+>
+> - c) částky přijaté zaměstnancem zálohově od zaměstnavatele, aby je jeho jménem vydal nebo částky, kterými zaměstnavatel hradí zaměstnanci prokázané výdaje, které za zaměstnavatele vynaložil ze svého tak, jako by je vynaložil přímo zaměstnavatel,
+>
+> - d) náhrady za opotřebení vlastního nářadí, zařízení a předmětů potřebných pro výkon práce poskytované zaměstnanci podle [[zákoníku práce|zákoníku práce]],
+>
+> - e) plnění zaměstnavatele na vytváření a dodržování pracovních podmínek pro výkon práce; je-li plnění poskytováno v podobě paušální částky na náhradu nákladů spojených s výkonem práce z jiného místa dohodnutého se zaměstnavatelem, než je pracoviště zaměstnavatele, nepovažuje se za příjem a není předmětem daně do výše paušální částky, kterou lze poskytnout zaměstnancům odměňovaným platem.
+>
+> (8) Hradí-li zaměstnavatel zaměstnanci výdaje (náhrady) podle odstavce 7 písm. b) až d) paušální částkou, považují se tyto výdaje za prokázané do výše paušálu stanoveného zvláštními předpisy nebo paušálu uvedeného v kolektivní smlouvě, ve vnitřním předpise zaměstnavatele, v pracovní nebo jiné smlouvě za předpokladu, že výše paušálu byla zaměstnavatelem prokazatelně stanovena na základě kalkulace skutečných výdajů. Stejným způsobem postupuje zaměstnavatel při stanovení paušálu v případech, kdy dojde ke změně podmínek, za nichž byl paušál stanoven. Jde-li o paušál za použití vlastního nářadí, zařízení a předmětů potřebných pro výkon práce zaměstnance, které by jinak byly odepisovány, uzná se jen do výše, v jaké by zaměstnavatel uplatňoval odpisy srovnatelného hmotného majetku při rovnoměrném odpisování v dalších letech odpisování.
+>
+> (9) Od daně jsou, kromě příjmů uvedených v [[#§ 4|§ 4]], dále osvobozeny
+>
+> - a) nepeněžní plnění vynaložená zaměstnavatelem na odborný rozvoj zaměstnanců související s předmětem činnosti zaměstnavatele nebo nepeněžní plnění vynaložená zaměstnavatelem na rekvalifikaci zaměstnanců podle jiného právního předpisu upravujícího zaměstnanost133); toto osvobození se nevztahuje na příjmy plynoucí zaměstnancům v této souvislosti jako mzda, plat, odměna nebo jako náhrada za ušlý příjem, jakož i na další peněžní plnění poskytovaná v této souvislosti zaměstnancům,
+>
+> - b) příjem zaměstnance ve formě příspěvku na stravování poskytnutého zaměstnavatelem za jednu směnu podle jiného právního předpisu, pokud během této směny zaměstnanec vykonával práci alespoň 3 hodiny a nevznikl mu během této směny nárok na stravné v rámci cestovních náhrad podle jiného právního předpisu, a to v úhrnu do výše 70 % horní hranice stravného, které lze poskytnout zaměstnancům odměňovaným platem při pracovní cestě trvající 5 až 12 hodin, a v úhrnu do výše 70 % této hranice, je-li příspěvek poskytnut jako další příspěvek v rámci stejné směny, pokud její délka v úhrnu s přestávkou v práci povinně poskytovanou zaměstnavatelem podle jiného právního předpisu je delší než 11 hodin; v případě zaměstnance vykonávajícího činnost, ze které plyne příjem ze závislé činnosti, jejíž výkon není rozvržen na směny podle jiného právního předpisu, je příjem ve formě příspěvku na stravování poskytnutého zaměstnavatelem od daně osvobozen, pokud během kalendářního dne zaměstnanec vykonával práci alespoň 3 hodiny a nevznikl mu během tohoto dne nárok na stravné v rámci cestovních náhrad podle jiného právního předpisu ani na stravné v rámci cestovních náhrad na základě smlouvy, a to v úhrnu do výše 70 % horní hranice stravného, které lze poskytnout zaměstnancům odměňovaným platem při pracovní cestě trvající 5 až 12 hodin, a v úhrnu do výše 70 % této hranice, je-li příspěvek poskytnut jako další příspěvek v rámci stejného kalendářního dne, pokud během tohoto dne zaměstnanec vykonával práci alespoň 11 hodin; příspěvkem na stravování se pro účely daní z příjmů rozumí
+>
+> - 1. stravování poskytované jako nepeněžní plnění ke spotřebě na pracovišti zaměstnance nebo v rámci stravování zajišťovaného prostřednictvím jiného subjektu než zaměstnavatele a
+>
+> - 2. peněžitý příspěvek na stravování,
+>
+> - c) hodnota nealkoholických nápojů poskytovaných jako nepeněžní plnění ze sociálního fondu, ze zisku (příjmu) po jeho zdanění anebo na vrub výdajů (nákladů), které nejsou výdaji (náklady) na dosažení, zajištění a udržení příjmů zaměstnavatelem zaměstnancům ke spotřebě na pracovišti,
+>
+> - d) nepeněžní plnění, která nejsou mzdou, platem, odměnou ani náhradou za ušlý příjem, poskytovaná zaměstnavatelem zaměstnanci nebo jeho rodinnému příslušníkovi z fondu kulturních a sociálních potřeb, ze sociálního fondu, ze zisku (příjmu) po jeho zdanění anebo na vrub výdajů (nákladů), které nejsou výdaji (náklady) na dosažení, zajištění a udržení příjmů, ve formě
+>
+> - 1. pořízení zboží nebo služeb zdravotního, léčebného, hygienického a obdobného charakteru od zdravotnických zařízení nebo pořízení zdravotnických prostředků na lékařský předpis; tato plnění jsou osvobozena v úhrnu do výše průměrné mzdy za zdaňovací období,
+>
+> - 2. použití vzdělávacích nebo rekreačních zařízení, poskytnutí rekreace nebo zájezdu, použití zařízení péče o děti předškolního věku včetně mateřské školy podle školského zákona, knihovny zaměstnavatele nebo tělovýchovných a sportovních zařízení nebo poskytnutí příspěvku na kulturní nebo sportovní akce nebo příspěvku na tištěné knihy, včetně obrázkových knih pro děti, mimo knih, ve kterých reklama přesahuje 50 % plochy; tato plnění jsou osvobozena v úhrnu do výše poloviny průměrné mzdy za zdaňovací období,
+>
+> - e) zvýhodnění poskytovaná zaměstnavatelem provozujícím veřejnou dopravu osob svým zaměstnancům a jejich rodinným příslušníkům ve formě bezplatných nebo zlevněných jízdenek,
+>
+> - f) příjmy ze závislé činnosti vykonávané na území České republiky, plynoucí poplatníkům daně z příjmů fyzických osob, kteří jsou daňovými nerezidenty, od zaměstnavatelů se sídlem nebo bydlištěm v zahraničí, pokud časové období související s výkonem této činnosti nepřesáhne 183 dnů v jakémkoliv období 12 měsíců po sobě jdoucích, a to s výjimkou příjmů z
+>
+> - 1. osobně a veřejně vykonávané činnosti umělce, sportovce, artisty nebo spoluúčinkující osoby a
+>
+> - 2. činnosti vykonávané ve stálé provozovně,
+>
+> - g) nepeněžní příjmy plynoucí z účasti zaměstnance nebo jeho rodinného příslušníka na společenské akci, včetně té s kulturním nebo sportovním prvkem, pořádané zaměstnavatelem pro omezený okruh účastníků, pokud vzhledem k její povaze je pořádání takové akce zaměstnavateli obvyklé a její forma a rozsah jsou přiměřené,
+>
+> - h) peněžní plnění za výstrojní a proviantní náležitosti poskytované příslušníkům ozbrojených sil a naturální náležitosti poskytované příslušníkům bezpečnostních sborů podle zvláštních právních předpisů,3) zvláštní požitky poskytované příslušníkům bezpečnostních sborů podle zvláštního právního předpisu6b) a náhrada majetkové újmy podle zvláštního právního předpisu,6c)
+>
+> - ch) náhrady za ztrátu na služebním příjmu (platu) poskytované příslušníkům ozbrojených sil a bezpečnostních sborů podle zvláštních právních předpisů,3)
+>
+> - i) hodnota přechodného ubytování, nejde-li o ubytování při pracovní cestě, poskytovaná jako nepeněžní plnění zaměstnavatelem zaměstnancům v souvislosti s výkonem práce, pokud obec přechodného ubytování není shodná s obcí, kde má zaměstnanec bydliště, a to maximálně do výše 3 500 Kč měsíčně,
+>
+> - j) náhrada za ztrátu na důchodu přiznaná podle [[zákoníku práce|zákoníku práce]] za dobu před 1. lednem 1989 a vyplácená po 31. prosinci 1992,
+>
+> - k) příjmy za práci žáků a studentů z praktického vyučování a praktické přípravy,
+>
+> - l) zvláštní příplatek nebo příplatek za službu v zahraničí poskytovaný podle zvláštních právních předpisů vojákům a příslušníkům bezpečnostních sborů6e) vyslaným v rámci jednotky mnohonárodních sil nebo mezinárodních bezpečnostních sborů mimo území České republiky po dobu působení v zahraničí,
+>
+> - m) příjem v podobě příspěvku uhrazeného zaměstnavatelem na daňově podporované produkty spoření na stáří jeho zaměstnance nebo na daňově podporované pojištění dlouhodobé péče, jehož pojistníkem je jeho zaměstnanec, do úhrnné výše 50 000 Kč ročně,
+>
+> - n) naturální plnění poskytované podle zvláštních právních předpisů6g) představitelům státní moci a některých státních orgánů a soudcům a bývalému prezidentu republiky podle zákona upravujícího zabezpečení prezidenta republiky po skončení funkce,
+>
+> - o) náhrada prokázaných výdajů poskytovaná podle zvláštních právních předpisů6g) představitelům státní moci a některých státních orgánů a soudcům, jde-li o
+>
+> - 1. výdaje na leteckou dopravu při tuzemských cestách spojených s výkonem funkce (dále jen „tuzemská cesta“),
+>
+> - 2. výdaje na dopravu při zahraničních cestách spojených s výkonem funkce (dále jen „zahraniční cesta“),
+>
+> - 3. výdaje na stravování při tuzemských cestách,
+>
+> - 4. výdaje na stravování a některé další výdaje při zahraničních cestách,
+>
+> - 5. výdaje na ubytování při tuzemských cestách,
+>
+> - 6. výdaje na ubytování při zahraničních cestách,
+>
+> - 7. výdaje na přechodné ubytování v místě sídla orgánu, v němž vykonává funkci,
+>
+> - 8. výdaje na odborné a administrativní práce,
+>
+> - 9. výdaje na činnost průvodce nebo osobního asistenta,
+>
+> - 10. výdaje na dopravu veřejnými hromadnými dopravními prostředky soudci při tuzemských cestách,
+>
+> - p) příjem získaný ve formě náhrady mzdy, platu nebo odměny nebo sníženého platu nebo snížené odměny za dobu dočasné pracovní neschopnosti nebo karantény podle zvláštních právních předpisů47a), do výše minimálního nároku určeného zvláštním právním předpisem upravujícím pracovně právní vztahy47b),
+>
+> - q) částky vynaložené zaměstnavatelem na úhradu výdajů spojených s výplatou mzdy a se srážkami ze mzdy zaměstnanci, s placením příspěvku na pojistné (připojištění) ve prospěch zaměstnance, jakož i částky vynaložené zaměstnavatelem na úhradu výdajů spojených s poskytováním nepeněžitého plnění zaměstnanci,
+>
+> - r) příjem od téhož zaměstnavatele plynoucí zaměstnanci v podobě majetkového prospěchu při bezúročné zápůjčce až do úhrnné výše jistin 300 000 Kč z těchto zápůjček; majetkový prospěch z bezúročných zápůjček přesahujících výši jistin 300 000 Kč vypočtený za jednotlivé kalendářní měsíce se oceňuje podle odstavce 3 a zahrnuje do základu daně alespoň jednou za zdaňovací období, a to nejpozději při zúčtování mzdy za měsíc prosinec,
+>
+> - s) zvláštní odměna za výkon funkce člena okrskové volební komise a člena zvláštní okrskové volební komise,
+>
+> - t) příjem zaměstnance ve formě stravování poskytovaného jako nepeněžní plnění určené k přímé spotřebě na pracovišti zaměstnavatele nebo k přímé spotřebě v rámci stravování zajišťovaného prostřednictvím jiného subjektu než zaměstnavatele poskytnutého zaměstnavatelem, u kterého tento zaměstnanec do svého odchodu do starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně vykonával činnost, ze které plynul příjem ze závislé činnosti, a to v úhrnu za kalendářní den do výše 70 % horní hranice stravného, které lze poskytnout zaměstnancům odměňovaným platem při pracovní cestě trvající 5 až 12 hodin, snížené o výši příjmu poskytnutého tímto zaměstnavatelem osvobozeného podle písmene b).
+>
+> (10) Funkčními požitky jsou
+>
+> - a) funkční platy a plnění poskytovaná v souvislosti se současným nebo dřívějším výkonem funkce, jejichž výše se stanoví podle zákona upravujícího platy a další náležitosti spojené s výkonem funkce představitelů státní moci, některých státních orgánů a soudců138) a zákona upravujícího zabezpečení prezidenta republiky po skončení funkce,
+>
+> - b) odměny za výkon funkce a plnění poskytovaná v souvislosti se současným nebo dřívějším výkonem funkce v
+>
+> - 1. orgánech obcí a jiných orgánech územní samosprávy,
+>
+> - 2. státních orgánech,
+>
+> - 3. spolcích a zájmových sdruženích,
+>
+> - 4. odborových organizacích,
+>
+> - 5. komorách,
+>
+> - 6. jiných orgánech a institucích.
+>
+> (11) Za funkční požitek se nepovažují příjmy znalců a tlumočníků, zprostředkovatelů kolektivních sporů a rozhodců za činnost vykonávanou podle zvláštních předpisů.
+>
+> (12) Základem daně (dílčím základem daně) jsou příjmy ze závislé činnosti.
+>
+> (13) Jedná-li se o příjem plynoucí ze zdrojů v zahraničí, základem daně poplatníka daně z příjmů fyzických osob, který je daňovým rezidentem České republiky, je příjem ze závislé činnosti vykonávané ve státě, s nímž nemá Česká republika uzavřenu mezinárodní smlouvu upravující zamezení dvojímu zdanění všech druhů příjmů, která je prováděna, snížený o daň zaplacenou z tohoto příjmu v zahraničí. Je-li činnost, ze které plyne příjem ze závislé činnosti, vykonávaná ve státě, s nímž má Česká republika uzavřenu mezinárodní smlouvu upravující zamezení dvojímu zdanění všech druhů příjmů, která je prováděna, základem daně poplatníka daně z příjmů fyzických osob, který je daňovým rezidentem České republiky, je příjem ze závislé činnosti vykonávané v tomto státě; tento příjem lze snížit o daň zaplacenou z tohoto příjmu ve státě, s nímž má Česká republika uzavřenu mezinárodní smlouvu upravující zamezení dvojímu zdanění všech druhů příjmů, která je prováděna, a to pouze v rozsahu, ve kterém ji nebylo možno započíst na daňovou povinnost v tuzemsku podle [[#§ 38f|§ 38f]] v bezprostředně předchozím zdaňovacím období. Přitom se musí jednat o nezapočtenou daň z příjmů, které se zahrnují do základu daně. Příjem ze závislé činnosti plynoucí ze zdrojů v zahraničí nelze snížit o daň zaplacenou v zahraničí v rozsahu, ve kterém přesahuje výši uvedenou v mezinárodní smlouvě nebo v právním předpisu jiného státu.
+>
+> (14) Příjem zaměstnance podle odstavce 3 věty třetí se v případě nabytí podílu v obchodní korporaci, která je zaměstnavatelem, u něhož vykonává činnost, ze které mu plynou příjmy podle odstavce 1 písm. a) až c), nebo nabytí podílu v obchodní korporaci, která je mateřskou nebo dceřinou společností nebo kapitálově spojenou osobou tohoto zaměstnavatele, nebo opce na nabytí tohoto podílu považuje za zúčtovaný příjem v kalendářním měsíci nebo za příjem ve zdaňovacím období, ve kterých nastane první z okamžiků, kterými jsou
+>
+> - a) okamžik, ke kterému zaměstnanec přestane vykonávat činnost, ze které mu plynou příjmy podle odstavce 1 písm. a) až c) u tohoto zaměstnavatele, jeho mateřské nebo dceřiné společnosti nebo kapitálově spojené osoby nebo u jeho právního nástupce,
+>
+> - b) okamžik vstupu tohoto zaměstnavatele do likvidace,
+>
+> - c) okamžik převodu nebo přechodu tohoto podílu nebo této opce,
+>
+> - d) okamžik uplatnění opce,
+>
+> - e) okamžik výměny podílu, při které se mění celková jmenovitá hodnota podílů zaměstnance,
+>
+> - f) okamžik uplynutí 15 let ode dne nabytí podílu nebo opce.
+>
+> (15) Příjem podle odstavce 14 lze snížit o kladný rozdíl mezi hodnotou podílu v obchodní korporaci, která je zaměstnavatelem, u něhož poplatník vykonává činnost, ze které mu plynou příjmy podle odstavce 1 písm. a) až c), podílu v obchodní korporaci, která je mateřskou nebo dceřinou společností nebo kapitálově spojenou osobou tohoto zaměstnavatele, nebo hodnotou opce na nabytí tohoto podílu určenou podle [[zákona upravujícího oceňování majetku|zákona upravujícího oceňování majetku]] k okamžiku nabytí tohoto podílu nebo opce a hodnotou tohoto podílu nebo opce určenou podle [[zákona upravujícího oceňování majetku|zákona upravujícího oceňování majetku]] k prvnímu z okamžiků podle odstavce 14 písm. a) až f) zvýšenou o úhrn příjmů z podílu na zisku, vypořádacího podílu, vrácení emisního ážia, vrácení příplatku mimo základní kapitál a z plnění obdobných těmto plněním vyplacených na základě tohoto podílu snížených o daň z těchto příjmů.
+>
+> (16) Poplatník oznámí plátci daně okamžik podle odstavce 14 písm. c) do posledního dne kalendářního měsíce, ve kterém tento okamžik nastal.
+>
+> (17) Postup podle odstavců 14 až 16 a § 38j odst. 2 písm. f) bodu 8 se použije, pouze pokud zaměstnavatel oznámí správci daně záměr použít tento postup do 20. dne kalendářního měsíce následujícího po kalendářním měsíci, ve kterém zaměstnanec nabyl podíl nebo opci podle odstavce 14.
+>
+> (18) Nepeněžní příjem zaměstnance ve formě použití zařízení péče o děti předškolního věku včetně mateřské školy podle školského zákona rodinným příslušníkem tohoto zaměstnance se ocení v místě a čase obvyklou cenou za použití mateřské školy zřízené státem, krajem, obcí nebo dobrovolným svazkem obcí, nebo nejvyšší měsíční úplatou za předškolní vzdělávání podle vyhlášky upravující předškolní vzdělávání, a to za každý kalendářní měsíc poměrně podle doby používání tohoto zařízení rodinným příslušníkem v daném měsíci. Způsob ocenění podle věty první zvolí zaměstnavatel.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 17, § 6a, § 38k, § 5, § 7, § 36, § 3, § 4, § 38f, § 38j
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17cb153c50764b1aab04 -->
+
 ### § 6a — Kvalifikované zaměstnanecké opce
 
 <details><summary>📜 <b>Text § 6a</b></summary>
@@ -654,3 +886,120 @@ Splnění oznamovací povinnosti je **podmínkou** uplatnění zvýhodněného r
 - [ ] Stanovit příjem dle odst. 7 (rozdíl nad vyšší z částek; odhlédnout od umělého navýšení ceny a porušení → § 23 odst. 7).
 
 **Typicky rozhodné důkazy / podklady:** opční smlouva, znalecké ocenění tržní ceny podílu k okamžiku poskytnutí i uplatnění, účetní závěrky pro doložení velikostních limitů, mzdové listy k prahu příjmů, doklady o podání obou oznámení správci daně.
+
+<!-- LEGAL-REVISION:BEGIN id=eff0cf83dc207c78968b generator=2026-07-17.4 source_sha256=91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558 -->
+#### Revizní doplnění k § 6a — Kvalifikované zaměstnanecké opce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/586-1992 Zákon České národní rady o daních z příjmů.md`; identifikátor verze: `SB-1992-00586_2026-04-01`; SHA-256: `91e3fdc3fe83c491ca0e6ec1db4ffda5586045e2355d09de396e375a7b2c8558`.
+
+##### Znění ustanovení
+
+> (1) Kvalifikovanou zaměstnaneckou opcí je nepřevoditelný příslib nabýt kvalifikovaný obchodní podíl,
+>
+> - a) který je poskytnutý bezúplatně kvalifikovaným zaměstnavatelem kvalifikovanému zaměstnanci,
+>
+> - b) který je poskytnutý na základě písemné smlouvy, který opravňuje kvalifikovaného zaměstnance nabýt kvalifikovaný obchodní podíl za sjednanou opční cenu,
+>
+> - c) jehož poskytnutí bude oznámeno správci daně podle odstavce 8,
+>
+> - d) podle kterého může být kvalifikovaný obchodní podíl nabyt nejdříve za 3 roky od data poskytnutí příslibu kvalifikovanému zaměstnanci nebo za dobu kratší, pokud k uplatnění nebo finančnímu vypořádání kvalifikované opce dochází v přímé souvislosti s převodem nebo přechodem nejméně 67 % podílu na základním kapitálu kvalifikovaného zaměstnavatele nebo přímo ovládající osoby kvalifikovaného zaměstnavatele mající na něm k okamžiku poskytnutí příslibu přímý nebo nepřímý podíl dosahující alespoň 50 % základního kapitálu jiné osobě, která není spojenou osobou s tímto kvalifikovaným zaměstnavatelem ani s žádným členem skupiny kvalifikovaného zaměstnavatele, nebo v souvislosti se vstupem akcií emitovaných kvalifikovaným zaměstnavatelem nebo ovládající osoby na veřejný akciový trh, a
+>
+> - e) u kterého je sjednána povinnost kvalifikovaného zaměstnavatele sdělit kvalifikovanému zaměstnanci nejpozději do konce měsíce, ve kterém byla zaměstnanci poskytnuta kvalifikovaná zaměstnanecká opce, výši tržní ceny kvalifikovaného obchodního podílu k okamžiku poskytnutí příslibu a k okamžiku jeho uplatnění nebo finančního vypořádání.
+>
+> (2) Kvalifikovaným zaměstnancem se rozumí poplatník,
+>
+> - a) u něhož úhrn kvalifikovaných obchodních podílů v okamžiku poskytnutí kvalifikované zaměstnanecké opce, které nabyl uplatněním kvalifikovaných zaměstnaneckých opcí jemu poskytnutých nebo které je oprávněn nabýt na základě kvalifikovaných zaměstnaneckých opcí jemu poskytnutých nepřesahuje 5 %; tímto úhrnem se rozumí součet v procentech vyjádřeného obchodního podílu na základním kapitálu kvalifikovaného zaměstnavatele a v procentech vyjádřeného obchodního podílu na přímo ovládající osobě kvalifikovaného zaměstnavatele mající na něm přímý nebo nepřímý podíl dosahující alespoň 50 % základního kapitálu kvalifikovaného zaměstnavatele,
+>
+> - b) jehož výkon činnosti, ze které mu plynou příjmy ze závislé činnosti podle § 6 odst. 1 písm. a) až c), pro kvalifikovaného zaměstnavatele bude trvat v období mezi poskytnutím kvalifikované zaměstnanecké opce a jejím uplatněním nebo finančním vypořádáním nejméně 12 měsíců a
+>
+> - c) jehož úhrn příjmů ze závislé činnosti jiných než dosaženým uplatněním nebo finančním vypořádáním kvalifikovaných zaměstnaneckých opcí přijatých po dobu trvání zaměstnání dosáhne nejméně 1,2násobku měsíční minimální mzdy platné v okamžiku poskytnutí kvalifikované opce za každý měsíc výkonu činností podle písmene b).
+>
+> (3) Kvalifikovaným zaměstnavatelem se rozumí osoba, pokud v okamžiku poskytnutí kvalifikované zaměstnanecké opce
+>
+> - a) její roční obrat zjištěný z poslední schválené účetní závěrky před poskytnutím kvalifikované zaměstnanecké opce nepřesahuje částku 2 500 000 000 Kč a její úhrn aktiv zjištěný z této účetní závěrky nepřesahuje částku 2 000 000 000 Kč,
+>
+> - b) není členem skupiny kvalifikovaného zaměstnavatele, jejíž roční obrat zjištěný z poslední schválené účetní závěrky před poskytnutím kvalifikované zaměstnanecké opce přesahuje částku 2 500 000 000 Kč nebo jejíž úhrn aktiv přesahuje částku 2 000 000 000 Kč; v případě, že skupina kvalifikovaného zaměstnavatele nemá povinnost konsolidovanou účetní závěrku sestavit nebo konsolidovaná účetní závěrka nebyla schválena, údaje o hodnotě aktiv a ročním obratu se stanoví výpočtem při uplatnění konsolidačních pravidel platných pro ovládající osobu skupiny,
+>
+> - c) sama ani jiný člen ze skupiny kvalifikovaného zaměstnavatele není
+>
+> - 1. bankou,
+>
+> - 2. pojišťovnou nebo zajišťovnou,
+>
+> - 3. organizací podle [[horního zákona|horního zákona]],
+>
+> - 4. advokátem nebo společností poskytující právní služby podle [[zákona upravujícího advokacii|zákona upravujícího advokacii]],
+>
+> - 5. daňovým poradcem nebo společností podle [[zákona upravujícího daňové poradenství|zákona upravujícího daňové poradenství]], nebo
+>
+> - 6. auditorem nebo auditorskou společností podle [[zákona upravujícího auditorskou činnost|zákona upravujícího auditorskou činnost]].
+>
+> (4) Kvalifikovaným obchodním podílem je obchodní podíl na kvalifikovaném zaměstnavateli nebo obchodní podíl na přímo ovládající osobě kvalifikovaného zaměstnavatele mající na něm přímý podíl dosahující alespoň 50 % základního kapitálu.
+>
+> (5) Skupinu kvalifikovaného zaměstnavatele pro účely [[#§ 6a|§ 6a]] tvoří
+>
+> - a) ovládající osoba, která
+>
+> - 1. není ovládána jinou účetní jednotkou podle [[zákona upravujícího účetnictví|zákona upravujícího účetnictví]] nebo zahraniční jednotkou s povinností vést účetnictví podle právních předpisů státu, podle jehož právních předpisů byla založena nebo zřízena, a
+>
+> - 2. je účetní jednotkou podle [[zákona upravujícího účetnictví|zákona upravujícího účetnictví]] nebo zahraniční jednotkou s povinností vést účetnictví podle právních předpisů státu, podle jehož právních předpisů byla založena nebo zřízena, a
+>
+> - b) osoby, které
+>
+> - 1. ovládající osoba uvedená v písmeni a) ovládá sama nebo společně s jinou osobou a
+>
+> - 2. jsou účetní jednotkou podle [[zákona upravujícího účetnictví|zákona upravujícího účetnictví]] nebo zahraniční jednotkou s povinností vést účetnictví podle právních předpisů státu, podle jehož právních předpisů byla založena nebo zřízena.
+>
+> (6) Společným ovládáním se pro účely určení skupiny kvalifikovaného zaměstnavatele rozumí ovládání na základě smlouvy, podle které se pro rozhodování vyžaduje jednomyslná shoda.
+>
+> (7) Příjem z uplatnění kvalifikované zaměstnanecké opce je příjem dosažený uplatněním kvalifikované zaměstnanecké opce ve výši rozdílu, o který tržní cena kvalifikovaného obchodního podílu získaného uplatněním kvalifikované zaměstnanecké opce v okamžiku jejího uplatnění převyšuje vyšší z částek tržní ceny kvalifikovaného obchodního podílu v okamžiku poskytnutí kvalifikované zaměstnanecké opce a sjednané opční ceny. Příjem z finančního vypořádání kvalifikované zaměstnanecké opce je příjem dosažený finančním vypořádáním kvalifikované zaměstnanecké opce maximálně ve výši rozdílu, o který tržní cena kvalifikovaného obchodního podílu k datu finančního vypořádání kvalifikované zaměstnanecké opce převyšuje vyšší z částek tržní ceny kvalifikovaného obchodního podílu v okamžiku poskytnutí kvalifikované zaměstnanecké opce a sjednané opční ceny. Při stanovení příjmu se nepřihlíží k nárůstu tržní ceny kvalifikovaného obchodního podílu, který byl zapříčiněn vkladem, přeměnou a dalšími operacemi podobné povahy. Obdobně se odhlédne od operací zvyšujících cenu kvalifikovaného obchodního podílu, pokud nebyly souladné s § 23 odst. 7, a to v míře tohoto nesouladu.
+>
+> (8) Kvalifikovaný zaměstnavatel oznámí správci daně ve lhůtě pro podání jednotného měsíčního hlášení zaměstnavatele za měsíc, ve kterém byla kvalifikovanému zaměstnanci poskytnuta kvalifikovaná zaměstnanecká opce,
+>
+> - a) datum poskytnutí kvalifikované zaměstnanecké opce, u které se uplatňuje daňový režim uvedený v § 10 odst. 1 písm. q), kvalifikovanému zaměstnanci,
+>
+> - b) sjednanou opční cenu a výši tržní ceny kvalifikovaného obchodního podílu stanoveného ke dni poskytnutí kvalifikované zaměstnanecké opce a
+>
+> - c) identifikační údaje kvalifikovaného zaměstnance.
+>
+> (9) Kvalifikovaný zaměstnavatel oznámí správci daně ve lhůtě pro podání jednotného měsíčního hlášení zaměstnavatele za měsíc, ve kterém byla kvalifikovaná zaměstnanecká opce uplatněna nebo finančně vypořádána,
+>
+> - a) identifikační údaje kvalifikovaného zaměstnance a
+>
+> - b) datum uplatnění nebo finančního vypořádání kvalifikované zaměstnanecké opce, výši a hodnotu kvalifikovaného obchodního podílu získaného realizací kvalifikované zaměstnanecké opce kvalifikovaným zaměstnancem nebo výši jejího finančního vypořádání vyplaceného kvalifikovanému zaměstnanci a okolnosti finančního vypořádání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 23, § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eff0cf83dc207c78968b -->
